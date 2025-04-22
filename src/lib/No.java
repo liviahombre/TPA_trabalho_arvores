@@ -23,4 +23,34 @@ public class No<T> {
     public No<T> getDireita() {
         return direita;
     }
+
+    public void setEsquerda(No<T> esquerda) {
+        this.esquerda = esquerda;
+    }
+
+    public void setDireita(No<T> direita) {
+        this.direita = direita;
+    }
+
+    public int getAltura() {
+        int alturaEsquerda = (esquerda != null) ? esquerda.getAltura() : -1;
+        int alturaDireita = (direita != null) ? direita.getAltura() : -1;
+        return Math.max(alturaEsquerda, alturaDireita) + 1;
+    }
+
+    /*
+     *        o
+     *       / \
+     *      o   o
+     *     / \  
+     *    o   o
+     * 
+     * true: get esquerda |  
+     * 
+     *         O
+         ...¬_/|\
+    *         / \
+     *
+     */
+
 }
