@@ -5,11 +5,13 @@ public class No<T> {
     private T valor;
     private No<T> esquerda;
     private No<T> direita;
+    private No<T> pai;
 
     public No(T valor) {
         this.valor = valor;
         this.esquerda = null;
         this.direita = null;
+        this.pai = null;
     }
 
     public T getValor() {
@@ -24,6 +26,10 @@ public class No<T> {
         return direita;
     }
 
+    public No<T> getPai() {
+        return pai;
+    }
+
     public void setEsquerda(No<T> esquerda) {
         this.esquerda = esquerda;
     }
@@ -32,25 +38,31 @@ public class No<T> {
         this.direita = direita;
     }
 
-    public int getAltura() {
-        int alturaEsquerda = (esquerda != null) ? esquerda.getAltura() : -1;
-        int alturaDireita = (direita != null) ? direita.getAltura() : -1;
-        return Math.max(alturaEsquerda, alturaDireita) + 1;
+    public void setPai(No<T> pai) {
+        this.pai = pai;
     }
 
     /*
-     *        o
+     *          __ o __
+     *        /         \
+     *       o           o
+     *     /   \       /   \
+     *    o     o     o     o
+     *   / \   / \   / \   / \
+     *  o   o o   o o   o o   o
+     * 
+     * 
+     *   
+     * Homemzinho em ASCII (armado):
+     *        O
+     *   ...¬/|\
      *       / \
-     *      o   o
-     *     / \  
-     *    o   o
-     * 
-     * true: get esquerda |  
-     * 
-     *         O
-         ...¬_/|\
-    *         / \
      *
+     * Homemzinho em ACII (cavaleiro):
+     *        O
+     *      [/|\->~~~
+     *       / \ 
+     * 
      */
 
 }
