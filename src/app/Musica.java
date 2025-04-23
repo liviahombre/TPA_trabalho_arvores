@@ -1,45 +1,37 @@
 package app;
 
-
 public class Musica {
-    private String nome;
-    private String artista;
-    private int duracao; // em segundos
-    private int visualizacoes;  
+    private Long index;
+    private String nome, autor;
+    private Long views;
 
-    public Musica(String nome, String artista, int duracao, int visualizacoes) {
+    public Musica (String nome, String autor, Long views) {
+        
+        this.index = System.nanoTime();
         this.nome = nome;
-        this.artista = artista;
-        this.duracao = duracao;
-        this.visualizacoes = visualizacoes;
+        this.autor = autor;
+        this.views = views;
+
+    }
+
+    public Long getIndex() {
+        return index;
     }
 
     public String getNome() {
         return nome;
     }
 
-    public String getArtista() {
-        return artista;
+    public String getAutor() {
+        return autor;
     }
 
-    public int getDuracao() {
-        return duracao;
-    }
-
-    public int getVisualizacoes() {
-        return visualizacoes;
-    }
-
-    @Override
-    public boolean equals(Object obj) {
-        if (this == obj) return true;
-        if (obj == null || getClass() != obj.getClass()) return false;
-        Musica musica = (Musica) obj;
-        return duracao == musica.duracao && nome.equals(musica.nome) && artista.equals(musica.artista) && visualizacoes == musica.visualizacoes;
+    public Long getViews() {
+        return views;
     }
 
     @Override
     public String toString() {
-        return "Nome: " + nome + ", Artista: " + artista + ", Duração: " + duracao + " segundos" + ", Visualizações: " + visualizacoes;
+        return "Musica: " + getNome() + " - Autor: " + getAutor();
     }
 }
