@@ -53,16 +53,11 @@ public abstract class AbstractArvore<T> implements IArvoreBinaria<T> {
             return null;
         }
 
-        int comparacao = novoComparador.compare(valor, no.getValor());
-
-        if (comparacao == 0) {
-            return no.getValor();
-        } else if (comparacao < 0) {
-            return pesquisarRecursivo(no.getEsquerda(), valor, novoComparador);
-        } else {
-            return pesquisarRecursivo(no.getDireita(), valor, novoComparador);
-        }
-    }
+        if (novoComparador.compare(valor, no.getValor()) == 0) return valor;
+        if (pesquisarRecursivo(no.getEsquerda(), valor, novoComparador) == valor) return valor;
+        if (pesquisarRecursivo(no.getDireita(), valor, novoComparador) == valor) return valor;
+        return null;
+    }  
 
     @Override
     public T remover(T valor) {

@@ -31,9 +31,12 @@ public class Entrada {
                 System.out.println("Digite o nome do autor:");
                 String nomeArtista = s.nextLine();
                 System.out.println("Digite a quantidade de visualizações:");
-                Long views = s.nextLong();
+                int views = s.nextInt();
+                System.out.println("Digite a duracao:");
+                int duracao = s.nextInt();
+                int index = arvore.quantidadeNos() + 1;
 
-                Musica musica = new Musica(nomeMusica, nomeArtista, views);
+                Musica musica = new Musica(index, nomeMusica, nomeArtista, views, duracao);
                 arvore.adicionar(musica);
 
                 limpartela();
