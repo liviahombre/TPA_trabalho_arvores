@@ -10,34 +10,35 @@ public class GeradorDeMusicas {
     private static final int NUM_REGISTROS = 1000; // Você pode ajustar para 100000 se quiser
     private static final String NOME_ARQUIVO = "musicas.txt";
 
-    private static final String[] NOMES_MUSICAS = {
-        "Reflexo da Alma", "Som do Mar", "Dança da Lua", "Pôr do Sol", "Luz na Estrada", 
-        "Tempestade de Emoções", "No Coração da Noite", "Harmonia do Universo", "Caminho das Estrelas", 
-        "Ventos do Destino", "Ecos da Liberdade", "Tarde Dourada", "O Último Abraço", 
-        "Fuga para a Realidade", "Sombras no Horizonte", "Canção da Esperança", "Ritmo do Coração", 
-        "Estrela Solitária", "Canção dos Ventos", "O Que Restou de Nós",
-        "Caminhos Cruzados", "Reflexões do Amanhã", "Amanhecer Radiante", "Noite de Inverno",
-        "Cores do Outono", "Sussurros do Passado", "A Dança da Vida", "Entre Sombras e Luz",
-        "Caminho da Esperança", "Ecos do Amanhã", "A Magia do Amor", "Noite de Verão"
+    static String[] substantivos = {
+        "Noite", "Luz", "Sombra", "Caminho", "Destino", "Fogo", "Chuva", "Sonho", "Alma", "Vento",
+        "Céu", "Flor", "Raio", "Silêncio", "Ecos", "Mar", "Estrela", "Sol", "Terra", "Grito",
+        "Memória", "Chama", "Som", "Tempo", "Horizonte", "Brisa", "Folha", "Verdade", "Segredo", "Olhar",
+        "Voz", "Areia", "Fronteira", "Espelho", "Abismo", "Muralha", "Relâmpago", "Corrente", "Miragem", "Coração"
     };
 
-    private static final String[] ARTISTAS = {
-        "Lucas Martins", "Lara Oliveira", "Roberta Souza", "Eduardo Costa", "Laura Oliveira", 
-        "Marcos Silva", "Aline Pereira", "Gustavo Rodrigues", "Carolina Lima", "Thiago Santana", 
-        "Mariana Costa", "João Almeida", "Fabiana Silva", "Rafael Gomes", "Denise Oliveira", 
-        "Pedro Henrique", "Julia Santos", "Fernanda Carvalho", "Roberto Ferreira", "Ingrid Santana"
-        , "Felipe Almeida", "Tatiane Lima", "André Costa", "Juliana Martins", "Ricardo Santos",
-        "Camila Almeida", "Bruno Oliveira", "Patrícia Lima", "Vinícius Ferreira", "Ana Paula Santos",
-        "Thiago Almeida", "Juliana Ferreira", "Gabriel Santos", "Fernanda Almeida", "Lucas Ferreira",
-        "Mariana Almeida", "Rafael Santos", "Tatiane Ferreira", "André Almeida", "Juliana Costa",
-        "Ricardo Ferreira", "Camila Santos", "Bruno Almeida", "Patrícia Ferreira", "Vinícius Santos"
+    static String[] adjetivos = {
+        "Perdido", "Infinito", "Partido", "Negro", "Doce", "Cruel", "Sagrado", "Vermelho", "Vazio",
+        "Solitário", "Velho", "Frio", "Calmo", "Profundo", "Brilhante", "Sombrio", "Rápido", "Silencioso",
+        "Distante", "Somente", "Mortal", "Vivo", "Cego", "Lento", "Amargo", "Encantado", "Azul", "Mágico", "Etéreo", "Instável"
     };
 
-    public static void gerar() {
-        gerarArquivo();
+    static String[] sufixosMusicais = {
+        " - Remix", " - Ao Vivo", " - Acústico", " - Vol. 2", " - Demo",
+        " - Instrumental", " - Extended", " - Edit", " - Versão Final", " - 2025"
+    };
+
+    static String[] prefixosArtista = {"DJ", "MC", "Grupo", "Os", "Projeto", "Coletivo", "Orquestra", "Tribo", "Banda", "Senhor"};
+    static String[] nomesArtista = {
+        "Cósmico", "Fantasma", "Acústico", "Digital", "Solar", "Psicodélico", "Ruidoso", "Místico", "Invisível", "Vibrante",
+        "Escuro", "Urbano", "Atômico", "Sônico", "Estelar", "Bravio", "Azul", "Sublime", "Íntimo", "Noturno"
+    };
+
+    public static void gerarOrdenado() {
+        gerarArquivoOrdenado();
     }
 
-    private static void gerarArquivo() {
+    private static void gerarArquivoOrdenado() {
         Random random = new Random();
 
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(NOME_ARQUIVO, StandardCharsets.UTF_8))) {
@@ -47,7 +48,12 @@ public class GeradorDeMusicas {
                 Long index = System.nanoTime(); // Simulando um índice único
                 String nome = gerarNomeMusicaAleatorio(random);
                 String artista = gerarArtistaAleatorio(random);
+<<<<<<< HEAD
                 int visualizacoes = random.nextInt(500000); 
+=======
+                int duracao = 60 + random.nextInt(540); 
+                int visualizacoes = random.nextInt(5000000); 
+>>>>>>> 037930bfb23f39554777c0242fea6827500061de
 
                 writer.write(i + ";"+ index + ";" + nome + ";" + artista + ";" + visualizacoes + "\n");
 
@@ -62,12 +68,95 @@ public class GeradorDeMusicas {
         }
     }
 
+    public static void gerarBalanceado() {
+        gerarArquivoBalanceado();
+    }
+
+    private static void gerarArquivoBalanceado() {
+        Random random = new Random();
+
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter(NOME_ARQUIVO, StandardCharsets.UTF_8))) {
+            writer.write(NUM_REGISTROS + "\n");
+
+            for (int i = 1; i <= NUM_REGISTROS; i++) {
+                String nome = gerarNomeMusicaAleatorio(random);
+                String artista = gerarArtistaAleatorio(random);
+                int duracao = 60 + random.nextInt(540); 
+                int visualizacoes = random.nextInt(5000000); 
+                int index = obterIndiceBalanceado(NUM_REGISTROS, i);
+
+                writer.write(index + ";" + nome + ";" + artista + ";" + duracao + ";" + visualizacoes + "\n");
+
+                if (i % 10000 == 0) {
+                    System.out.println(i + " músicas geradas...");
+                }
+            }
+
+            System.out.println("Arquivo gerado com sucesso: " + NOME_ARQUIVO);
+        } catch (IOException e) {
+            System.err.println("Erro ao escrever no arquivo: " + e.getMessage());
+        }
+    }
+
+    private static int encontrarIndiceBalanceado(int inicio, int fim, int[] k) {
+        if (inicio > fim) return -1;
+
+        int meio = (inicio + fim) / 2;
+
+        if (k[0] == 0) return meio;
+
+        k[0]--;
+        int esquerda = encontrarIndiceBalanceado(inicio, meio - 1, k);
+        if (esquerda != -1) return esquerda;
+
+        return encontrarIndiceBalanceado(meio + 1, fim, k);
+    }
+
+    private static int obterIndiceBalanceado(int n, int k) {
+        int[] contador = new int[]{k};  // usar array para mutabilidade
+        return encontrarIndiceBalanceado(0, n - 1, contador);
+    }
+
+
+
     private static String gerarNomeMusicaAleatorio(Random random) {
-        return NOMES_MUSICAS[random.nextInt(NOMES_MUSICAS.length)];
+        String s1 = getAleatorio(substantivos, random);
+        String s2 = getAleatorio(adjetivos, random);
+        String sufixo = random.nextInt(4) == 0 ? getAleatorio(sufixosMusicais, random) : ""; // 25% de chance de ter sufixo
+
+        int tipo = random.nextInt(6);
+        String base;
+        switch (tipo) {
+            case 0: base = s1 + " " + s2; break;
+            case 1: base = "Canção da " + s1; break;
+            case 2: base = "Entre " + s1 + " e " + s2; break;
+            case 3: base = "No " + s1 + " do " + s2; break;
+            case 4: base = "Sob o " + s2 + " " + s1; break;
+            case 5: base = s1 + " do " + s2; break;
+            default: base = s1 + " " + s2;
+        }
+
+        return base + sufixo;
     }
 
     private static String gerarArtistaAleatorio(Random random) {
-        return ARTISTAS[random.nextInt(ARTISTAS.length)];
+        String prefixo = getAleatorio(prefixosArtista, random);
+        String nome = getAleatorio(nomesArtista, random);
+        String extra = getAleatorio(substantivos, random);
+
+        int tipo = random.nextInt(5);
+        switch (tipo) {
+            case 0: return prefixo + " " + nome;
+            case 1: return nome + " " + extra;
+            case 2: return "Os " + nome + "s";
+            case 3: return "Coletivo " + nome;
+            case 4: return "DJ " + nome + " do " + extra;
+            default: return prefixo + " " + nome;
+        }
+    }
+
+    private static String getAleatorio(String[] array, Random random) {
+        return array[random.nextInt(array.length)];
     }
 
     

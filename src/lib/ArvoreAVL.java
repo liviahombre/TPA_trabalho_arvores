@@ -9,12 +9,14 @@ public class ArvoreAVL<T> extends AbstractArvore<T> {
 
     @Override
     public void adicionar(T novoValor) {
-        No<T> novoNo = new No<>(novoValor);
-
-        if (raiz == null) {
-            raiz = novoNo;
-        } else {
-            // TODO: Implementar a lógica de inserção AVL
-        }
+        
+        throw new UnsupportedOperationException("Não há suporte para esse método ainda.");
+        
+        // No<T> novoNo = new No<>(novoValor);
+        // if (raiz == null) {
+        //     raiz = novoNo;
+        // } else {
+        //     TODO: Implementar a lógica de inserção AVL
+        // }
     }
 }

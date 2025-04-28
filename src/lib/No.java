@@ -63,6 +63,10 @@ public class No<T> {
      *      [/|\->~~~
      *       / \ 
      * 
+     * Homemzinho em ASCII (metade)
+     *        o
+     *        |\
+     *         \
      */
 
 }

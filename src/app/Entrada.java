@@ -32,10 +32,17 @@ public class Entrada {
                 System.out.println("Digite o nome do autor:");
                 String nomeArtista = s.nextLine();
                 System.out.println("Digite a quantidade de visualizações:");
+<<<<<<< HEAD
                 Long views = s.nextLong();
                 s.nextLine(); // Limpar o buffer
+=======
+                int views = s.nextInt();
+                System.out.println("Digite a duracao:");
+                int duracao = s.nextInt();
+                int index = arvore.quantidadeNos() + 1;
+>>>>>>> 037930bfb23f39554777c0242fea6827500061de
 
-                Musica musica = new Musica(nomeMusica, nomeArtista, views);
+                Musica musica = new Musica(index, nomeMusica, nomeArtista, views, duracao);
                 arvore.adicionar(musica);
 
                 limpartela();
