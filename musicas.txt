@@ -1,0 +1,1001 @@
+1000
+1;347388829108700;Ritmo do Coração;Gabriel Santos;387366
+2;347388850433500;O Último Abraço;Juliana Ferreira;260782
+3;347388850467600;Ecos do Amanhã;Ana Paula Santos;91686
+4;347388850482200;O Que Restou de Nós;Tatiane Ferreira;192385
+5;347388850503100;Ritmo do Coração;Lucas Martins;332857
+6;347388850515000;Dança da Lua;Camila Santos;343360
+7;347388850527600;Reflexo da Alma;Vinícius Ferreira;91026
+8;347388850629700;Reflexões do Amanhã;Tatiane Lima;105315
+9;347388850653500;O Último Abraço;Vinícius Santos;482065
+10;347388850668600;No Coração da Noite;Juliana Ferreira;309469
+11;347388850681800;Tarde Dourada;Fernanda Almeida;333963
+12;347388850693300;Ecos do Amanhã;André Almeida;94414
+13;347388850706600;O Que Restou de Nós;Mariana Almeida;332090
+14;347388850726800;A Magia do Amor;Rafael Santos;404577
+15;347388850737600;Canção dos Ventos;Tatiane Lima;320378
+16;347388850748600;Sussurros do Passado;Fernanda Carvalho;405236
+17;347388850759600;Tarde Dourada;Lara Oliveira;323754
+18;347388850770500;Sombras no Horizonte;Thiago Santana;497711
+19;347388850781500;Tempestade de Emoções;Bruno Almeida;235178
+20;347388850797700;Sussurros do Passado;Roberto Ferreira;440623
+21;347388850809500;Fuga para a Realidade;Patrícia Lima;368988
+22;347388850818300;Noite de Inverno;Felipe Almeida;401791
+23;347388850827300;A Magia do Amor;Juliana Martins;258482
+24;347388850836400;Harmonia do Universo;Marcos Silva;419648
+25;347388850846200;Tempestade de Emoções;Ricardo Santos;175843
+26;347388850895600;Canção dos Ventos;Bruno Oliveira;74766
+27;347388850934800;Sombras no Horizonte;André Costa;357081
+28;347388850948100;Reflexo da Alma;Ana Paula Santos;451698
+29;347388850979400;Ritmo do Coração;Lara Oliveira;457122
+30;347388851009000;Ecos da Liberdade;Lara Oliveira;430442
+31;347388851024200;O Que Restou de Nós;André Almeida;260379
+32;347388851039900;Noite de Verão;Camila Almeida;368979
+33;347388851052000;Ecos da Liberdade;Fernanda Carvalho;392802
+34;347388851064600;Luz na Estrada;Ingrid Santana;405537
+35;347388851082500;No Coração da Noite;Lara Oliveira;279088
+36;347388851097600;Harmonia do Universo;Roberta Souza;172147
+37;347388851149300;Noite de Inverno;André Costa;29733
+38;347388851217100;Pôr do Sol;Patrícia Lima;27885
+39;347388851260200;Fuga para a Realidade;Tatiane Lima;485908
+40;347388851279500;Dança da Lua;Ricardo Santos;191172
+41;347388851296100;Sombras no Horizonte;Juliana Martins;16095
+42;347388851326900;Ecos da Liberdade;Denise Oliveira;153030
+43;347388851353200;Tempestade de Emoções;André Costa;61225
+44;347388851460000;Entre Sombras e Luz;João Almeida;185141
+45;347388851498000;Canção dos Ventos;Vinícius Santos;426956
+46;347388851518700;Sombras no Horizonte;Julia Santos;450316
+47;347388851543600;Harmonia do Universo;Bruno Almeida;378593
+48;347388851571900;Ecos do Amanhã;Gustavo Rodrigues;382227
+49;347388851600600;Estrela Solitária;Roberta Souza;402564
+50;347388851626300;Som do Mar;Vinícius Santos;245368
+51;347388851644700;Caminho das Estrelas;Vinícius Santos;210113
+52;347388851675200;Reflexões do Amanhã;Lucas Martins;286918
+53;347388851762200;Reflexões do Amanhã;Juliana Costa;340403
+54;347388851865100;Pôr do Sol;Ricardo Santos;370854
+55;347388851941800;Reflexões do Amanhã;Bruno Oliveira;424167
+56;347388851994500;Ventos do Destino;Camila Santos;301709
+57;347388852066600;Reflexões do Amanhã;Tatiane Lima;39692
+58;347388852132900;Canção da Esperança;Gustavo Rodrigues;320297
+59;347388852191400;Som do Mar;Aline Pereira;299253
+60;347388852245700;Estrela Solitária;Thiago Almeida;196126
+61;347388852274000;Pôr do Sol;Thiago Santana;347301
+62;347388852298700;O Que Restou de Nós;Tatiane Ferreira;373619
+63;347388852317400;Tempestade de Emoções;Bruno Almeida;79758
+64;347388852337700;Harmonia do Universo;Lucas Martins;203237
+65;347388852359700;Ecos do Amanhã;João Almeida;105606
+66;347388852386200;Reflexões do Amanhã;Vinícius Santos;171079
+67;347388852413200;Pôr do Sol;João Almeida;297317
+68;347388852437100;Caminho das Estrelas;Lucas Ferreira;350271
+69;347388852464700;No Coração da Noite;Lucas Ferreira;41250
+70;347388852501700;O Último Abraço;Felipe Almeida;235941
+71;347388852541200;Canção dos Ventos;Fernanda Carvalho;287519
+72;347388852609600;O Que Restou de Nós;André Costa;154266
+73;347388852670400;O Último Abraço;Thiago Almeida;319856
+74;347388852701200;No Coração da Noite;Juliana Ferreira;209145
+75;347388852740400;Luz na Estrada;Lucas Ferreira;441397
+76;347388852772300;Ecos do Amanhã;Eduardo Costa;242837
+77;347388852795500;Reflexo da Alma;Tatiane Lima;477467
+78;347388852889800;Ventos do Destino;Denise Oliveira;405513
+79;347388852920200;O Último Abraço;Juliana Costa;303044
+80;347388852940900;Fuga para a Realidade;Eduardo Costa;187703
+81;347388852962400;Canção da Esperança;Vinícius Ferreira;386396
+82;347388853063300;O Último Abraço;Denise Oliveira;72098
+83;347388853086300;Ventos do Destino;Lara Oliveira;51240
+84;347388853105900;Harmonia do Universo;Rafael Gomes;463701
+85;347388853121200;Harmonia do Universo;Patrícia Ferreira;400433
+86;347388853142700;Canção da Esperança;Fernanda Almeida;289542
+87;347388853165100;Sombras no Horizonte;Vinícius Santos;218155
+88;347388853192100;Ventos do Destino;Denise Oliveira;136141
+89;347388853209800;Cores do Outono;Camila Santos;413039
+90;347388853227300;Sombras no Horizonte;Camila Santos;239804
+91;347388853246000;Noite de Inverno;Camila Santos;31748
+92;347388853263100;O Que Restou de Nós;Vinícius Ferreira;306432
+93;347388853280000;Amanhecer Radiante;André Almeida;412922
+94;347388853301700;Caminhos Cruzados;Thiago Santana;244763
+95;347388853319000;O Último Abraço;Gabriel Santos;315715
+96;347388853334800;Pôr do Sol;Lara Oliveira;399993
+97;347388853351200;A Magia do Amor;Thiago Almeida;410909
+98;347388853367200;O Que Restou de Nós;Fernanda Carvalho;54524
+99;347388853380200;Ecos do Amanhã;Tatiane Lima;346834
+100;347388853398100;O Que Restou de Nós;Pedro Henrique;434176
+101;347388853424800;Ventos do Destino;Lucas Martins;43549
+102;347388853464800;Amanhecer Radiante;Ana Paula Santos;271076
+103;347388853492900;A Dança da Vida;Bruno Almeida;6334
+104;347388853563400;Reflexo da Alma;Mariana Costa;107938
+105;347388853589900;Canção dos Ventos;Bruno Oliveira;314127
+106;347388853604000;Reflexões do Amanhã;Rafael Gomes;344883
+107;347388853616900;Canção da Esperança;Fernanda Almeida;190204
+108;347388853628000;Ritmo do Coração;Ana Paula Santos;206441
+109;347388853640900;Cores do Outono;Tatiane Ferreira;282801
+110;347388853655400;A Magia do Amor;Gabriel Santos;311540
+111;347388853669400;Fuga para a Realidade;Rafael Gomes;371278
+112;347388853683700;Tarde Dourada;Fabiana Silva;41371
+113;347388853697000;No Coração da Noite;Patrícia Ferreira;248062
+114;347388853711300;Dança da Lua;Julia Santos;70825
+115;347388853721700;Ritmo do Coração;Pedro Henrique;345965
+116;347388853732800;Entre Sombras e Luz;Bruno Oliveira;59032
+117;347388853744700;Reflexões do Amanhã;Ricardo Ferreira;298178
+118;347388853758200;O Último Abraço;Patrícia Ferreira;333754
+119;347388853769800;A Magia do Amor;Carolina Lima;81481
+120;347388853781600;Ecos do Amanhã;Bruno Oliveira;180508
+121;347388853794700;Luz na Estrada;Rafael Gomes;224790
+122;347388853817100;Canção da Esperança;Lara Oliveira;312994
+123;347388853847300;Caminho da Esperança;Camila Almeida;118485
+124;347388853862000;Sussurros do Passado;Thiago Santana;32022
+125;347388853932000;Caminhos Cruzados;Vinícius Santos;216365
+126;347388853967600;O Que Restou de Nós;André Costa;33535
+127;347388853986800;Cores do Outono;Ana Paula Santos;230118
+128;347388854000000;Caminhos Cruzados;Pedro Henrique;421899
+129;347388854028700;Amanhecer Radiante;Ricardo Ferreira;147316
+130;347388854046900;Ecos da Liberdade;Thiago Almeida;485532
+131;347388854059100;Entre Sombras e Luz;Ana Paula Santos;258786
+132;347388854070500;Luz na Estrada;Tatiane Lima;303092
+133;347388854080200;Ventos do Destino;Camila Santos;364288
+134;347388854090700;Noite de Inverno;Roberto Ferreira;7301
+135;347388854102600;Ecos da Liberdade;Felipe Almeida;175038
+136;347388854113900;Amanhecer Radiante;Denise Oliveira;386872
+137;347388854125000;Caminho das Estrelas;João Almeida;476776
+138;347388854135700;A Magia do Amor;Vinícius Ferreira;414702
+139;347388854146600;Ritmo do Coração;João Almeida;54184
+140;347388856204200;No Coração da Noite;Vinícius Ferreira;352462
+141;347388856296700;Estrela Solitária;Patrícia Lima;177564
+142;347388856327200;Luz na Estrada;Carolina Lima;442472
+143;347388856387500;Entre Sombras e Luz;Carolina Lima;346157
+144;347388856404700;Entre Sombras e Luz;Aline Pereira;407579
+145;347388856416200;O Último Abraço;Marcos Silva;240245
+146;347388856426400;Harmonia do Universo;Rafael Gomes;214537
+147;347388856436700;Reflexo da Alma;André Almeida;200155
+148;347388856485700;Ventos do Destino;Tatiane Ferreira;410539
+149;347388856498500;Fuga para a Realidade;Julia Santos;387219
+150;347388856510400;Caminho da Esperança;Roberta Souza;104447
+151;347388856521200;Reflexo da Alma;Fernanda Almeida;279566
+152;347388856542800;Noite de Verão;André Almeida;89462
+153;347388856556300;Fuga para a Realidade;Vinícius Santos;460589
+154;347388856569400;Caminhos Cruzados;Fernanda Carvalho;345178
+155;347388856582300;Sombras no Horizonte;Vinícius Ferreira;207857
+156;347388856598000;Noite de Inverno;Juliana Martins;417274
+157;347388856611200;No Coração da Noite;Ana Paula Santos;72330
+158;347388856623400;Fuga para a Realidade;Roberto Ferreira;204027
+159;347388856635600;Tempestade de Emoções;Lucas Martins;279491
+160;347388856648300;Luz na Estrada;Roberto Ferreira;442040
+161;347388856660900;A Dança da Vida;Tatiane Ferreira;190326
+162;347388856673000;Amanhecer Radiante;Roberta Souza;254660
+163;347388856686100;Tarde Dourada;Lara Oliveira;200226
+164;347388856698700;Ecos da Liberdade;Ana Paula Santos;470005
+165;347388856711800;Caminho da Esperança;Gustavo Rodrigues;404184
+166;347388856793500;Noite de Inverno;André Almeida;479045
+167;347388856868100;Entre Sombras e Luz;Thiago Almeida;448587
+168;347388856891200;O Último Abraço;Ana Paula Santos;135095
+169;347388856905200;Noite de Verão;Fabiana Silva;68296
+170;347388856917200;Estrela Solitária;Pedro Henrique;117768
+171;347388856929800;Dança da Lua;Felipe Almeida;350695
+172;347388856988900;A Dança da Vida;Bruno Almeida;263649
+173;347388857001900;Luz na Estrada;Camila Almeida;240646
+174;347388857010400;Ecos do Amanhã;João Almeida;254946
+175;347388857017800;Ecos da Liberdade;Gabriel Santos;331307
+176;347388857025300;Tempestade de Emoções;Roberta Souza;87251
+177;347388857033300;Amanhecer Radiante;Julia Santos;267885
+178;347388857042800;Luz na Estrada;Camila Almeida;277247
+179;347388857051900;Noite de Verão;Gabriel Santos;210591
+180;347388857058700;Ventos do Destino;Lucas Ferreira;413450
+181;347388857065200;Ventos do Destino;Eduardo Costa;277166
+182;347388857072100;O Último Abraço;Tatiane Ferreira;199441
+183;347388857079100;Ecos da Liberdade;Julia Santos;97830
+184;347388857085500;Sussurros do Passado;Lucas Martins;290744
+185;347388857091900;Caminho das Estrelas;Lucas Ferreira;284897
+186;347388857097900;Som do Mar;André Almeida;341277
+187;347388857103900;O Último Abraço;Bruno Almeida;476806
+188;347388857110700;Ventos do Destino;Fernanda Almeida;274665
+189;347388857116600;Fuga para a Realidade;Mariana Almeida;447133
+190;347388857122700;Ritmo do Coração;Felipe Almeida;150570
+191;347388857128900;Luz na Estrada;Juliana Ferreira;350022
+192;347388857134900;Som do Mar;Gabriel Santos;87899
+193;347388857142000;O Que Restou de Nós;André Almeida;116272
+194;347388857148600;Luz na Estrada;Eduardo Costa;295246
+195;347388857155700;A Dança da Vida;Vinícius Ferreira;252860
+196;347388857169900;O Que Restou de Nós;Eduardo Costa;431137
+197;347388857188000;Sombras no Horizonte;Patrícia Ferreira;177778
+198;347388857196400;Ritmo do Coração;Patrícia Lima;483007
+199;347388857207300;Canção da Esperança;Patrícia Ferreira;234449
+200;347388857218300;Canção dos Ventos;Roberto Ferreira;99931
+201;347388857229700;Cores do Outono;Thiago Santana;5851
+202;347388857240700;A Dança da Vida;Patrícia Lima;469564
+203;347388857254100;Ventos do Destino;Mariana Almeida;155109
+204;347388857264700;Pôr do Sol;Gustavo Rodrigues;305692
+205;347388857273900;Cores do Outono;Laura Oliveira;387549
+206;347388857283800;Amanhecer Radiante;Tatiane Lima;283645
+207;347388857294200;No Coração da Noite;André Costa;414069
+208;347388857314000;Ecos da Liberdade;Juliana Martins;129376
+209;347388857325900;Luz na Estrada;Patrícia Lima;297203
+210;347388857335200;Entre Sombras e Luz;Mariana Almeida;172166
+211;347388857344600;Caminho das Estrelas;Eduardo Costa;267075
+212;347388857353200;Amanhecer Radiante;Fernanda Almeida;155921
+213;347388857361300;Harmonia do Universo;Felipe Almeida;331648
+214;347388857374300;Pôr do Sol;Gabriel Santos;99179
+215;347388857386400;Caminho das Estrelas;Juliana Ferreira;245629
+216;347388857397400;Caminhos Cruzados;Aline Pereira;196222
+217;347388857407000;Dança da Lua;Patrícia Ferreira;358909
+218;347388857417600;O Que Restou de Nós;Juliana Costa;377960
+219;347388857428500;Estrela Solitária;Bruno Oliveira;47390
+220;347388857436500;Caminhos Cruzados;Thiago Almeida;451615
+221;347388857444800;Caminho das Estrelas;Laura Oliveira;403250
+222;347388857454000;Sombras no Horizonte;Fernanda Carvalho;384873
+223;347388857464400;Canção dos Ventos;Camila Almeida;147514
+224;347388857476400;Tarde Dourada;Rafael Gomes;3153
+225;347388857499500;O Que Restou de Nós;Gabriel Santos;433869
+226;347388857507700;Estrela Solitária;Felipe Almeida;289592
+227;347388857516200;Canção dos Ventos;Marcos Silva;15966
+228;347388857523700;Tarde Dourada;Fabiana Silva;4498
+229;347388857532500;Tempestade de Emoções;André Costa;156760
+230;347388857541100;Luz na Estrada;Bruno Almeida;377776
+231;347388857549800;Luz na Estrada;Laura Oliveira;13084
+232;347388857559200;Fuga para a Realidade;Juliana Martins;242913
+233;347388857568700;Caminho das Estrelas;Mariana Costa;333324
+234;347388857577900;Ecos do Amanhã;Camila Almeida;253542
+235;347388857590200;Ecos da Liberdade;Juliana Ferreira;253132
+236;347388857600300;Estrela Solitária;Camila Santos;330524
+237;347388857609300;Tempestade de Emoções;Roberto Ferreira;342699
+238;347388857629500;Entre Sombras e Luz;Pedro Henrique;348151
+239;347388857641000;Dança da Lua;Lucas Martins;435862
+240;347388857650000;No Coração da Noite;Carolina Lima;189406
+241;347388857661100;Amanhecer Radiante;Ingrid Santana;118035
+242;347388857671800;Harmonia do Universo;Roberta Souza;145146
+243;347388857680400;Reflexões do Amanhã;Tatiane Ferreira;148053
+244;347388857689800;Ecos do Amanhã;Julia Santos;9019
+245;347388857698500;Canção da Esperança;Juliana Ferreira;16182
+246;347388857707000;Ventos do Destino;Ricardo Ferreira;140970
+247;347388857714600;Noite de Inverno;Lucas Martins;448703
+248;347388857722700;Amanhecer Radiante;Gustavo Rodrigues;358979
+249;347388857731000;Pôr do Sol;Patrícia Ferreira;383566
+250;347388857740000;Som do Mar;Juliana Ferreira;10040
+251;347388857751300;Caminho da Esperança;Tatiane Ferreira;264872
+252;347388857773300;Luz na Estrada;Ana Paula Santos;198296
+253;347388857783100;Caminho das Estrelas;Camila Santos;373077
+254;347388857793700;Som do Mar;Juliana Martins;490643
+255;347388857804800;Reflexo da Alma;João Almeida;121836
+256;347388857857300;A Magia do Amor;Ricardo Santos;116277
+257;347388857916100;Caminho da Esperança;Julia Santos;445338
+258;347388857928600;Ritmo do Coração;João Almeida;30557
+259;347388857938100;Amanhecer Radiante;Lara Oliveira;213651
+260;347388857947000;Fuga para a Realidade;Bruno Oliveira;350309
+261;347388857956200;O Último Abraço;Thiago Almeida;445111
+262;347388857965000;Reflexões do Amanhã;Carolina Lima;199124
+263;347388857974200;Noite de Verão;André Almeida;237655
+264;347388857982500;Ventos do Destino;Mariana Almeida;40292
+265;347388857991200;Noite de Inverno;Mariana Almeida;307176
+266;347388857999800;Dança da Lua;Lucas Ferreira;201538
+267;347388858006900;A Magia do Amor;Rafael Santos;18314
+268;347388858016200;Tarde Dourada;Juliana Martins;109661
+269;347388858024300;Luz na Estrada;Mariana Costa;119134
+270;347388858033300;O Último Abraço;Fernanda Carvalho;189065
+271;347388858040400;A Magia do Amor;Lucas Martins;17340
+272;347388858048900;Reflexo da Alma;Ricardo Santos;109095
+273;347388858056000;Reflexo da Alma;Vinícius Ferreira;77400
+274;347388858065000;Luz na Estrada;Camila Almeida;65206
+275;347388858073700;O Último Abraço;Rafael Gomes;445889
+276;347388858082200;Noite de Inverno;Thiago Santana;462246
+277;347388858090400;Tarde Dourada;Lucas Martins;141530
+278;347388858629000;Luz na Estrada;Gabriel Santos;258122
+279;347388858669300;Caminho das Estrelas;Laura Oliveira;380759
+280;347388858681400;Tarde Dourada;Juliana Ferreira;465443
+281;347388858690700;Harmonia do Universo;Eduardo Costa;18271
+282;347388858699100;Tempestade de Emoções;Carolina Lima;93223
+283;347388858706700;A Magia do Amor;Bruno Oliveira;448301
+284;347388858715100;Reflexões do Amanhã;Gustavo Rodrigues;214704
+285;347388858737800;Luz na Estrada;Patrícia Ferreira;363474
+286;347388858746200;Noite de Verão;Thiago Santana;391301
+287;347388858753500;Canção da Esperança;Lucas Martins;497256
+288;347388858760400;Ritmo do Coração;Juliana Ferreira;14404
+289;347388858767400;Canção dos Ventos;Ingrid Santana;27971
+290;347388858774400;Tarde Dourada;Julia Santos;25689
+291;347388858781400;Fuga para a Realidade;Roberto Ferreira;211816
+292;347388858788600;Ventos do Destino;Patrícia Ferreira;202518
+293;347388858796000;Luz na Estrada;Mariana Costa;413404
+294;347388858806100;A Magia do Amor;Vinícius Ferreira;201990
+295;347388858812900;A Dança da Vida;Roberta Souza;374927
+296;347388858821900;Sussurros do Passado;Julia Santos;198624
+297;347388858829900;Entre Sombras e Luz;Laura Oliveira;241818
+298;347388858837900;Tarde Dourada;Fabiana Silva;252332
+299;347388858844800;Estrela Solitária;Mariana Costa;391146
+300;347388858854900;Harmonia do Universo;João Almeida;288475
+301;347388858861300;Amanhecer Radiante;Ricardo Ferreira;172512
+302;347388858871500;Estrela Solitária;Lucas Ferreira;382802
+303;347388858878200;Pôr do Sol;Denise Oliveira;178257
+304;347388858884900;Ventos do Destino;Tatiane Ferreira;426906
+305;347388858891500;Cores do Outono;Ana Paula Santos;411663
+306;347388858911200;Luz na Estrada;Rafael Santos;341401
+307;347388858920900;No Coração da Noite;Camila Almeida;416465
+308;347388858928500;Caminhos Cruzados;Lucas Ferreira;479116
+309;347388858936900;Som do Mar;André Almeida;407898
+310;347388858943400;Ritmo do Coração;Lucas Ferreira;372966
+311;347388858949700;Tempestade de Emoções;Lucas Martins;218162
+312;347388858956100;Amanhecer Radiante;Thiago Almeida;289915
+313;347388858984600;Estrela Solitária;Juliana Ferreira;459293
+314;347388858991600;Fuga para a Realidade;Juliana Ferreira;59379
+315;347388858997600;Canção dos Ventos;Bruno Oliveira;437211
+316;347388859003500;Harmonia do Universo;André Almeida;413155
+317;347388859009600;Ecos do Amanhã;Gabriel Santos;103989
+318;347388859015900;Canção da Esperança;Carolina Lima;172603
+319;347388859023700;Estrela Solitária;Thiago Almeida;157401
+320;347388859029800;Pôr do Sol;Laura Oliveira;171161
+321;347388859038800;Noite de Verão;Pedro Henrique;257843
+322;347388859045200;Fuga para a Realidade;Camila Santos;3944
+323;347388859051300;Canção dos Ventos;Marcos Silva;457703
+324;347388859057500;Caminho das Estrelas;Gustavo Rodrigues;249473
+325;347388859063700;Caminho da Esperança;Camila Almeida;393841
+326;347388859070000;Fuga para a Realidade;André Almeida;70980
+327;347388859075800;Pôr do Sol;Denise Oliveira;90800
+328;347388859083800;Canção da Esperança;Vinícius Santos;494546
+329;347388859090600;Ecos da Liberdade;Ana Paula Santos;339983
+330;347388859096800;Sussurros do Passado;Tatiane Ferreira;152599
+331;347388859111100;Sussurros do Passado;Fabiana Silva;481925
+332;347388859118000;Noite de Verão;Bruno Oliveira;174573
+333;347388859124600;Estrela Solitária;Tatiane Lima;259945
+334;347388859131200;Som do Mar;Camila Almeida;337119
+335;347388859147300;Sussurros do Passado;Lucas Martins;387342
+336;347388859165200;Caminho da Esperança;Juliana Ferreira;73858
+337;347388859173000;Caminho da Esperança;André Costa;319903
+338;347388859179800;Sombras no Horizonte;Vinícius Ferreira;354452
+339;347388859186500;Caminho da Esperança;Ingrid Santana;359436
+340;347388859209100;Amanhecer Radiante;Patrícia Lima;142314
+341;347388859216200;No Coração da Noite;Fernanda Almeida;321070
+342;347388859223200;A Magia do Amor;Fernanda Carvalho;243962
+343;347388859231600;O Que Restou de Nós;Lucas Ferreira;301430
+344;347388859238300;Luz na Estrada;Bruno Oliveira;188006
+345;347388859244500;No Coração da Noite;Juliana Costa;470618
+346;347388859251000;Som do Mar;Fernanda Carvalho;353350
+347;347388859257400;Som do Mar;Patrícia Ferreira;437604
+348;347388859263700;Noite de Inverno;Pedro Henrique;27496
+349;347388859274000;O Último Abraço;Camila Santos;204248
+350;347388859282000;Noite de Verão;Fabiana Silva;466089
+351;347388859288600;Dança da Lua;Mariana Almeida;276855
+352;347388859295800;Amanhecer Radiante;Patrícia Lima;35768
+353;347388859302000;Dança da Lua;Bruno Oliveira;281643
+354;347388859308400;Sussurros do Passado;Eduardo Costa;255598
+355;347388859314700;O Que Restou de Nós;Vinícius Ferreira;274667
+356;347388859321200;Reflexões do Amanhã;Vinícius Ferreira;387393
+357;347388859328100;Tarde Dourada;Fabiana Silva;7938
+358;347388859335100;Tempestade de Emoções;Thiago Almeida;410444
+359;347388859341900;Caminho da Esperança;Carolina Lima;109602
+360;347388859348700;Canção dos Ventos;Denise Oliveira;54924
+361;347388859355200;Caminhos Cruzados;Julia Santos;470807
+362;347388859361700;Fuga para a Realidade;Lara Oliveira;116638
+363;347388859368700;Dança da Lua;Fabiana Silva;240790
+364;347388859375100;Luz na Estrada;Rafael Santos;174706
+365;347388859381900;Dança da Lua;Camila Almeida;304685
+366;347388859397800;Entre Sombras e Luz;Camila Almeida;467416
+367;347388859405000;Ventos do Destino;Vinícius Santos;333635
+368;347388859413100;Ecos do Amanhã;Lucas Martins;276696
+369;347388859420000;A Magia do Amor;Lucas Martins;440142
+370;347388859427400;Reflexo da Alma;Vinícius Ferreira;42075
+371;347388859434400;Tempestade de Emoções;Camila Santos;251863
+372;347388859441200;O Último Abraço;Bruno Almeida;27675
+373;347388859447800;Dança da Lua;Camila Almeida;367016
+374;347388859454100;Canção da Esperança;Lara Oliveira;450098
+375;347388859460100;Caminho da Esperança;Marcos Silva;292960
+376;347388859465800;Noite de Inverno;André Almeida;165619
+377;347388859483700;Reflexões do Amanhã;Lara Oliveira;440363
+378;347388859491200;Noite de Verão;Camila Almeida;90525
+379;347388859497700;Ecos do Amanhã;Juliana Martins;205176
+380;347388859503900;Cores do Outono;André Costa;343197
+381;347388859510000;Harmonia do Universo;Gabriel Santos;247752
+382;347388859526400;Entre Sombras e Luz;Patrícia Ferreira;478962
+383;347388859533400;Sombras no Horizonte;Thiago Almeida;275511
+384;347388859541500;Canção dos Ventos;Fernanda Almeida;213689
+385;347388859557900;Noite de Inverno;Mariana Almeida;133456
+386;347388859564900;Caminho das Estrelas;Carolina Lima;480971
+387;347388859571600;Sombras no Horizonte;Bruno Oliveira;114749
+388;347388859578000;Cores do Outono;Ingrid Santana;350811
+389;347388859584000;Sombras no Horizonte;Patrícia Ferreira;86768
+390;347388859590200;Canção da Esperança;Ricardo Ferreira;297473
+391;347388859596300;Caminho das Estrelas;Bruno Oliveira;123778
+392;347388859602600;O Que Restou de Nós;Mariana Costa;348710
+393;347388859609000;Caminho da Esperança;Gabriel Santos;257517
+394;347388859615400;O Que Restou de Nós;Lucas Ferreira;247200
+395;347388859647700;Tempestade de Emoções;Aline Pereira;335044
+396;347388859653800;Sussurros do Passado;Denise Oliveira;113082
+397;347388859660100;Ecos do Amanhã;Felipe Almeida;324009
+398;347388859665900;Ecos da Liberdade;Eduardo Costa;224732
+399;347388859672000;Caminho das Estrelas;Ricardo Santos;23701
+400;347388859677800;Dança da Lua;Vinícius Santos;58518
+401;347388859683900;Noite de Verão;Fernanda Carvalho;393497
+402;347388859690400;Caminhos Cruzados;Aline Pereira;114377
+403;347388859696700;Tarde Dourada;Ricardo Ferreira;469063
+404;347388859702600;Tarde Dourada;André Costa;179937
+405;347388859708400;Luz na Estrada;Laura Oliveira;470409
+406;347388859714200;Luz na Estrada;Roberto Ferreira;174768
+407;347388859720400;A Magia do Amor;Rafael Gomes;247037
+408;347388859726200;O Que Restou de Nós;Lara Oliveira;163468
+409;347388859732000;Caminhos Cruzados;Denise Oliveira;107189
+410;347388859737800;A Dança da Vida;Aline Pereira;238213
+411;347388859743500;Harmonia do Universo;Mariana Costa;328183
+412;347388859749400;Pôr do Sol;André Almeida;348570
+413;347388859755000;Estrela Solitária;Tatiane Ferreira;289422
+414;347388859762400;Tarde Dourada;Laura Oliveira;87997
+415;347388860215600;O Último Abraço;Ricardo Santos;207649
+416;347388860259100;A Magia do Amor;Lara Oliveira;118856
+417;347388860269200;O Que Restou de Nós;Julia Santos;911
+418;347388860277000;Dança da Lua;Felipe Almeida;52996
+419;347388860283600;Ecos da Liberdade;Vinícius Ferreira;202529
+420;347388860289700;O Que Restou de Nós;Lucas Ferreira;186992
+421;347388860295500;Ecos da Liberdade;Tatiane Lima;139682
+422;347388860301200;Tarde Dourada;Denise Oliveira;200212
+423;347388860306900;Ventos do Destino;Lara Oliveira;162563
+424;347388860312400;Reflexões do Amanhã;Fabiana Silva;435248
+425;347388860318100;No Coração da Noite;Ana Paula Santos;327195
+426;347388860323300;Cores do Outono;Gabriel Santos;215337
+427;347388860328900;Fuga para a Realidade;Juliana Ferreira;74411
+428;347388860334700;Reflexo da Alma;Thiago Almeida;49328
+429;347388860340200;Caminho da Esperança;Roberta Souza;167064
+430;347388860345500;Canção dos Ventos;Bruno Oliveira;185689
+431;347388860351100;Noite de Inverno;Lucas Martins;461823
+432;347388860356400;Dança da Lua;Tatiane Lima;97353
+433;347388860361800;Caminho das Estrelas;Fernanda Carvalho;340442
+434;347388860383800;Pôr do Sol;Fabiana Silva;314633
+435;347388860390200;Tempestade de Emoções;Fernanda Carvalho;120694
+436;347388860395500;Reflexo da Alma;Ricardo Santos;272169
+437;347388860400800;Sussurros do Passado;Eduardo Costa;309132
+438;347388860406000;Noite de Inverno;Rafael Santos;247811
+439;347388860411500;Ecos da Liberdade;Vinícius Santos;200073
+440;347388860499400;Canção dos Ventos;Laura Oliveira;342012
+441;347388860510400;Sombras no Horizonte;Fernanda Almeida;309430
+442;347388860519500;Entre Sombras e Luz;Bruno Oliveira;104330
+443;347388860526100;Noite de Inverno;Ana Paula Santos;433660
+444;347388860534900;Estrela Solitária;André Costa;108205
+445;347388860540200;Noite de Inverno;Laura Oliveira;282117
+446;347388860545500;Caminhos Cruzados;Thiago Almeida;198135
+447;347388860550800;Dança da Lua;Denise Oliveira;354353
+448;347388860556300;Caminho da Esperança;Eduardo Costa;359922
+449;347388860561000;No Coração da Noite;Aline Pereira;56290
+450;347388860565900;Ecos do Amanhã;Ricardo Santos;188806
+451;347388860570900;O Que Restou de Nós;Marcos Silva;65394
+452;347388860575800;Ecos da Liberdade;Juliana Martins;113358
+453;347388860580300;Sussurros do Passado;André Costa;257717
+454;347388860584500;Som do Mar;Fabiana Silva;100785
+455;347388860588700;Caminho da Esperança;Mariana Almeida;177218
+456;347388860593200;Som do Mar;Roberta Souza;351192
+457;347388860597900;Fuga para a Realidade;Ricardo Ferreira;469309
+458;347388860602400;Caminho das Estrelas;Rafael Gomes;297318
+459;347388860606900;Reflexões do Amanhã;Lucas Ferreira;128326
+460;347388860611500;Estrela Solitária;Lucas Martins;210850
+461;347388860616200;Amanhecer Radiante;Roberta Souza;119222
+462;347388860621000;Dança da Lua;Camila Santos;474043
+463;347388860625600;Ecos do Amanhã;Roberto Ferreira;354525
+464;347388860630300;Tempestade de Emoções;Juliana Ferreira;342524
+465;347388860634900;Dança da Lua;Ingrid Santana;198031
+466;347388860639600;Reflexo da Alma;Vinícius Ferreira;117319
+467;347388860644200;Caminho da Esperança;Pedro Henrique;315265
+468;347388860648800;Ventos do Destino;Tatiane Lima;47103
+469;347388860653400;Pôr do Sol;Patrícia Ferreira;189229
+470;347388860658300;Ecos da Liberdade;Juliana Ferreira;213844
+471;347388860662900;Reflexões do Amanhã;Camila Almeida;86560
+472;347388860667200;Noite de Verão;João Almeida;72015
+473;347388860671700;Dança da Lua;Lucas Martins;363880
+474;347388860676500;Tarde Dourada;Fernanda Almeida;427481
+475;347388860681600;Caminhos Cruzados;Patrícia Lima;144837
+476;347388860701800;Ventos do Destino;Juliana Ferreira;81760
+477;347388860707300;Entre Sombras e Luz;Thiago Almeida;167753
+478;347388860712000;O Último Abraço;Juliana Costa;455692
+479;347388860716700;Ventos do Destino;Ricardo Ferreira;437156
+480;347388860721300;Canção dos Ventos;Vinícius Ferreira;97026
+481;347388860726200;Dança da Lua;Tatiane Ferreira;278311
+482;347388860732000;Luz na Estrada;Bruno Almeida;35867
+483;347388860736700;No Coração da Noite;Ana Paula Santos;298382
+484;347388860741400;Noite de Verão;Bruno Oliveira;322975
+485;347388860762800;Fuga para a Realidade;Lucas Ferreira;62756
+486;347388860767900;Ventos do Destino;Camila Santos;286691
+487;347388860772400;A Dança da Vida;Juliana Martins;37753
+488;347388860776900;Som do Mar;Fernanda Carvalho;384457
+489;347388860781600;Sussurros do Passado;Fernanda Carvalho;246415
+490;347388860786100;Caminho da Esperança;Bruno Oliveira;48065
+491;347388860790700;Ecos do Amanhã;Tatiane Lima;237330
+492;347388860795300;Cores do Outono;Patrícia Ferreira;175482
+493;347388860799900;Entre Sombras e Luz;Aline Pereira;331167
+494;347388860814600;Ventos do Destino;Thiago Almeida;349582
+495;347388860869200;O Último Abraço;Rafael Gomes;341899
+496;347388860913400;Noite de Verão;Camila Almeida;387228
+497;347388860921000;Noite de Verão;Fernanda Carvalho;11186
+498;347388860931300;Noite de Inverno;Camila Santos;71855
+499;347388860938600;Estrela Solitária;Mariana Costa;60164
+500;347388860944200;Sussurros do Passado;Bruno Oliveira;85647
+501;347388860950200;O Que Restou de Nós;Laura Oliveira;195657
+502;347388860959600;O Que Restou de Nós;Ricardo Ferreira;107602
+503;347388860964700;Harmonia do Universo;Pedro Henrique;199263
+504;347388860969300;Ritmo do Coração;Roberta Souza;429777
+505;347388860974000;Caminhos Cruzados;Juliana Ferreira;412425
+506;347388860978100;Canção dos Ventos;Ana Paula Santos;6748
+507;347388860984300;Canção da Esperança;Roberta Souza;448203
+508;347388860988300;Canção da Esperança;Lucas Martins;464992
+509;347388861017600;Tarde Dourada;Ana Paula Santos;431735
+510;347388861023700;Ecos do Amanhã;Tatiane Ferreira;231207
+511;347388861043900;Fuga para a Realidade;Ingrid Santana;154357
+512;347388861057900;Pôr do Sol;Juliana Ferreira;208292
+513;347388861105300;Noite de Inverno;Mariana Almeida;263320
+514;347388861110400;Ecos da Liberdade;Eduardo Costa;301681
+515;347388861114100;Fuga para a Realidade;Pedro Henrique;111278
+516;347388861117600;Canção da Esperança;Tatiane Ferreira;466512
+517;347388861120700;Amanhecer Radiante;Aline Pereira;462123
+518;347388861123700;Caminho das Estrelas;Thiago Almeida;193078
+519;347388861126700;Luz na Estrada;Thiago Almeida;453029
+520;347388861129700;Caminho da Esperança;Ricardo Ferreira;451152
+521;347388861132900;Ritmo do Coração;Fernanda Almeida;317677
+522;347388861135800;O Último Abraço;Bruno Almeida;193671
+523;347388861138700;Reflexo da Alma;Lucas Martins;202251
+524;347388861141500;Amanhecer Radiante;Juliana Ferreira;406181
+525;347388861144400;O Que Restou de Nós;Rafael Gomes;324848
+526;347388861147200;Harmonia do Universo;Camila Santos;169276
+527;347388861150000;Entre Sombras e Luz;Juliana Martins;256293
+528;347388861152900;Harmonia do Universo;Tatiane Lima;235315
+529;347388861156000;Reflexo da Alma;Juliana Martins;104832
+530;347388861158900;Sussurros do Passado;Ricardo Ferreira;73677
+531;347388861161800;A Dança da Vida;Ricardo Ferreira;118490
+532;347388861164600;Fuga para a Realidade;Rafael Gomes;184741
+533;347388861167500;Dança da Lua;Bruno Oliveira;115259
+534;347388861170400;Ventos do Destino;Lucas Martins;22342
+535;347388861173300;Reflexo da Alma;Pedro Henrique;117408
+536;347388861176100;Caminho das Estrelas;André Almeida;245775
+537;347388861178900;Canção dos Ventos;Ricardo Ferreira;450515
+538;347388861181800;Canção da Esperança;Lucas Martins;163296
+539;347388861184600;Reflexões do Amanhã;Bruno Oliveira;196397
+540;347388861187500;A Dança da Vida;Eduardo Costa;159065
+541;347388861190400;Ventos do Destino;Tatiane Lima;494155
+542;347388861193200;Caminhos Cruzados;Lucas Martins;365268
+543;347388861195900;Caminhos Cruzados;Bruno Oliveira;37311
+544;347388861198800;Noite de Inverno;André Almeida;463268
+545;347388861201600;Tempestade de Emoções;Julia Santos;4914
+546;347388861204500;Noite de Verão;Lucas Ferreira;70706
+547;347388861207300;Amanhecer Radiante;Julia Santos;108785
+548;347388861210100;Ecos do Amanhã;Pedro Henrique;330477
+549;347388861212800;Sombras no Horizonte;João Almeida;75559
+550;347388861215700;Dança da Lua;Lucas Martins;454615
+551;347388861218600;Amanhecer Radiante;Eduardo Costa;389827
+552;347388861221600;O Que Restou de Nós;Ricardo Santos;105943
+553;347388861576700;Caminhos Cruzados;Mariana Costa;106035
+554;347388861625000;Entre Sombras e Luz;Fabiana Silva;17509
+555;347388861632900;Ecos do Amanhã;Gustavo Rodrigues;465324
+556;347388861639100;No Coração da Noite;Ricardo Ferreira;297806
+557;347388861643800;Estrela Solitária;Vinícius Ferreira;203653
+558;347388861648300;Harmonia do Universo;Roberta Souza;380756
+559;347388861652400;Sussurros do Passado;Vinícius Ferreira;238855
+560;347388861656300;A Magia do Amor;Ana Paula Santos;122351
+561;347388861660200;Sombras no Horizonte;Roberto Ferreira;317173
+562;347388861665200;Fuga para a Realidade;Laura Oliveira;49741
+563;347388861669200;Caminho das Estrelas;Lucas Ferreira;391552
+564;347388861673300;Sombras no Horizonte;André Costa;266252
+565;347388861677400;Ecos do Amanhã;João Almeida;30400
+566;347388861682200;O Último Abraço;Julia Santos;82367
+567;347388861686100;Fuga para a Realidade;Rafael Santos;295649
+568;347388861689800;Reflexo da Alma;Fernanda Carvalho;317715
+569;347388861694000;Tarde Dourada;Camila Almeida;213923
+570;347388861698000;Noite de Verão;Bruno Oliveira;357362
+571;347388861702100;Harmonia do Universo;Mariana Almeida;54117
+572;347388861706700;Entre Sombras e Luz;Fernanda Carvalho;479159
+573;347388861712000;Dança da Lua;Mariana Almeida;417951
+574;347388861719400;Estrela Solitária;Ricardo Ferreira;346816
+575;347388861723400;Ecos do Amanhã;Tatiane Lima;130144
+576;347388861727700;Cores do Outono;Thiago Almeida;183502
+577;347388861732400;Canção dos Ventos;Lara Oliveira;325297
+578;347388861736800;Dança da Lua;Carolina Lima;66700
+579;347388861746000;Tarde Dourada;Lucas Martins;274481
+580;347388861750200;Caminho das Estrelas;Eduardo Costa;234082
+581;347388861755200;Reflexões do Amanhã;Ingrid Santana;223572
+582;347388861759000;Ecos do Amanhã;Thiago Santana;137714
+583;347388861762500;Reflexo da Alma;Bruno Oliveira;379886
+584;347388861765900;Caminhos Cruzados;Fernanda Carvalho;9452
+585;347388861769700;Sombras no Horizonte;Patrícia Ferreira;50844
+586;347388861774300;Luz na Estrada;João Almeida;465413
+587;347388861778700;Dança da Lua;Laura Oliveira;18162
+588;347388861783900;No Coração da Noite;Fabiana Silva;288515
+589;347388861789300;Ecos da Liberdade;Julia Santos;406745
+590;347388861794800;Entre Sombras e Luz;Tatiane Lima;67904
+591;347388861799600;Fuga para a Realidade;Laura Oliveira;46958
+592;347388861803300;Harmonia do Universo;Marcos Silva;469243
+593;347388861807200;Reflexões do Amanhã;Denise Oliveira;415693
+594;347388861811100;Fuga para a Realidade;Bruno Almeida;104059
+595;347388861814900;Fuga para a Realidade;Camila Santos;372625
+596;347388861818900;Tempestade de Emoções;Ana Paula Santos;395217
+597;347388861822600;Ventos do Destino;Mariana Almeida;70355
+598;347388861826600;Estrela Solitária;Thiago Santana;159559
+599;347388861831400;Fuga para a Realidade;Bruno Oliveira;22909
+600;347388861835100;Estrela Solitária;Juliana Costa;487692
+601;347388861838500;Harmonia do Universo;Juliana Ferreira;198293
+602;347388861842500;Som do Mar;Patrícia Ferreira;120700
+603;347388861846800;O Último Abraço;Juliana Costa;161616
+604;347388861852900;O Que Restou de Nós;Marcos Silva;229733
+605;347388861857400;A Magia do Amor;Mariana Costa;257617
+606;347388861861600;O Que Restou de Nós;Fernanda Carvalho;352535
+607;347388861865600;Dança da Lua;Roberta Souza;152947
+608;347388861870000;Noite de Inverno;Ingrid Santana;491823
+609;347388861874600;Harmonia do Universo;Bruno Almeida;291409
+610;347388861878100;Caminho da Esperança;Eduardo Costa;102281
+611;347388861880900;Noite de Verão;Lucas Martins;475275
+612;347388861883500;Noite de Verão;Gabriel Santos;458874
+613;347388861886300;Harmonia do Universo;Laura Oliveira;473709
+614;347388861888900;Pôr do Sol;Lucas Martins;215058
+615;347388861891600;Sombras no Horizonte;Roberta Souza;260514
+616;347388861894200;Noite de Inverno;Ricardo Santos;127195
+617;347388861896800;Caminho das Estrelas;Bruno Oliveira;458886
+618;347388861899400;Som do Mar;Rafael Santos;211765
+619;347388861902300;Sussurros do Passado;Marcos Silva;336249
+620;347388861905400;No Coração da Noite;Mariana Costa;401486
+621;347388861908000;A Dança da Vida;Ricardo Santos;233032
+622;347388861912300;Amanhecer Radiante;Fabiana Silva;12428
+623;347388861915100;Cores do Outono;Carolina Lima;23252
+624;347388861917800;A Dança da Vida;Juliana Ferreira;53668
+625;347388861920600;Ecos da Liberdade;Fernanda Almeida;339588
+626;347388861935100;Harmonia do Universo;Roberto Ferreira;479555
+627;347388861938700;Fuga para a Realidade;Vinícius Ferreira;413802
+628;347388861941300;Luz na Estrada;André Costa;312768
+629;347388861943900;Entre Sombras e Luz;Thiago Santana;480528
+630;347388861946500;Luz na Estrada;André Costa;26730
+631;347388861949300;O Último Abraço;Thiago Almeida;74704
+632;347388861951900;Ecos da Liberdade;Juliana Ferreira;367395
+633;347388861954600;Reflexo da Alma;André Almeida;471557
+634;347388861957200;Tempestade de Emoções;Rafael Santos;79020
+635;347388861959900;Caminho das Estrelas;Lucas Ferreira;224873
+636;347388861963700;Caminho das Estrelas;Mariana Costa;149904
+637;347388861967000;A Dança da Vida;Lucas Ferreira;322973
+638;347388861969700;Ecos do Amanhã;Patrícia Lima;284132
+639;347388861972400;Sombras no Horizonte;Carolina Lima;292181
+640;347388861981100;Amanhecer Radiante;Fernanda Carvalho;65106
+641;347388862002900;Pôr do Sol;Fernanda Almeida;250094
+642;347388862008100;O Que Restou de Nós;Ricardo Santos;343095
+643;347388862012300;Caminho da Esperança;Vinícius Santos;136954
+644;347388862016600;Ecos da Liberdade;Juliana Costa;174979
+645;347388862020800;Ventos do Destino;Aline Pereira;248206
+646;347388862025500;Noite de Inverno;João Almeida;204132
+647;347388862030300;Noite de Inverno;Vinícius Ferreira;319515
+648;347388862054000;Sombras no Horizonte;Ingrid Santana;467310
+649;347388862073700;Fuga para a Realidade;Fabiana Silva;359083
+650;347388862078300;Canção da Esperança;André Costa;59103
+651;347388862082800;Caminho das Estrelas;Marcos Silva;222044
+652;347388862087100;Cores do Outono;Camila Almeida;351260
+653;347388862091400;Ritmo do Coração;Bruno Oliveira;441999
+654;347388862095600;Estrela Solitária;Roberto Ferreira;176741
+655;347388862100000;Dança da Lua;Tatiane Ferreira;402775
+656;347388862104000;Canção da Esperança;Julia Santos;297717
+657;347388862108200;Caminho da Esperança;Tatiane Ferreira;363286
+658;347388862113100;O Que Restou de Nós;Fernanda Almeida;110769
+659;347388862116500;No Coração da Noite;Juliana Costa;276679
+660;347388862121200;Canção dos Ventos;Marcos Silva;45700
+661;347388862124800;O Último Abraço;André Costa;284020
+662;347388862129000;Sussurros do Passado;Carolina Lima;140533
+663;347388862133000;Ecos da Liberdade;Ricardo Santos;349814
+664;347388862136600;Tarde Dourada;Lara Oliveira;198502
+665;347388862140200;Pôr do Sol;Vinícius Santos;233615
+666;347388862144100;A Dança da Vida;Fabiana Silva;453388
+667;347388862148600;Sombras no Horizonte;Bruno Almeida;274285
+668;347388862152300;Noite de Inverno;Aline Pereira;388996
+669;347388862155200;Reflexo da Alma;Patrícia Ferreira;50782
+670;347388862165100;Reflexões do Amanhã;Patrícia Lima;454132
+671;347388862168000;A Magia do Amor;Carolina Lima;39968
+672;347388862170700;Fuga para a Realidade;Rafael Gomes;393988
+673;347388862173400;Reflexões do Amanhã;Pedro Henrique;331684
+674;347388862176100;Luz na Estrada;Laura Oliveira;390017
+675;347388862179500;Ventos do Destino;Bruno Oliveira;87388
+676;347388862184000;Canção da Esperança;Pedro Henrique;171175
+677;347388862188400;Reflexo da Alma;Fernanda Carvalho;136723
+678;347388862192300;Tempestade de Emoções;Carolina Lima;482643
+679;347388862195700;Caminhos Cruzados;Roberto Ferreira;275573
+680;347388862200900;Entre Sombras e Luz;Fernanda Carvalho;353619
+681;347388862205200;A Dança da Vida;Julia Santos;184521
+682;347388862210800;O Que Restou de Nós;Vinícius Santos;151473
+683;347388862214500;Estrela Solitária;Pedro Henrique;92856
+684;347388862218200;Ecos da Liberdade;Gabriel Santos;47705
+685;347388862221900;Tarde Dourada;Vinícius Ferreira;9705
+686;347388862226000;Canção da Esperança;Camila Santos;349975
+687;347388862230200;Pôr do Sol;Mariana Almeida;232626
+688;347388862234100;Ritmo do Coração;Felipe Almeida;256986
+689;347388862620000;Ecos da Liberdade;Bruno Almeida;184511
+690;347388862654300;Noite de Verão;Lucas Martins;427474
+691;347388862671700;Fuga para a Realidade;Julia Santos;398019
+692;347388862675500;Sussurros do Passado;Laura Oliveira;14379
+693;347388862678500;A Dança da Vida;Carolina Lima;277371
+694;347388862681200;Tarde Dourada;João Almeida;491988
+695;347388862685000;A Dança da Vida;Roberta Souza;438796
+696;347388862687800;Reflexo da Alma;Ingrid Santana;73696
+697;347388862690400;Noite de Inverno;João Almeida;103471
+698;347388862692900;O Último Abraço;Lara Oliveira;422698
+699;347388862695500;Noite de Inverno;Ricardo Santos;431800
+700;347388862698100;Luz na Estrada;Denise Oliveira;74221
+701;347388862700800;Harmonia do Universo;Pedro Henrique;356848
+702;347388862703400;Dança da Lua;Rafael Gomes;14834
+703;347388862706000;Caminhos Cruzados;Carolina Lima;307761
+704;347388862708500;Noite de Inverno;João Almeida;95120
+705;347388862711100;Entre Sombras e Luz;Roberta Souza;105326
+706;347388862713600;Ecos do Amanhã;Camila Santos;126898
+707;347388862716000;Canção da Esperança;Ricardo Santos;489066
+708;347388862718800;Tempestade de Emoções;Ricardo Ferreira;97939
+709;347388862721300;Pôr do Sol;Ricardo Santos;123289
+710;347388862723800;Noite de Verão;André Costa;415116
+711;347388862726300;Luz na Estrada;Juliana Ferreira;310125
+712;347388862728800;Ecos do Amanhã;Gabriel Santos;433685
+713;347388862731300;Noite de Verão;Julia Santos;392762
+714;347388862733900;Reflexões do Amanhã;Thiago Santana;103061
+715;347388862736900;Entre Sombras e Luz;Ana Paula Santos;177321
+716;347388862739400;A Dança da Vida;Lucas Ferreira;230001
+717;347388862741800;A Dança da Vida;Juliana Costa;461650
+718;347388862744200;Som do Mar;Gabriel Santos;149901
+719;347388862747300;A Dança da Vida;Vinícius Santos;146049
+720;347388862749900;Tarde Dourada;Vinícius Ferreira;144127
+721;347388862752400;Reflexo da Alma;Vinícius Ferreira;498842
+722;347388862754800;Sussurros do Passado;Thiago Santana;167376
+723;347388862757300;Caminho da Esperança;Ingrid Santana;455612
+724;347388862759800;O Que Restou de Nós;Felipe Almeida;380799
+725;347388862762200;Sombras no Horizonte;Roberta Souza;102303
+726;347388862764600;Pôr do Sol;Fabiana Silva;102930
+727;347388862767000;O Último Abraço;André Costa;405772
+728;347388862769400;Sombras no Horizonte;Lucas Ferreira;292861
+729;347388862771800;Som do Mar;Mariana Costa;104577
+730;347388862774400;Amanhecer Radiante;Ana Paula Santos;194032
+731;347388862776800;Sombras no Horizonte;Fernanda Carvalho;313861
+732;347388862779300;Dança da Lua;Carolina Lima;490294
+733;347388862781700;Tarde Dourada;Fernanda Almeida;79600
+734;347388862784100;Luz na Estrada;Felipe Almeida;355915
+735;347388862786600;Sombras no Horizonte;Rafael Gomes;376325
+736;347388862789000;Noite de Verão;Juliana Martins;246722
+737;347388862791400;Canção dos Ventos;Thiago Almeida;170026
+738;347388862793900;Sussurros do Passado;Tatiane Ferreira;386360
+739;347388862797100;Amanhecer Radiante;Roberto Ferreira;357539
+740;347388862799500;O Que Restou de Nós;Ingrid Santana;145138
+741;347388862802000;Som do Mar;Fabiana Silva;83740
+742;347388862804400;Noite de Verão;Fabiana Silva;58266
+743;347388862806800;Cores do Outono;Marcos Silva;434685
+744;347388862809200;Pôr do Sol;Roberto Ferreira;75041
+745;347388862811700;Luz na Estrada;Roberto Ferreira;315355
+746;347388862814100;Pôr do Sol;Ricardo Santos;424217
+747;347388862816500;Dança da Lua;Ingrid Santana;254762
+748;347388862818900;A Dança da Vida;Fernanda Carvalho;498255
+749;347388862821400;Tarde Dourada;Lucas Martins;73383
+750;347388862824700;Amanhecer Radiante;Mariana Costa;171635
+751;347388862827300;Caminho das Estrelas;Bruno Almeida;150977
+752;347388862829800;A Magia do Amor;Bruno Almeida;151953
+753;347388862832300;Tempestade de Emoções;Vinícius Santos;433413
+754;347388862835600;Caminhos Cruzados;Vinícius Ferreira;70552
+755;347388862838200;Canção dos Ventos;Juliana Costa;116395
+756;347388862840600;Estrela Solitária;Vinícius Ferreira;247821
+757;347388862843100;Ecos da Liberdade;Julia Santos;151646
+758;347388862845500;Reflexo da Alma;Mariana Costa;426555
+759;347388862848000;Sombras no Horizonte;Thiago Almeida;34772
+760;347388862850500;Noite de Inverno;Fernanda Almeida;449098
+761;347388862852900;Entre Sombras e Luz;Roberto Ferreira;492097
+762;347388862855400;Fuga para a Realidade;Juliana Costa;303276
+763;347388862858400;Sombras no Horizonte;Patrícia Ferreira;426450
+764;347388862861800;Caminho da Esperança;Carolina Lima;31053
+765;347388862864400;Amanhecer Radiante;Denise Oliveira;256985
+766;347388862866800;Som do Mar;Julia Santos;326954
+767;347388862869200;Amanhecer Radiante;Rafael Santos;218199
+768;347388862872800;Sombras no Horizonte;Camila Santos;309382
+769;347388862975600;Entre Sombras e Luz;Denise Oliveira;397426
+770;347388862981600;Sussurros do Passado;Thiago Almeida;462878
+771;347388862985500;Reflexo da Alma;Patrícia Lima;365409
+772;347388862988800;Ritmo do Coração;Patrícia Lima;134578
+773;347388862991700;Ecos do Amanhã;Juliana Costa;115607
+774;347388862994500;Cores do Outono;Denise Oliveira;63082
+775;347388862997400;Ventos do Destino;Tatiane Lima;213443
+776;347388862999900;Cores do Outono;Bruno Oliveira;78177
+777;347388863002400;Pôr do Sol;Thiago Almeida;11048
+778;347388863004700;Tempestade de Emoções;Fabiana Silva;395463
+779;347388863007000;O Que Restou de Nós;Marcos Silva;237752
+780;347388863009300;Sombras no Horizonte;Patrícia Ferreira;344321
+781;347388863013000;Harmonia do Universo;Marcos Silva;419043
+782;347388863015300;Pôr do Sol;Bruno Oliveira;57654
+783;347388863018500;Ritmo do Coração;Roberta Souza;436492
+784;347388863020900;Reflexo da Alma;Rafael Santos;376410
+785;347388863023100;Caminho das Estrelas;Ana Paula Santos;450746
+786;347388863025400;A Dança da Vida;Tatiane Ferreira;66614
+787;347388863027700;Sombras no Horizonte;Lucas Ferreira;133839
+788;347388863029900;Canção dos Ventos;Thiago Santana;33153
+789;347388863032200;Sussurros do Passado;André Almeida;34900
+790;347388863034500;Sussurros do Passado;Bruno Oliveira;57404
+791;347388863036700;Entre Sombras e Luz;Juliana Costa;478655
+792;347388863039000;Reflexões do Amanhã;Juliana Ferreira;215313
+793;347388863041200;Ecos do Amanhã;Bruno Oliveira;196618
+794;347388863043500;Reflexo da Alma;Ana Paula Santos;58217
+795;347388863045800;Harmonia do Universo;Mariana Almeida;146872
+796;347388863048000;Canção dos Ventos;Thiago Almeida;99484
+797;347388863050500;Som do Mar;Thiago Santana;223783
+798;347388863052800;Sussurros do Passado;Juliana Ferreira;395900
+799;347388863055000;Noite de Inverno;Ricardo Ferreira;140131
+800;347388863057300;Ecos do Amanhã;Mariana Almeida;439336
+801;347388863059500;Ritmo do Coração;Felipe Almeida;224772
+802;347388863061800;Luz na Estrada;Carolina Lima;231343
+803;347388863064000;A Magia do Amor;Juliana Martins;101409
+804;347388863066200;Ecos da Liberdade;Tatiane Ferreira;30845
+805;347388863068500;Ecos da Liberdade;Lucas Ferreira;285670
+806;347388863070700;A Magia do Amor;Lara Oliveira;450023
+807;347388863072900;Caminhos Cruzados;Gabriel Santos;17530
+808;347388863075200;Sombras no Horizonte;Laura Oliveira;310403
+809;347388863077400;Tarde Dourada;André Almeida;364541
+810;347388863080400;Amanhecer Radiante;Gabriel Santos;173485
+811;347388863082700;Ecos da Liberdade;André Costa;199438
+812;347388863085100;Noite de Inverno;Lucas Martins;292816
+813;347388863087400;Estrela Solitária;Roberta Souza;336707
+814;347388863089700;Sussurros do Passado;Julia Santos;181890
+815;347388863092000;Amanhecer Radiante;Fabiana Silva;95648
+816;347388863094300;Ecos do Amanhã;Pedro Henrique;326537
+817;347388863096700;Caminho da Esperança;Tatiane Lima;160791
+818;347388863099000;Harmonia do Universo;Felipe Almeida;261847
+819;347388863101300;Caminhos Cruzados;João Almeida;127586
+820;347388863103900;Harmonia do Universo;João Almeida;341670
+821;347388863106200;Ecos da Liberdade;Thiago Almeida;476092
+822;347388863108500;A Magia do Amor;Camila Almeida;247329
+823;347388863111300;A Magia do Amor;Ingrid Santana;232329
+824;347388863113600;Tarde Dourada;Pedro Henrique;393345
+825;347388863116000;Ecos do Amanhã;Fernanda Almeida;93434
+826;347388863118300;No Coração da Noite;Thiago Almeida;457170
+827;347388863120600;Noite de Verão;Juliana Martins;344822
+828;347388863378000;A Magia do Amor;Juliana Martins;148944
+829;347388863386500;A Dança da Vida;Bruno Oliveira;362359
+830;347388863408500;Ventos do Destino;Lucas Martins;214221
+831;347388863411800;No Coração da Noite;Thiago Santana;297989
+832;347388863414300;Caminho das Estrelas;Ingrid Santana;452405
+833;347388863416700;Dança da Lua;Denise Oliveira;403386
+834;347388863419000;Som do Mar;Mariana Costa;358201
+835;347388863421300;Pôr do Sol;Patrícia Ferreira;33278
+836;347388863423500;Som do Mar;Tatiane Lima;481472
+837;347388863425800;No Coração da Noite;Rafael Santos;144549
+838;347388863428000;Tempestade de Emoções;Fernanda Almeida;384702
+839;347388863430200;Harmonia do Universo;Gabriel Santos;150910
+840;347388863432400;No Coração da Noite;Felipe Almeida;476595
+841;347388863434600;Tarde Dourada;Patrícia Lima;172598
+842;347388863454700;Noite de Inverno;Bruno Almeida;361462
+843;347388863458600;Cores do Outono;Bruno Oliveira;473002
+844;347388863460900;Noite de Inverno;Bruno Oliveira;345131
+845;347388863463100;Noite de Inverno;Laura Oliveira;323426
+846;347388863465200;Canção dos Ventos;Fernanda Almeida;157026
+847;347388863467500;Reflexões do Amanhã;Felipe Almeida;317143
+848;347388863470500;Amanhecer Radiante;Bruno Almeida;181447
+849;347388863472700;Reflexões do Amanhã;Camila Almeida;70390
+850;347388863474900;Caminhos Cruzados;Pedro Henrique;451781
+851;347388863477100;Sombras no Horizonte;Bruno Almeida;114241
+852;347388863479200;Luz na Estrada;Juliana Martins;45194
+853;347388863481400;Ritmo do Coração;Felipe Almeida;156818
+854;347388863484100;A Magia do Amor;André Costa;345365
+855;347388863486900;No Coração da Noite;Lara Oliveira;361390
+856;347388863489100;Harmonia do Universo;Thiago Santana;98243
+857;347388863496200;Tempestade de Emoções;Marcos Silva;486379
+858;347388863498800;Tarde Dourada;Vinícius Ferreira;37525
+859;347388863501000;Noite de Inverno;Fernanda Almeida;443014
+860;347388863503200;O Último Abraço;Roberto Ferreira;499828
+861;347388863505300;Sombras no Horizonte;Ingrid Santana;288292
+862;347388863507400;Canção dos Ventos;Fernanda Carvalho;487176
+863;347388863509600;Canção dos Ventos;André Almeida;146106
+864;347388863512000;Tempestade de Emoções;Denise Oliveira;327576
+865;347388863514200;Noite de Inverno;Fernanda Almeida;395441
+866;347388863516300;Caminho da Esperança;Aline Pereira;454535
+867;347388863518500;Ritmo do Coração;Roberta Souza;154645
+868;347388863520600;Ecos do Amanhã;Juliana Costa;144582
+869;347388863522700;Noite de Inverno;Tatiane Lima;11794
+870;347388863524900;Noite de Verão;Patrícia Ferreira;261275
+871;347388863527000;O Que Restou de Nós;Julia Santos;279019
+872;347388863529100;A Dança da Vida;Ricardo Ferreira;39739
+873;347388863531300;Amanhecer Radiante;Roberto Ferreira;442991
+874;347388863533400;Pôr do Sol;Tatiane Ferreira;425837
+875;347388863535500;Sussurros do Passado;João Almeida;483301
+876;347388863537600;Harmonia do Universo;Roberto Ferreira;148093
+877;347388863539700;Tarde Dourada;Julia Santos;232605
+878;347388863541800;O Que Restou de Nós;André Costa;119395
+879;347388863544000;Pôr do Sol;André Almeida;156879
+880;347388863546100;Canção da Esperança;Aline Pereira;199714
+881;347388863548100;Noite de Verão;Rafael Santos;257300
+882;347388863550200;Sussurros do Passado;Aline Pereira;15501
+883;347388863552400;Sussurros do Passado;Bruno Almeida;432999
+884;347388863554500;Sombras no Horizonte;Camila Santos;180727
+885;347388863556700;Tarde Dourada;Felipe Almeida;458867
+886;347388863558800;Harmonia do Universo;Tatiane Ferreira;363717
+887;347388863561100;Tarde Dourada;Roberta Souza;424234
+888;347388863563200;Tempestade de Emoções;Rafael Gomes;335909
+889;347388863565300;Reflexões do Amanhã;Lucas Martins;368186
+890;347388863567500;O Último Abraço;Lucas Ferreira;167101
+891;347388863569600;Luz na Estrada;Felipe Almeida;198852
+892;347388863571700;Sombras no Horizonte;Laura Oliveira;117558
+893;347388863573800;Amanhecer Radiante;Gustavo Rodrigues;156747
+894;347388863575900;Reflexões do Amanhã;Julia Santos;299833
+895;347388863578000;Tarde Dourada;Bruno Oliveira;481116
+896;347388863581500;A Dança da Vida;Lucas Ferreira;115966
+897;347388863627300;Tempestade de Emoções;Fernanda Almeida;291653
+898;347388863635200;Som do Mar;Laura Oliveira;387141
+899;347388863638300;Ecos do Amanhã;Lara Oliveira;155842
+900;347388863641000;O Que Restou de Nós;Ana Paula Santos;62205
+901;347388863643600;Entre Sombras e Luz;Bruno Almeida;322342
+902;347388863646000;Pôr do Sol;Patrícia Lima;400777
+903;347388863648200;Tempestade de Emoções;Tatiane Ferreira;457950
+904;347388863650400;Dança da Lua;Roberto Ferreira;180265
+905;347388863652500;Luz na Estrada;Felipe Almeida;278916
+906;347388863654600;Sussurros do Passado;Patrícia Lima;364864
+907;347388863656700;Luz na Estrada;Patrícia Lima;265118
+908;347388863658700;Luz na Estrada;André Almeida;465617
+909;347388863661000;Luz na Estrada;Patrícia Ferreira;31887
+910;347388863663000;A Dança da Vida;Juliana Costa;320720
+911;347388863664900;Estrela Solitária;Rafael Gomes;114851
+912;347388863667000;Luz na Estrada;Vinícius Santos;212261
+913;347388863669000;Dança da Lua;Gabriel Santos;481645
+914;347388863671000;Canção dos Ventos;Bruno Oliveira;204572
+915;347388863673000;Ritmo do Coração;Gustavo Rodrigues;193489
+916;347388863675100;No Coração da Noite;Rafael Santos;121562
+917;347388863677100;O Que Restou de Nós;Denise Oliveira;348250
+918;347388863679200;Tempestade de Emoções;Aline Pereira;98460
+919;347388863681300;Dança da Lua;Fabiana Silva;411226
+920;347388863683300;Noite de Verão;Carolina Lima;3314
+921;347388863685300;O Último Abraço;Marcos Silva;313635
+922;347388863687400;Tarde Dourada;Juliana Costa;461653
+923;347388863689400;Caminho da Esperança;Juliana Ferreira;425678
+924;347388863691500;Canção dos Ventos;Vinícius Ferreira;51552
+925;347388863693500;No Coração da Noite;Carolina Lima;305607
+926;347388863695500;Canção da Esperança;Fernanda Almeida;329965
+927;347388863697500;Caminho das Estrelas;Carolina Lima;165513
+928;347388863699500;Noite de Inverno;Ricardo Santos;487537
+929;347388863701600;Ritmo do Coração;Rafael Gomes;295506
+930;347388863703600;Dança da Lua;Roberto Ferreira;96959
+931;347388863705600;Reflexo da Alma;João Almeida;360480
+932;347388863707800;Fuga para a Realidade;Juliana Martins;484591
+933;347388863709800;Ecos da Liberdade;Vinícius Santos;432799
+934;347388863711800;Entre Sombras e Luz;Juliana Martins;138932
+935;347388863713800;Canção da Esperança;Pedro Henrique;450033
+936;347388863715900;Cores do Outono;Rafael Santos;339752
+937;347388863717900;Canção da Esperança;João Almeida;345424
+938;347388863719900;Ventos do Destino;Ricardo Ferreira;403450
+939;347388863721900;Ritmo do Coração;Marcos Silva;197231
+940;347388863723900;Ecos da Liberdade;Mariana Costa;244212
+941;347388863726000;Ritmo do Coração;Eduardo Costa;248916
+942;347388863728000;Pôr do Sol;Mariana Costa;301238
+943;347388863730000;Reflexo da Alma;Thiago Almeida;373680
+944;347388863732000;Fuga para a Realidade;Ingrid Santana;251292
+945;347388863734000;O Último Abraço;Bruno Almeida;156509
+946;347388863736000;O Que Restou de Nós;Ricardo Santos;362748
+947;347388863738100;Caminho da Esperança;Lara Oliveira;183867
+948;347388863740100;Cores do Outono;Rafael Santos;214014
+949;347388863742000;Fuga para a Realidade;João Almeida;11652
+950;347388863744100;Dança da Lua;Fernanda Carvalho;441767
+951;347388863746100;Fuga para a Realidade;Fernanda Almeida;148408
+952;347388863748100;Caminhos Cruzados;André Almeida;396534
+953;347388863750100;O Último Abraço;Lara Oliveira;263682
+954;347388863752300;Caminhos Cruzados;Lara Oliveira;63435
+955;347388863754300;Tarde Dourada;Fernanda Carvalho;304222
+956;347388863756300;O Que Restou de Nós;Fernanda Almeida;48095
+957;347388863758300;A Magia do Amor;Lara Oliveira;182869
+958;347388863760200;O Último Abraço;Ana Paula Santos;451279
+959;347388863762200;Fuga para a Realidade;Vinícius Ferreira;445691
+960;347388863764300;O Que Restou de Nós;Eduardo Costa;281311
+961;347388863766300;Fuga para a Realidade;Thiago Santana;212052
+962;347388863768300;Amanhecer Radiante;Roberto Ferreira;362913
+963;347388863770300;Caminho das Estrelas;Lara Oliveira;120556
+964;347388863772300;Luz na Estrada;Juliana Costa;494921
+965;347388863774300;Som do Mar;Ingrid Santana;218008
+966;347388863999700;Cores do Outono;Ricardo Santos;365385
+967;347388864042800;Amanhecer Radiante;Bruno Oliveira;443746
+968;347388864049000;Amanhecer Radiante;Mariana Costa;385188
+969;347388864051400;Canção da Esperança;Mariana Costa;454033
+970;347388864053600;Reflexo da Alma;Gustavo Rodrigues;374375
+971;347388864055600;O Que Restou de Nós;Camila Santos;308629
+972;347388864057500;Fuga para a Realidade;Vinícius Ferreira;210386
+973;347388864059500;Harmonia do Universo;Camila Almeida;10313
+974;347388864061600;Caminho das Estrelas;Vinícius Santos;65888
+975;347388864063500;Harmonia do Universo;Gustavo Rodrigues;326128
+976;347388864065700;No Coração da Noite;Bruno Oliveira;24372
+977;347388864067700;O Último Abraço;Gabriel Santos;386784
+978;347388864069600;Sussurros do Passado;Gustavo Rodrigues;187482
+979;347388864071500;Ventos do Destino;Vinícius Ferreira;399232
+980;347388864073500;Ventos do Destino;Tatiane Lima;474449
+981;347388864075500;No Coração da Noite;Juliana Costa;68876
+982;347388864077400;Caminho das Estrelas;Lucas Martins;19921
+983;347388864079300;O Último Abraço;João Almeida;332738
+984;347388864081300;Ecos da Liberdade;Patrícia Ferreira;304893
+985;347388864083200;O Último Abraço;Ricardo Santos;393331
+986;347388864085100;Ecos do Amanhã;Denise Oliveira;415082
+987;347388864087000;Ecos do Amanhã;Lucas Ferreira;362576
+988;347388864088900;A Magia do Amor;Ricardo Ferreira;258783
+989;347388864090800;A Dança da Vida;Lucas Ferreira;12688
+990;347388864092700;Noite de Inverno;Fernanda Carvalho;141772
+991;347388864094700;Sombras no Horizonte;Vinícius Santos;269840
+992;347388864096600;Harmonia do Universo;Fernanda Carvalho;78867
+993;347388864098600;Sussurros do Passado;Patrícia Ferreira;84999
+994;347388864101300;Ecos do Amanhã;Rafael Gomes;302039
+995;347388864103500;Caminho da Esperança;Marcos Silva;477314
+996;347388864105400;Amanhecer Radiante;Mariana Costa;232183
+997;347388864107300;Noite de Verão;Juliana Martins;62030
+998;347388864109500;Estrela Solitária;João Almeida;452404
+999;347388864111400;Ecos da Liberdade;Roberta Souza;256236
+1000;347388864113300;Noite de Verão;André Almeida;341258

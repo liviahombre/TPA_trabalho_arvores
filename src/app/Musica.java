@@ -14,6 +14,21 @@ public class Musica {
 
     }
 
+    public Musica ()
+    {
+        this.index = null;
+        this.nome = null;
+        this.autor = null;
+        this.views = null;
+    }
+
+    public Musica(Long index, String nome, String autor, Long views) {
+        this.index = index;
+        this.nome = nome;
+        this.autor = autor;
+        this.views = views;
+    }
+
     public Long getIndex() {
         return index;
     }
@@ -28,6 +43,10 @@ public class Musica {
 
     public Long getViews() {
         return views;
+    }
+
+    public void setIndex(Long index) {
+        this.index = index;
     }
 
     @Override
