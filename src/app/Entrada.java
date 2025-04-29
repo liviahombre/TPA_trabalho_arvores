@@ -87,10 +87,8 @@ public class Entrada {
                 case 2:
                     System.out.println("Digite o nome da música:");
                     String nomeParaBusca = s.nextLine();
-                    System.out.println("Digite o nome do autor:");
-                    String autorParaBusca = s.nextLine();
                     
-                    Musica musicaParaBusca2 = new Musica(null, nomeParaBusca, autorParaBusca, null, null);
+                    Musica musicaParaBusca2 = new Musica(null, nomeParaBusca, null, null, null);
                     
                     Musica resultado2 = arvore.pesquisar(musicaParaBusca2, new SecondaryComparator());
 
@@ -151,7 +149,6 @@ public class Entrada {
 
             case 5:
                 System.out.println("Saindo...");
-                s.close();
                 break;
             
                 default:

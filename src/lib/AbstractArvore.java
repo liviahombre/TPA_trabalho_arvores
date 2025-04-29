@@ -53,10 +53,18 @@ public abstract class AbstractArvore<T> implements IArvoreBinaria<T> {
             return null;
         }
 
-        if (novoComparador.compare(valor, no.getValor()) == 0) return valor;
-        if (pesquisarRecursivo(no.getEsquerda(), valor, novoComparador) == valor) return valor;
-        if (pesquisarRecursivo(no.getDireita(), valor, novoComparador) == valor) return valor;
-        return null;
+        if (novoComparador.compare(valor, no.getValor()) == 0) return no.getValor();
+
+        T vEsq = pesquisarRecursivo(no.getEsquerda(), valor, novoComparador);
+        if (vEsq != null && novoComparador.compare(valor, vEsq) == 0) return vEsq;
+
+        // if (pesquisarRecursivo(no.getEsquerda(), valor, novoComparador) == valor) return no.getValor();
+        
+        T vDir = pesquisarRecursivo(no.getDireita(), valor, novoComparador);
+        // if (vDir != null && novoComparador.compare(valor, vDir) == 0) return vDir;
+        
+        // if (pesquisarRecursivo(no.getDireita(), valor, novoComparador) == valor) return no.getValor();
+        return vDir;
     }  
 
     @Override
@@ -83,16 +91,21 @@ public abstract class AbstractArvore<T> implements IArvoreBinaria<T> {
             // Caso 1: Nó sem filhos (folha)
             if (no.getEsquerda() == null && no.getDireita() == null) {
                 no = null;
+                return noRemovido;
             }
-            // Caso 2: Nó com filho a esquerda ou ambos
-            if (no.getEsquerda() != null && no.getDireita() == null || no.getEsquerda() != null && no.getDireita() != null) {
-                no = removerMaiorNo(no.getEsquerda());
-            }
-            // Caso 3: Nó com filho a direita
-            if (no.getEsquerda() == null && no.getDireita() != null) {
-                no = removerMenorNo(no.getDireita());
-            }
+            // Caso 2: Nó com um filho
+            // Filho assume o lugar do nó removido
 
+            // if (no.getEsquerda() != null && no.getDireita() == null || no.getEsquerda() != null && no.getDireita() != null) {
+            //     no = removerMaiorNo(no.getEsquerda());
+            //     return noRemovido;
+            // }
+
+            // Caso 3: Nó com 2 filhos
+            // Maior valor da sub árvore esquerda assume o lugar do nó removido
+            // Remover o maior nó da sub árvore esquerda (Caso 1 ou Caso 2, certamente)
+            
+            // no = removerMenorNo(no.getDireita());
             return noRemovido;
 
         } else if (comparacao < 0) {
@@ -110,7 +123,9 @@ public abstract class AbstractArvore<T> implements IArvoreBinaria<T> {
      */
     protected No<T> removerMaiorNo(No<T> no) {
         if (no.getDireita() == null) {
-            return no;
+            No<T> aux = no;
+            no = null;
+            return aux;
         } else {
             return removerMaiorNo(no.getDireita());
         }
@@ -124,7 +139,9 @@ public abstract class AbstractArvore<T> implements IArvoreBinaria<T> {
      */
     protected No<T> removerMenorNo(No<T> no) {
         if (no.getEsquerda() == null) {
-            return no;
+            No<T> aux = no;
+            no = null;
+            return aux;
         } else {
             return removerMenorNo(no.getEsquerda());
         }
