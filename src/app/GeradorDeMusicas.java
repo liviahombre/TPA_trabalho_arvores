@@ -48,14 +48,10 @@ public class GeradorDeMusicas {
                 Long index = System.nanoTime(); // Simulando um índice único
                 String nome = gerarNomeMusicaAleatorio(random);
                 String artista = gerarArtistaAleatorio(random);
-<<<<<<< HEAD
+                int duracao = 60 + random.nextInt(300); 
                 int visualizacoes = random.nextInt(500000); 
-=======
-                int duracao = 60 + random.nextInt(540); 
-                int visualizacoes = random.nextInt(5000000); 
->>>>>>> 037930bfb23f39554777c0242fea6827500061de
 
-                writer.write(i + ";"+ index + ";" + nome + ";" + artista + ";" + visualizacoes + "\n");
+                writer.write(i + ";"+ index + ";" + nome + ";" + artista + ";" + visualizacoes + ";" + duracao + ";" + "\n");
 
                 if (i % 10000 == 0) {
                     System.out.println(i + " músicas geradas...");

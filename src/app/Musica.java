@@ -1,14 +1,13 @@
 package app;
 
 public class Musica {
-    private int index;
+    private Long index;
     private String nome, autor;
-    private int views;
-    private int duracao;
+    private Long views;
+    private Long duracao;
 
-    public Musica (int index, String nome, String autor, int views, int duracao) {
-        
-        this.index = index;
+    public Musica (String nome, String autor, Long views, Long duracao) {
+        this.index = System.nanoTime();
         this.nome = nome;
         this.autor = autor;
         this.views = views;
@@ -16,26 +15,24 @@ public class Musica {
 
     }
 
-<<<<<<< HEAD
     public Musica ()
     {
         this.index = null;
         this.nome = null;
         this.autor = null;
         this.views = null;
+        this.duracao = null;
     }
 
-    public Musica(Long index, String nome, String autor, Long views) {
+    public Musica(Long index, String nome, String autor, Long views, Long duracao) {
         this.index = index;
         this.nome = nome;
         this.autor = autor;
         this.views = views;
+        this.duracao = duracao;
     }
 
     public Long getIndex() {
-=======
-    public int getIndex() {
->>>>>>> 037930bfb23f39554777c0242fea6827500061de
         return index;
     }
 
@@ -47,17 +44,16 @@ public class Musica {
         return autor;
     }
 
-    public int getViews() {
+    public Long getViews() {
         return views;
     }
 
-<<<<<<< HEAD
     public void setIndex(Long index) {
         this.index = index;
-=======
-    public int getDuracao() {
+    }
+
+    public Long getDuracao() {
         return duracao;
->>>>>>> 037930bfb23f39554777c0242fea6827500061de
     }
 
     @Override

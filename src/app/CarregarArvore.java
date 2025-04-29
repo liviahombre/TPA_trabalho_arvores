@@ -20,8 +20,9 @@ public class CarregarArvore {
                 String nome = dados[2];
                 String autor = dados[3];
                 Long views = Long.parseLong(dados[4]);
+                Long duracao = Long.parseLong(dados[5]);
 
-                Musica musica = new Musica(index, nome, autor, views);
+                Musica musica = new Musica(index, nome, autor, views, duracao);
                 arvore.adicionar(musica);
             }
 

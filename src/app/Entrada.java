@@ -32,17 +32,12 @@ public class Entrada {
                 System.out.println("Digite o nome do autor:");
                 String nomeArtista = s.nextLine();
                 System.out.println("Digite a quantidade de visualizações:");
-<<<<<<< HEAD
                 Long views = s.nextLong();
-                s.nextLine(); // Limpar o buffer
-=======
-                int views = s.nextInt();
                 System.out.println("Digite a duracao:");
-                int duracao = s.nextInt();
-                int index = arvore.quantidadeNos() + 1;
->>>>>>> 037930bfb23f39554777c0242fea6827500061de
+                Long duracao = s.nextLong();
+                s.nextLine();
 
-                Musica musica = new Musica(index, nomeMusica, nomeArtista, views, duracao);
+                Musica musica = new Musica(nomeMusica, nomeArtista, views, duracao);
                 arvore.adicionar(musica);
 
                 limpartela();
@@ -53,6 +48,7 @@ public class Entrada {
                 System.out.println("Autor: " + musica.getAutor());
                 System.out.println("Index: " + musica.getIndex());
                 System.out.println("Visualizações: " + musica.getViews());
+                System.out.println("Duração: " + musica.getDuracao());
                 break;
 
             case 2:
@@ -80,6 +76,7 @@ public class Entrada {
                         System.out.println("Autor: " + resultado.getAutor());
                         System.out.println("Index: " + resultado.getIndex());
                         System.out.println("Visualizações: " + resultado.getViews());
+                        System.out.println("Duração: " + resultado.getDuracao());
                     } 
                     
                     else {
@@ -93,7 +90,7 @@ public class Entrada {
                     System.out.println("Digite o nome do autor:");
                     String autorParaBusca = s.nextLine();
                     
-                    Musica musicaParaBusca2 = new Musica(nomeParaBusca, autorParaBusca, null);
+                    Musica musicaParaBusca2 = new Musica(null, nomeParaBusca, autorParaBusca, null, null);
                     
                     Musica resultado2 = arvore.pesquisar(musicaParaBusca2, new SecondaryComparator());
 
@@ -103,6 +100,7 @@ public class Entrada {
                         System.out.println("Autor: " + resultado2.getAutor());
                         System.out.println("Index: " + resultado2.getIndex());
                         System.out.println("Visualizações: " + resultado2.getViews());
+                        System.out.println("Duração: " + resultado2.getDuracao());
                     } 
                     
                     else {
@@ -137,6 +135,7 @@ public class Entrada {
                     System.out.println("Autor: " + resultadoRemocao.getAutor());
                     System.out.println("Index: " + resultadoRemocao.getIndex());
                     System.out.println("Visualizações: " + resultadoRemocao.getViews());
+                    System.out.println("Duração: " + resultadoRemocao.getDuracao());
                 } else {
                     System.out.println("Música não encontrada.");
                 }
@@ -174,7 +173,7 @@ public class Entrada {
     }
 
     public void inicializar() {
-        GeradorDeMusicas.gerar(); 
+        GeradorDeMusicas.gerarOrdenado(); 
         CarregarArvore.carregarMusicasArquivo(arvore);
     }
 

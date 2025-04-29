@@ -1,1001 +1,1001 @@
 1000
-1;347388829108700;Ritmo do Coração;Gabriel Santos;387366
-2;347388850433500;O Último Abraço;Juliana Ferreira;260782
-3;347388850467600;Ecos do Amanhã;Ana Paula Santos;91686
-4;347388850482200;O Que Restou de Nós;Tatiane Ferreira;192385
-5;347388850503100;Ritmo do Coração;Lucas Martins;332857
-6;347388850515000;Dança da Lua;Camila Santos;343360
-7;347388850527600;Reflexo da Alma;Vinícius Ferreira;91026
-8;347388850629700;Reflexões do Amanhã;Tatiane Lima;105315
-9;347388850653500;O Último Abraço;Vinícius Santos;482065
-10;347388850668600;No Coração da Noite;Juliana Ferreira;309469
-11;347388850681800;Tarde Dourada;Fernanda Almeida;333963
-12;347388850693300;Ecos do Amanhã;André Almeida;94414
-13;347388850706600;O Que Restou de Nós;Mariana Almeida;332090
-14;347388850726800;A Magia do Amor;Rafael Santos;404577
-15;347388850737600;Canção dos Ventos;Tatiane Lima;320378
-16;347388850748600;Sussurros do Passado;Fernanda Carvalho;405236
-17;347388850759600;Tarde Dourada;Lara Oliveira;323754
-18;347388850770500;Sombras no Horizonte;Thiago Santana;497711
-19;347388850781500;Tempestade de Emoções;Bruno Almeida;235178
-20;347388850797700;Sussurros do Passado;Roberto Ferreira;440623
-21;347388850809500;Fuga para a Realidade;Patrícia Lima;368988
-22;347388850818300;Noite de Inverno;Felipe Almeida;401791
-23;347388850827300;A Magia do Amor;Juliana Martins;258482
-24;347388850836400;Harmonia do Universo;Marcos Silva;419648
-25;347388850846200;Tempestade de Emoções;Ricardo Santos;175843
-26;347388850895600;Canção dos Ventos;Bruno Oliveira;74766
-27;347388850934800;Sombras no Horizonte;André Costa;357081
-28;347388850948100;Reflexo da Alma;Ana Paula Santos;451698
-29;347388850979400;Ritmo do Coração;Lara Oliveira;457122
-30;347388851009000;Ecos da Liberdade;Lara Oliveira;430442
-31;347388851024200;O Que Restou de Nós;André Almeida;260379
-32;347388851039900;Noite de Verão;Camila Almeida;368979
-33;347388851052000;Ecos da Liberdade;Fernanda Carvalho;392802
-34;347388851064600;Luz na Estrada;Ingrid Santana;405537
-35;347388851082500;No Coração da Noite;Lara Oliveira;279088
-36;347388851097600;Harmonia do Universo;Roberta Souza;172147
-37;347388851149300;Noite de Inverno;André Costa;29733
-38;347388851217100;Pôr do Sol;Patrícia Lima;27885
-39;347388851260200;Fuga para a Realidade;Tatiane Lima;485908
-40;347388851279500;Dança da Lua;Ricardo Santos;191172
-41;347388851296100;Sombras no Horizonte;Juliana Martins;16095
-42;347388851326900;Ecos da Liberdade;Denise Oliveira;153030
-43;347388851353200;Tempestade de Emoções;André Costa;61225
-44;347388851460000;Entre Sombras e Luz;João Almeida;185141
-45;347388851498000;Canção dos Ventos;Vinícius Santos;426956
-46;347388851518700;Sombras no Horizonte;Julia Santos;450316
-47;347388851543600;Harmonia do Universo;Bruno Almeida;378593
-48;347388851571900;Ecos do Amanhã;Gustavo Rodrigues;382227
-49;347388851600600;Estrela Solitária;Roberta Souza;402564
-50;347388851626300;Som do Mar;Vinícius Santos;245368
-51;347388851644700;Caminho das Estrelas;Vinícius Santos;210113
-52;347388851675200;Reflexões do Amanhã;Lucas Martins;286918
-53;347388851762200;Reflexões do Amanhã;Juliana Costa;340403
-54;347388851865100;Pôr do Sol;Ricardo Santos;370854
-55;347388851941800;Reflexões do Amanhã;Bruno Oliveira;424167
-56;347388851994500;Ventos do Destino;Camila Santos;301709
-57;347388852066600;Reflexões do Amanhã;Tatiane Lima;39692
-58;347388852132900;Canção da Esperança;Gustavo Rodrigues;320297
-59;347388852191400;Som do Mar;Aline Pereira;299253
-60;347388852245700;Estrela Solitária;Thiago Almeida;196126
-61;347388852274000;Pôr do Sol;Thiago Santana;347301
-62;347388852298700;O Que Restou de Nós;Tatiane Ferreira;373619
-63;347388852317400;Tempestade de Emoções;Bruno Almeida;79758
-64;347388852337700;Harmonia do Universo;Lucas Martins;203237
-65;347388852359700;Ecos do Amanhã;João Almeida;105606
-66;347388852386200;Reflexões do Amanhã;Vinícius Santos;171079
-67;347388852413200;Pôr do Sol;João Almeida;297317
-68;347388852437100;Caminho das Estrelas;Lucas Ferreira;350271
-69;347388852464700;No Coração da Noite;Lucas Ferreira;41250
-70;347388852501700;O Último Abraço;Felipe Almeida;235941
-71;347388852541200;Canção dos Ventos;Fernanda Carvalho;287519
-72;347388852609600;O Que Restou de Nós;André Costa;154266
-73;347388852670400;O Último Abraço;Thiago Almeida;319856
-74;347388852701200;No Coração da Noite;Juliana Ferreira;209145
-75;347388852740400;Luz na Estrada;Lucas Ferreira;441397
-76;347388852772300;Ecos do Amanhã;Eduardo Costa;242837
-77;347388852795500;Reflexo da Alma;Tatiane Lima;477467
-78;347388852889800;Ventos do Destino;Denise Oliveira;405513
-79;347388852920200;O Último Abraço;Juliana Costa;303044
-80;347388852940900;Fuga para a Realidade;Eduardo Costa;187703
-81;347388852962400;Canção da Esperança;Vinícius Ferreira;386396
-82;347388853063300;O Último Abraço;Denise Oliveira;72098
-83;347388853086300;Ventos do Destino;Lara Oliveira;51240
-84;347388853105900;Harmonia do Universo;Rafael Gomes;463701
-85;347388853121200;Harmonia do Universo;Patrícia Ferreira;400433
-86;347388853142700;Canção da Esperança;Fernanda Almeida;289542
-87;347388853165100;Sombras no Horizonte;Vinícius Santos;218155
-88;347388853192100;Ventos do Destino;Denise Oliveira;136141
-89;347388853209800;Cores do Outono;Camila Santos;413039
-90;347388853227300;Sombras no Horizonte;Camila Santos;239804
-91;347388853246000;Noite de Inverno;Camila Santos;31748
-92;347388853263100;O Que Restou de Nós;Vinícius Ferreira;306432
-93;347388853280000;Amanhecer Radiante;André Almeida;412922
-94;347388853301700;Caminhos Cruzados;Thiago Santana;244763
-95;347388853319000;O Último Abraço;Gabriel Santos;315715
-96;347388853334800;Pôr do Sol;Lara Oliveira;399993
-97;347388853351200;A Magia do Amor;Thiago Almeida;410909
-98;347388853367200;O Que Restou de Nós;Fernanda Carvalho;54524
-99;347388853380200;Ecos do Amanhã;Tatiane Lima;346834
-100;347388853398100;O Que Restou de Nós;Pedro Henrique;434176
-101;347388853424800;Ventos do Destino;Lucas Martins;43549
-102;347388853464800;Amanhecer Radiante;Ana Paula Santos;271076
-103;347388853492900;A Dança da Vida;Bruno Almeida;6334
-104;347388853563400;Reflexo da Alma;Mariana Costa;107938
-105;347388853589900;Canção dos Ventos;Bruno Oliveira;314127
-106;347388853604000;Reflexões do Amanhã;Rafael Gomes;344883
-107;347388853616900;Canção da Esperança;Fernanda Almeida;190204
-108;347388853628000;Ritmo do Coração;Ana Paula Santos;206441
-109;347388853640900;Cores do Outono;Tatiane Ferreira;282801
-110;347388853655400;A Magia do Amor;Gabriel Santos;311540
-111;347388853669400;Fuga para a Realidade;Rafael Gomes;371278
-112;347388853683700;Tarde Dourada;Fabiana Silva;41371
-113;347388853697000;No Coração da Noite;Patrícia Ferreira;248062
-114;347388853711300;Dança da Lua;Julia Santos;70825
-115;347388853721700;Ritmo do Coração;Pedro Henrique;345965
-116;347388853732800;Entre Sombras e Luz;Bruno Oliveira;59032
-117;347388853744700;Reflexões do Amanhã;Ricardo Ferreira;298178
-118;347388853758200;O Último Abraço;Patrícia Ferreira;333754
-119;347388853769800;A Magia do Amor;Carolina Lima;81481
-120;347388853781600;Ecos do Amanhã;Bruno Oliveira;180508
-121;347388853794700;Luz na Estrada;Rafael Gomes;224790
-122;347388853817100;Canção da Esperança;Lara Oliveira;312994
-123;347388853847300;Caminho da Esperança;Camila Almeida;118485
-124;347388853862000;Sussurros do Passado;Thiago Santana;32022
-125;347388853932000;Caminhos Cruzados;Vinícius Santos;216365
-126;347388853967600;O Que Restou de Nós;André Costa;33535
-127;347388853986800;Cores do Outono;Ana Paula Santos;230118
-128;347388854000000;Caminhos Cruzados;Pedro Henrique;421899
-129;347388854028700;Amanhecer Radiante;Ricardo Ferreira;147316
-130;347388854046900;Ecos da Liberdade;Thiago Almeida;485532
-131;347388854059100;Entre Sombras e Luz;Ana Paula Santos;258786
-132;347388854070500;Luz na Estrada;Tatiane Lima;303092
-133;347388854080200;Ventos do Destino;Camila Santos;364288
-134;347388854090700;Noite de Inverno;Roberto Ferreira;7301
-135;347388854102600;Ecos da Liberdade;Felipe Almeida;175038
-136;347388854113900;Amanhecer Radiante;Denise Oliveira;386872
-137;347388854125000;Caminho das Estrelas;João Almeida;476776
-138;347388854135700;A Magia do Amor;Vinícius Ferreira;414702
-139;347388854146600;Ritmo do Coração;João Almeida;54184
-140;347388856204200;No Coração da Noite;Vinícius Ferreira;352462
-141;347388856296700;Estrela Solitária;Patrícia Lima;177564
-142;347388856327200;Luz na Estrada;Carolina Lima;442472
-143;347388856387500;Entre Sombras e Luz;Carolina Lima;346157
-144;347388856404700;Entre Sombras e Luz;Aline Pereira;407579
-145;347388856416200;O Último Abraço;Marcos Silva;240245
-146;347388856426400;Harmonia do Universo;Rafael Gomes;214537
-147;347388856436700;Reflexo da Alma;André Almeida;200155
-148;347388856485700;Ventos do Destino;Tatiane Ferreira;410539
-149;347388856498500;Fuga para a Realidade;Julia Santos;387219
-150;347388856510400;Caminho da Esperança;Roberta Souza;104447
-151;347388856521200;Reflexo da Alma;Fernanda Almeida;279566
-152;347388856542800;Noite de Verão;André Almeida;89462
-153;347388856556300;Fuga para a Realidade;Vinícius Santos;460589
-154;347388856569400;Caminhos Cruzados;Fernanda Carvalho;345178
-155;347388856582300;Sombras no Horizonte;Vinícius Ferreira;207857
-156;347388856598000;Noite de Inverno;Juliana Martins;417274
-157;347388856611200;No Coração da Noite;Ana Paula Santos;72330
-158;347388856623400;Fuga para a Realidade;Roberto Ferreira;204027
-159;347388856635600;Tempestade de Emoções;Lucas Martins;279491
-160;347388856648300;Luz na Estrada;Roberto Ferreira;442040
-161;347388856660900;A Dança da Vida;Tatiane Ferreira;190326
-162;347388856673000;Amanhecer Radiante;Roberta Souza;254660
-163;347388856686100;Tarde Dourada;Lara Oliveira;200226
-164;347388856698700;Ecos da Liberdade;Ana Paula Santos;470005
-165;347388856711800;Caminho da Esperança;Gustavo Rodrigues;404184
-166;347388856793500;Noite de Inverno;André Almeida;479045
-167;347388856868100;Entre Sombras e Luz;Thiago Almeida;448587
-168;347388856891200;O Último Abraço;Ana Paula Santos;135095
-169;347388856905200;Noite de Verão;Fabiana Silva;68296
-170;347388856917200;Estrela Solitária;Pedro Henrique;117768
-171;347388856929800;Dança da Lua;Felipe Almeida;350695
-172;347388856988900;A Dança da Vida;Bruno Almeida;263649
-173;347388857001900;Luz na Estrada;Camila Almeida;240646
-174;347388857010400;Ecos do Amanhã;João Almeida;254946
-175;347388857017800;Ecos da Liberdade;Gabriel Santos;331307
-176;347388857025300;Tempestade de Emoções;Roberta Souza;87251
-177;347388857033300;Amanhecer Radiante;Julia Santos;267885
-178;347388857042800;Luz na Estrada;Camila Almeida;277247
-179;347388857051900;Noite de Verão;Gabriel Santos;210591
-180;347388857058700;Ventos do Destino;Lucas Ferreira;413450
-181;347388857065200;Ventos do Destino;Eduardo Costa;277166
-182;347388857072100;O Último Abraço;Tatiane Ferreira;199441
-183;347388857079100;Ecos da Liberdade;Julia Santos;97830
-184;347388857085500;Sussurros do Passado;Lucas Martins;290744
-185;347388857091900;Caminho das Estrelas;Lucas Ferreira;284897
-186;347388857097900;Som do Mar;André Almeida;341277
-187;347388857103900;O Último Abraço;Bruno Almeida;476806
-188;347388857110700;Ventos do Destino;Fernanda Almeida;274665
-189;347388857116600;Fuga para a Realidade;Mariana Almeida;447133
-190;347388857122700;Ritmo do Coração;Felipe Almeida;150570
-191;347388857128900;Luz na Estrada;Juliana Ferreira;350022
-192;347388857134900;Som do Mar;Gabriel Santos;87899
-193;347388857142000;O Que Restou de Nós;André Almeida;116272
-194;347388857148600;Luz na Estrada;Eduardo Costa;295246
-195;347388857155700;A Dança da Vida;Vinícius Ferreira;252860
-196;347388857169900;O Que Restou de Nós;Eduardo Costa;431137
-197;347388857188000;Sombras no Horizonte;Patrícia Ferreira;177778
-198;347388857196400;Ritmo do Coração;Patrícia Lima;483007
-199;347388857207300;Canção da Esperança;Patrícia Ferreira;234449
-200;347388857218300;Canção dos Ventos;Roberto Ferreira;99931
-201;347388857229700;Cores do Outono;Thiago Santana;5851
-202;347388857240700;A Dança da Vida;Patrícia Lima;469564
-203;347388857254100;Ventos do Destino;Mariana Almeida;155109
-204;347388857264700;Pôr do Sol;Gustavo Rodrigues;305692
-205;347388857273900;Cores do Outono;Laura Oliveira;387549
-206;347388857283800;Amanhecer Radiante;Tatiane Lima;283645
-207;347388857294200;No Coração da Noite;André Costa;414069
-208;347388857314000;Ecos da Liberdade;Juliana Martins;129376
-209;347388857325900;Luz na Estrada;Patrícia Lima;297203
-210;347388857335200;Entre Sombras e Luz;Mariana Almeida;172166
-211;347388857344600;Caminho das Estrelas;Eduardo Costa;267075
-212;347388857353200;Amanhecer Radiante;Fernanda Almeida;155921
-213;347388857361300;Harmonia do Universo;Felipe Almeida;331648
-214;347388857374300;Pôr do Sol;Gabriel Santos;99179
-215;347388857386400;Caminho das Estrelas;Juliana Ferreira;245629
-216;347388857397400;Caminhos Cruzados;Aline Pereira;196222
-217;347388857407000;Dança da Lua;Patrícia Ferreira;358909
-218;347388857417600;O Que Restou de Nós;Juliana Costa;377960
-219;347388857428500;Estrela Solitária;Bruno Oliveira;47390
-220;347388857436500;Caminhos Cruzados;Thiago Almeida;451615
-221;347388857444800;Caminho das Estrelas;Laura Oliveira;403250
-222;347388857454000;Sombras no Horizonte;Fernanda Carvalho;384873
-223;347388857464400;Canção dos Ventos;Camila Almeida;147514
-224;347388857476400;Tarde Dourada;Rafael Gomes;3153
-225;347388857499500;O Que Restou de Nós;Gabriel Santos;433869
-226;347388857507700;Estrela Solitária;Felipe Almeida;289592
-227;347388857516200;Canção dos Ventos;Marcos Silva;15966
-228;347388857523700;Tarde Dourada;Fabiana Silva;4498
-229;347388857532500;Tempestade de Emoções;André Costa;156760
-230;347388857541100;Luz na Estrada;Bruno Almeida;377776
-231;347388857549800;Luz na Estrada;Laura Oliveira;13084
-232;347388857559200;Fuga para a Realidade;Juliana Martins;242913
-233;347388857568700;Caminho das Estrelas;Mariana Costa;333324
-234;347388857577900;Ecos do Amanhã;Camila Almeida;253542
-235;347388857590200;Ecos da Liberdade;Juliana Ferreira;253132
-236;347388857600300;Estrela Solitária;Camila Santos;330524
-237;347388857609300;Tempestade de Emoções;Roberto Ferreira;342699
-238;347388857629500;Entre Sombras e Luz;Pedro Henrique;348151
-239;347388857641000;Dança da Lua;Lucas Martins;435862
-240;347388857650000;No Coração da Noite;Carolina Lima;189406
-241;347388857661100;Amanhecer Radiante;Ingrid Santana;118035
-242;347388857671800;Harmonia do Universo;Roberta Souza;145146
-243;347388857680400;Reflexões do Amanhã;Tatiane Ferreira;148053
-244;347388857689800;Ecos do Amanhã;Julia Santos;9019
-245;347388857698500;Canção da Esperança;Juliana Ferreira;16182
-246;347388857707000;Ventos do Destino;Ricardo Ferreira;140970
-247;347388857714600;Noite de Inverno;Lucas Martins;448703
-248;347388857722700;Amanhecer Radiante;Gustavo Rodrigues;358979
-249;347388857731000;Pôr do Sol;Patrícia Ferreira;383566
-250;347388857740000;Som do Mar;Juliana Ferreira;10040
-251;347388857751300;Caminho da Esperança;Tatiane Ferreira;264872
-252;347388857773300;Luz na Estrada;Ana Paula Santos;198296
-253;347388857783100;Caminho das Estrelas;Camila Santos;373077
-254;347388857793700;Som do Mar;Juliana Martins;490643
-255;347388857804800;Reflexo da Alma;João Almeida;121836
-256;347388857857300;A Magia do Amor;Ricardo Santos;116277
-257;347388857916100;Caminho da Esperança;Julia Santos;445338
-258;347388857928600;Ritmo do Coração;João Almeida;30557
-259;347388857938100;Amanhecer Radiante;Lara Oliveira;213651
-260;347388857947000;Fuga para a Realidade;Bruno Oliveira;350309
-261;347388857956200;O Último Abraço;Thiago Almeida;445111
-262;347388857965000;Reflexões do Amanhã;Carolina Lima;199124
-263;347388857974200;Noite de Verão;André Almeida;237655
-264;347388857982500;Ventos do Destino;Mariana Almeida;40292
-265;347388857991200;Noite de Inverno;Mariana Almeida;307176
-266;347388857999800;Dança da Lua;Lucas Ferreira;201538
-267;347388858006900;A Magia do Amor;Rafael Santos;18314
-268;347388858016200;Tarde Dourada;Juliana Martins;109661
-269;347388858024300;Luz na Estrada;Mariana Costa;119134
-270;347388858033300;O Último Abraço;Fernanda Carvalho;189065
-271;347388858040400;A Magia do Amor;Lucas Martins;17340
-272;347388858048900;Reflexo da Alma;Ricardo Santos;109095
-273;347388858056000;Reflexo da Alma;Vinícius Ferreira;77400
-274;347388858065000;Luz na Estrada;Camila Almeida;65206
-275;347388858073700;O Último Abraço;Rafael Gomes;445889
-276;347388858082200;Noite de Inverno;Thiago Santana;462246
-277;347388858090400;Tarde Dourada;Lucas Martins;141530
-278;347388858629000;Luz na Estrada;Gabriel Santos;258122
-279;347388858669300;Caminho das Estrelas;Laura Oliveira;380759
-280;347388858681400;Tarde Dourada;Juliana Ferreira;465443
-281;347388858690700;Harmonia do Universo;Eduardo Costa;18271
-282;347388858699100;Tempestade de Emoções;Carolina Lima;93223
-283;347388858706700;A Magia do Amor;Bruno Oliveira;448301
-284;347388858715100;Reflexões do Amanhã;Gustavo Rodrigues;214704
-285;347388858737800;Luz na Estrada;Patrícia Ferreira;363474
-286;347388858746200;Noite de Verão;Thiago Santana;391301
-287;347388858753500;Canção da Esperança;Lucas Martins;497256
-288;347388858760400;Ritmo do Coração;Juliana Ferreira;14404
-289;347388858767400;Canção dos Ventos;Ingrid Santana;27971
-290;347388858774400;Tarde Dourada;Julia Santos;25689
-291;347388858781400;Fuga para a Realidade;Roberto Ferreira;211816
-292;347388858788600;Ventos do Destino;Patrícia Ferreira;202518
-293;347388858796000;Luz na Estrada;Mariana Costa;413404
-294;347388858806100;A Magia do Amor;Vinícius Ferreira;201990
-295;347388858812900;A Dança da Vida;Roberta Souza;374927
-296;347388858821900;Sussurros do Passado;Julia Santos;198624
-297;347388858829900;Entre Sombras e Luz;Laura Oliveira;241818
-298;347388858837900;Tarde Dourada;Fabiana Silva;252332
-299;347388858844800;Estrela Solitária;Mariana Costa;391146
-300;347388858854900;Harmonia do Universo;João Almeida;288475
-301;347388858861300;Amanhecer Radiante;Ricardo Ferreira;172512
-302;347388858871500;Estrela Solitária;Lucas Ferreira;382802
-303;347388858878200;Pôr do Sol;Denise Oliveira;178257
-304;347388858884900;Ventos do Destino;Tatiane Ferreira;426906
-305;347388858891500;Cores do Outono;Ana Paula Santos;411663
-306;347388858911200;Luz na Estrada;Rafael Santos;341401
-307;347388858920900;No Coração da Noite;Camila Almeida;416465
-308;347388858928500;Caminhos Cruzados;Lucas Ferreira;479116
-309;347388858936900;Som do Mar;André Almeida;407898
-310;347388858943400;Ritmo do Coração;Lucas Ferreira;372966
-311;347388858949700;Tempestade de Emoções;Lucas Martins;218162
-312;347388858956100;Amanhecer Radiante;Thiago Almeida;289915
-313;347388858984600;Estrela Solitária;Juliana Ferreira;459293
-314;347388858991600;Fuga para a Realidade;Juliana Ferreira;59379
-315;347388858997600;Canção dos Ventos;Bruno Oliveira;437211
-316;347388859003500;Harmonia do Universo;André Almeida;413155
-317;347388859009600;Ecos do Amanhã;Gabriel Santos;103989
-318;347388859015900;Canção da Esperança;Carolina Lima;172603
-319;347388859023700;Estrela Solitária;Thiago Almeida;157401
-320;347388859029800;Pôr do Sol;Laura Oliveira;171161
-321;347388859038800;Noite de Verão;Pedro Henrique;257843
-322;347388859045200;Fuga para a Realidade;Camila Santos;3944
-323;347388859051300;Canção dos Ventos;Marcos Silva;457703
-324;347388859057500;Caminho das Estrelas;Gustavo Rodrigues;249473
-325;347388859063700;Caminho da Esperança;Camila Almeida;393841
-326;347388859070000;Fuga para a Realidade;André Almeida;70980
-327;347388859075800;Pôr do Sol;Denise Oliveira;90800
-328;347388859083800;Canção da Esperança;Vinícius Santos;494546
-329;347388859090600;Ecos da Liberdade;Ana Paula Santos;339983
-330;347388859096800;Sussurros do Passado;Tatiane Ferreira;152599
-331;347388859111100;Sussurros do Passado;Fabiana Silva;481925
-332;347388859118000;Noite de Verão;Bruno Oliveira;174573
-333;347388859124600;Estrela Solitária;Tatiane Lima;259945
-334;347388859131200;Som do Mar;Camila Almeida;337119
-335;347388859147300;Sussurros do Passado;Lucas Martins;387342
-336;347388859165200;Caminho da Esperança;Juliana Ferreira;73858
-337;347388859173000;Caminho da Esperança;André Costa;319903
-338;347388859179800;Sombras no Horizonte;Vinícius Ferreira;354452
-339;347388859186500;Caminho da Esperança;Ingrid Santana;359436
-340;347388859209100;Amanhecer Radiante;Patrícia Lima;142314
-341;347388859216200;No Coração da Noite;Fernanda Almeida;321070
-342;347388859223200;A Magia do Amor;Fernanda Carvalho;243962
-343;347388859231600;O Que Restou de Nós;Lucas Ferreira;301430
-344;347388859238300;Luz na Estrada;Bruno Oliveira;188006
-345;347388859244500;No Coração da Noite;Juliana Costa;470618
-346;347388859251000;Som do Mar;Fernanda Carvalho;353350
-347;347388859257400;Som do Mar;Patrícia Ferreira;437604
-348;347388859263700;Noite de Inverno;Pedro Henrique;27496
-349;347388859274000;O Último Abraço;Camila Santos;204248
-350;347388859282000;Noite de Verão;Fabiana Silva;466089
-351;347388859288600;Dança da Lua;Mariana Almeida;276855
-352;347388859295800;Amanhecer Radiante;Patrícia Lima;35768
-353;347388859302000;Dança da Lua;Bruno Oliveira;281643
-354;347388859308400;Sussurros do Passado;Eduardo Costa;255598
-355;347388859314700;O Que Restou de Nós;Vinícius Ferreira;274667
-356;347388859321200;Reflexões do Amanhã;Vinícius Ferreira;387393
-357;347388859328100;Tarde Dourada;Fabiana Silva;7938
-358;347388859335100;Tempestade de Emoções;Thiago Almeida;410444
-359;347388859341900;Caminho da Esperança;Carolina Lima;109602
-360;347388859348700;Canção dos Ventos;Denise Oliveira;54924
-361;347388859355200;Caminhos Cruzados;Julia Santos;470807
-362;347388859361700;Fuga para a Realidade;Lara Oliveira;116638
-363;347388859368700;Dança da Lua;Fabiana Silva;240790
-364;347388859375100;Luz na Estrada;Rafael Santos;174706
-365;347388859381900;Dança da Lua;Camila Almeida;304685
-366;347388859397800;Entre Sombras e Luz;Camila Almeida;467416
-367;347388859405000;Ventos do Destino;Vinícius Santos;333635
-368;347388859413100;Ecos do Amanhã;Lucas Martins;276696
-369;347388859420000;A Magia do Amor;Lucas Martins;440142
-370;347388859427400;Reflexo da Alma;Vinícius Ferreira;42075
-371;347388859434400;Tempestade de Emoções;Camila Santos;251863
-372;347388859441200;O Último Abraço;Bruno Almeida;27675
-373;347388859447800;Dança da Lua;Camila Almeida;367016
-374;347388859454100;Canção da Esperança;Lara Oliveira;450098
-375;347388859460100;Caminho da Esperança;Marcos Silva;292960
-376;347388859465800;Noite de Inverno;André Almeida;165619
-377;347388859483700;Reflexões do Amanhã;Lara Oliveira;440363
-378;347388859491200;Noite de Verão;Camila Almeida;90525
-379;347388859497700;Ecos do Amanhã;Juliana Martins;205176
-380;347388859503900;Cores do Outono;André Costa;343197
-381;347388859510000;Harmonia do Universo;Gabriel Santos;247752
-382;347388859526400;Entre Sombras e Luz;Patrícia Ferreira;478962
-383;347388859533400;Sombras no Horizonte;Thiago Almeida;275511
-384;347388859541500;Canção dos Ventos;Fernanda Almeida;213689
-385;347388859557900;Noite de Inverno;Mariana Almeida;133456
-386;347388859564900;Caminho das Estrelas;Carolina Lima;480971
-387;347388859571600;Sombras no Horizonte;Bruno Oliveira;114749
-388;347388859578000;Cores do Outono;Ingrid Santana;350811
-389;347388859584000;Sombras no Horizonte;Patrícia Ferreira;86768
-390;347388859590200;Canção da Esperança;Ricardo Ferreira;297473
-391;347388859596300;Caminho das Estrelas;Bruno Oliveira;123778
-392;347388859602600;O Que Restou de Nós;Mariana Costa;348710
-393;347388859609000;Caminho da Esperança;Gabriel Santos;257517
-394;347388859615400;O Que Restou de Nós;Lucas Ferreira;247200
-395;347388859647700;Tempestade de Emoções;Aline Pereira;335044
-396;347388859653800;Sussurros do Passado;Denise Oliveira;113082
-397;347388859660100;Ecos do Amanhã;Felipe Almeida;324009
-398;347388859665900;Ecos da Liberdade;Eduardo Costa;224732
-399;347388859672000;Caminho das Estrelas;Ricardo Santos;23701
-400;347388859677800;Dança da Lua;Vinícius Santos;58518
-401;347388859683900;Noite de Verão;Fernanda Carvalho;393497
-402;347388859690400;Caminhos Cruzados;Aline Pereira;114377
-403;347388859696700;Tarde Dourada;Ricardo Ferreira;469063
-404;347388859702600;Tarde Dourada;André Costa;179937
-405;347388859708400;Luz na Estrada;Laura Oliveira;470409
-406;347388859714200;Luz na Estrada;Roberto Ferreira;174768
-407;347388859720400;A Magia do Amor;Rafael Gomes;247037
-408;347388859726200;O Que Restou de Nós;Lara Oliveira;163468
-409;347388859732000;Caminhos Cruzados;Denise Oliveira;107189
-410;347388859737800;A Dança da Vida;Aline Pereira;238213
-411;347388859743500;Harmonia do Universo;Mariana Costa;328183
-412;347388859749400;Pôr do Sol;André Almeida;348570
-413;347388859755000;Estrela Solitária;Tatiane Ferreira;289422
-414;347388859762400;Tarde Dourada;Laura Oliveira;87997
-415;347388860215600;O Último Abraço;Ricardo Santos;207649
-416;347388860259100;A Magia do Amor;Lara Oliveira;118856
-417;347388860269200;O Que Restou de Nós;Julia Santos;911
-418;347388860277000;Dança da Lua;Felipe Almeida;52996
-419;347388860283600;Ecos da Liberdade;Vinícius Ferreira;202529
-420;347388860289700;O Que Restou de Nós;Lucas Ferreira;186992
-421;347388860295500;Ecos da Liberdade;Tatiane Lima;139682
-422;347388860301200;Tarde Dourada;Denise Oliveira;200212
-423;347388860306900;Ventos do Destino;Lara Oliveira;162563
-424;347388860312400;Reflexões do Amanhã;Fabiana Silva;435248
-425;347388860318100;No Coração da Noite;Ana Paula Santos;327195
-426;347388860323300;Cores do Outono;Gabriel Santos;215337
-427;347388860328900;Fuga para a Realidade;Juliana Ferreira;74411
-428;347388860334700;Reflexo da Alma;Thiago Almeida;49328
-429;347388860340200;Caminho da Esperança;Roberta Souza;167064
-430;347388860345500;Canção dos Ventos;Bruno Oliveira;185689
-431;347388860351100;Noite de Inverno;Lucas Martins;461823
-432;347388860356400;Dança da Lua;Tatiane Lima;97353
-433;347388860361800;Caminho das Estrelas;Fernanda Carvalho;340442
-434;347388860383800;Pôr do Sol;Fabiana Silva;314633
-435;347388860390200;Tempestade de Emoções;Fernanda Carvalho;120694
-436;347388860395500;Reflexo da Alma;Ricardo Santos;272169
-437;347388860400800;Sussurros do Passado;Eduardo Costa;309132
-438;347388860406000;Noite de Inverno;Rafael Santos;247811
-439;347388860411500;Ecos da Liberdade;Vinícius Santos;200073
-440;347388860499400;Canção dos Ventos;Laura Oliveira;342012
-441;347388860510400;Sombras no Horizonte;Fernanda Almeida;309430
-442;347388860519500;Entre Sombras e Luz;Bruno Oliveira;104330
-443;347388860526100;Noite de Inverno;Ana Paula Santos;433660
-444;347388860534900;Estrela Solitária;André Costa;108205
-445;347388860540200;Noite de Inverno;Laura Oliveira;282117
-446;347388860545500;Caminhos Cruzados;Thiago Almeida;198135
-447;347388860550800;Dança da Lua;Denise Oliveira;354353
-448;347388860556300;Caminho da Esperança;Eduardo Costa;359922
-449;347388860561000;No Coração da Noite;Aline Pereira;56290
-450;347388860565900;Ecos do Amanhã;Ricardo Santos;188806
-451;347388860570900;O Que Restou de Nós;Marcos Silva;65394
-452;347388860575800;Ecos da Liberdade;Juliana Martins;113358
-453;347388860580300;Sussurros do Passado;André Costa;257717
-454;347388860584500;Som do Mar;Fabiana Silva;100785
-455;347388860588700;Caminho da Esperança;Mariana Almeida;177218
-456;347388860593200;Som do Mar;Roberta Souza;351192
-457;347388860597900;Fuga para a Realidade;Ricardo Ferreira;469309
-458;347388860602400;Caminho das Estrelas;Rafael Gomes;297318
-459;347388860606900;Reflexões do Amanhã;Lucas Ferreira;128326
-460;347388860611500;Estrela Solitária;Lucas Martins;210850
-461;347388860616200;Amanhecer Radiante;Roberta Souza;119222
-462;347388860621000;Dança da Lua;Camila Santos;474043
-463;347388860625600;Ecos do Amanhã;Roberto Ferreira;354525
-464;347388860630300;Tempestade de Emoções;Juliana Ferreira;342524
-465;347388860634900;Dança da Lua;Ingrid Santana;198031
-466;347388860639600;Reflexo da Alma;Vinícius Ferreira;117319
-467;347388860644200;Caminho da Esperança;Pedro Henrique;315265
-468;347388860648800;Ventos do Destino;Tatiane Lima;47103
-469;347388860653400;Pôr do Sol;Patrícia Ferreira;189229
-470;347388860658300;Ecos da Liberdade;Juliana Ferreira;213844
-471;347388860662900;Reflexões do Amanhã;Camila Almeida;86560
-472;347388860667200;Noite de Verão;João Almeida;72015
-473;347388860671700;Dança da Lua;Lucas Martins;363880
-474;347388860676500;Tarde Dourada;Fernanda Almeida;427481
-475;347388860681600;Caminhos Cruzados;Patrícia Lima;144837
-476;347388860701800;Ventos do Destino;Juliana Ferreira;81760
-477;347388860707300;Entre Sombras e Luz;Thiago Almeida;167753
-478;347388860712000;O Último Abraço;Juliana Costa;455692
-479;347388860716700;Ventos do Destino;Ricardo Ferreira;437156
-480;347388860721300;Canção dos Ventos;Vinícius Ferreira;97026
-481;347388860726200;Dança da Lua;Tatiane Ferreira;278311
-482;347388860732000;Luz na Estrada;Bruno Almeida;35867
-483;347388860736700;No Coração da Noite;Ana Paula Santos;298382
-484;347388860741400;Noite de Verão;Bruno Oliveira;322975
-485;347388860762800;Fuga para a Realidade;Lucas Ferreira;62756
-486;347388860767900;Ventos do Destino;Camila Santos;286691
-487;347388860772400;A Dança da Vida;Juliana Martins;37753
-488;347388860776900;Som do Mar;Fernanda Carvalho;384457
-489;347388860781600;Sussurros do Passado;Fernanda Carvalho;246415
-490;347388860786100;Caminho da Esperança;Bruno Oliveira;48065
-491;347388860790700;Ecos do Amanhã;Tatiane Lima;237330
-492;347388860795300;Cores do Outono;Patrícia Ferreira;175482
-493;347388860799900;Entre Sombras e Luz;Aline Pereira;331167
-494;347388860814600;Ventos do Destino;Thiago Almeida;349582
-495;347388860869200;O Último Abraço;Rafael Gomes;341899
-496;347388860913400;Noite de Verão;Camila Almeida;387228
-497;347388860921000;Noite de Verão;Fernanda Carvalho;11186
-498;347388860931300;Noite de Inverno;Camila Santos;71855
-499;347388860938600;Estrela Solitária;Mariana Costa;60164
-500;347388860944200;Sussurros do Passado;Bruno Oliveira;85647
-501;347388860950200;O Que Restou de Nós;Laura Oliveira;195657
-502;347388860959600;O Que Restou de Nós;Ricardo Ferreira;107602
-503;347388860964700;Harmonia do Universo;Pedro Henrique;199263
-504;347388860969300;Ritmo do Coração;Roberta Souza;429777
-505;347388860974000;Caminhos Cruzados;Juliana Ferreira;412425
-506;347388860978100;Canção dos Ventos;Ana Paula Santos;6748
-507;347388860984300;Canção da Esperança;Roberta Souza;448203
-508;347388860988300;Canção da Esperança;Lucas Martins;464992
-509;347388861017600;Tarde Dourada;Ana Paula Santos;431735
-510;347388861023700;Ecos do Amanhã;Tatiane Ferreira;231207
-511;347388861043900;Fuga para a Realidade;Ingrid Santana;154357
-512;347388861057900;Pôr do Sol;Juliana Ferreira;208292
-513;347388861105300;Noite de Inverno;Mariana Almeida;263320
-514;347388861110400;Ecos da Liberdade;Eduardo Costa;301681
-515;347388861114100;Fuga para a Realidade;Pedro Henrique;111278
-516;347388861117600;Canção da Esperança;Tatiane Ferreira;466512
-517;347388861120700;Amanhecer Radiante;Aline Pereira;462123
-518;347388861123700;Caminho das Estrelas;Thiago Almeida;193078
-519;347388861126700;Luz na Estrada;Thiago Almeida;453029
-520;347388861129700;Caminho da Esperança;Ricardo Ferreira;451152
-521;347388861132900;Ritmo do Coração;Fernanda Almeida;317677
-522;347388861135800;O Último Abraço;Bruno Almeida;193671
-523;347388861138700;Reflexo da Alma;Lucas Martins;202251
-524;347388861141500;Amanhecer Radiante;Juliana Ferreira;406181
-525;347388861144400;O Que Restou de Nós;Rafael Gomes;324848
-526;347388861147200;Harmonia do Universo;Camila Santos;169276
-527;347388861150000;Entre Sombras e Luz;Juliana Martins;256293
-528;347388861152900;Harmonia do Universo;Tatiane Lima;235315
-529;347388861156000;Reflexo da Alma;Juliana Martins;104832
-530;347388861158900;Sussurros do Passado;Ricardo Ferreira;73677
-531;347388861161800;A Dança da Vida;Ricardo Ferreira;118490
-532;347388861164600;Fuga para a Realidade;Rafael Gomes;184741
-533;347388861167500;Dança da Lua;Bruno Oliveira;115259
-534;347388861170400;Ventos do Destino;Lucas Martins;22342
-535;347388861173300;Reflexo da Alma;Pedro Henrique;117408
-536;347388861176100;Caminho das Estrelas;André Almeida;245775
-537;347388861178900;Canção dos Ventos;Ricardo Ferreira;450515
-538;347388861181800;Canção da Esperança;Lucas Martins;163296
-539;347388861184600;Reflexões do Amanhã;Bruno Oliveira;196397
-540;347388861187500;A Dança da Vida;Eduardo Costa;159065
-541;347388861190400;Ventos do Destino;Tatiane Lima;494155
-542;347388861193200;Caminhos Cruzados;Lucas Martins;365268
-543;347388861195900;Caminhos Cruzados;Bruno Oliveira;37311
-544;347388861198800;Noite de Inverno;André Almeida;463268
-545;347388861201600;Tempestade de Emoções;Julia Santos;4914
-546;347388861204500;Noite de Verão;Lucas Ferreira;70706
-547;347388861207300;Amanhecer Radiante;Julia Santos;108785
-548;347388861210100;Ecos do Amanhã;Pedro Henrique;330477
-549;347388861212800;Sombras no Horizonte;João Almeida;75559
-550;347388861215700;Dança da Lua;Lucas Martins;454615
-551;347388861218600;Amanhecer Radiante;Eduardo Costa;389827
-552;347388861221600;O Que Restou de Nós;Ricardo Santos;105943
-553;347388861576700;Caminhos Cruzados;Mariana Costa;106035
-554;347388861625000;Entre Sombras e Luz;Fabiana Silva;17509
-555;347388861632900;Ecos do Amanhã;Gustavo Rodrigues;465324
-556;347388861639100;No Coração da Noite;Ricardo Ferreira;297806
-557;347388861643800;Estrela Solitária;Vinícius Ferreira;203653
-558;347388861648300;Harmonia do Universo;Roberta Souza;380756
-559;347388861652400;Sussurros do Passado;Vinícius Ferreira;238855
-560;347388861656300;A Magia do Amor;Ana Paula Santos;122351
-561;347388861660200;Sombras no Horizonte;Roberto Ferreira;317173
-562;347388861665200;Fuga para a Realidade;Laura Oliveira;49741
-563;347388861669200;Caminho das Estrelas;Lucas Ferreira;391552
-564;347388861673300;Sombras no Horizonte;André Costa;266252
-565;347388861677400;Ecos do Amanhã;João Almeida;30400
-566;347388861682200;O Último Abraço;Julia Santos;82367
-567;347388861686100;Fuga para a Realidade;Rafael Santos;295649
-568;347388861689800;Reflexo da Alma;Fernanda Carvalho;317715
-569;347388861694000;Tarde Dourada;Camila Almeida;213923
-570;347388861698000;Noite de Verão;Bruno Oliveira;357362
-571;347388861702100;Harmonia do Universo;Mariana Almeida;54117
-572;347388861706700;Entre Sombras e Luz;Fernanda Carvalho;479159
-573;347388861712000;Dança da Lua;Mariana Almeida;417951
-574;347388861719400;Estrela Solitária;Ricardo Ferreira;346816
-575;347388861723400;Ecos do Amanhã;Tatiane Lima;130144
-576;347388861727700;Cores do Outono;Thiago Almeida;183502
-577;347388861732400;Canção dos Ventos;Lara Oliveira;325297
-578;347388861736800;Dança da Lua;Carolina Lima;66700
-579;347388861746000;Tarde Dourada;Lucas Martins;274481
-580;347388861750200;Caminho das Estrelas;Eduardo Costa;234082
-581;347388861755200;Reflexões do Amanhã;Ingrid Santana;223572
-582;347388861759000;Ecos do Amanhã;Thiago Santana;137714
-583;347388861762500;Reflexo da Alma;Bruno Oliveira;379886
-584;347388861765900;Caminhos Cruzados;Fernanda Carvalho;9452
-585;347388861769700;Sombras no Horizonte;Patrícia Ferreira;50844
-586;347388861774300;Luz na Estrada;João Almeida;465413
-587;347388861778700;Dança da Lua;Laura Oliveira;18162
-588;347388861783900;No Coração da Noite;Fabiana Silva;288515
-589;347388861789300;Ecos da Liberdade;Julia Santos;406745
-590;347388861794800;Entre Sombras e Luz;Tatiane Lima;67904
-591;347388861799600;Fuga para a Realidade;Laura Oliveira;46958
-592;347388861803300;Harmonia do Universo;Marcos Silva;469243
-593;347388861807200;Reflexões do Amanhã;Denise Oliveira;415693
-594;347388861811100;Fuga para a Realidade;Bruno Almeida;104059
-595;347388861814900;Fuga para a Realidade;Camila Santos;372625
-596;347388861818900;Tempestade de Emoções;Ana Paula Santos;395217
-597;347388861822600;Ventos do Destino;Mariana Almeida;70355
-598;347388861826600;Estrela Solitária;Thiago Santana;159559
-599;347388861831400;Fuga para a Realidade;Bruno Oliveira;22909
-600;347388861835100;Estrela Solitária;Juliana Costa;487692
-601;347388861838500;Harmonia do Universo;Juliana Ferreira;198293
-602;347388861842500;Som do Mar;Patrícia Ferreira;120700
-603;347388861846800;O Último Abraço;Juliana Costa;161616
-604;347388861852900;O Que Restou de Nós;Marcos Silva;229733
-605;347388861857400;A Magia do Amor;Mariana Costa;257617
-606;347388861861600;O Que Restou de Nós;Fernanda Carvalho;352535
-607;347388861865600;Dança da Lua;Roberta Souza;152947
-608;347388861870000;Noite de Inverno;Ingrid Santana;491823
-609;347388861874600;Harmonia do Universo;Bruno Almeida;291409
-610;347388861878100;Caminho da Esperança;Eduardo Costa;102281
-611;347388861880900;Noite de Verão;Lucas Martins;475275
-612;347388861883500;Noite de Verão;Gabriel Santos;458874
-613;347388861886300;Harmonia do Universo;Laura Oliveira;473709
-614;347388861888900;Pôr do Sol;Lucas Martins;215058
-615;347388861891600;Sombras no Horizonte;Roberta Souza;260514
-616;347388861894200;Noite de Inverno;Ricardo Santos;127195
-617;347388861896800;Caminho das Estrelas;Bruno Oliveira;458886
-618;347388861899400;Som do Mar;Rafael Santos;211765
-619;347388861902300;Sussurros do Passado;Marcos Silva;336249
-620;347388861905400;No Coração da Noite;Mariana Costa;401486
-621;347388861908000;A Dança da Vida;Ricardo Santos;233032
-622;347388861912300;Amanhecer Radiante;Fabiana Silva;12428
-623;347388861915100;Cores do Outono;Carolina Lima;23252
-624;347388861917800;A Dança da Vida;Juliana Ferreira;53668
-625;347388861920600;Ecos da Liberdade;Fernanda Almeida;339588
-626;347388861935100;Harmonia do Universo;Roberto Ferreira;479555
-627;347388861938700;Fuga para a Realidade;Vinícius Ferreira;413802
-628;347388861941300;Luz na Estrada;André Costa;312768
-629;347388861943900;Entre Sombras e Luz;Thiago Santana;480528
-630;347388861946500;Luz na Estrada;André Costa;26730
-631;347388861949300;O Último Abraço;Thiago Almeida;74704
-632;347388861951900;Ecos da Liberdade;Juliana Ferreira;367395
-633;347388861954600;Reflexo da Alma;André Almeida;471557
-634;347388861957200;Tempestade de Emoções;Rafael Santos;79020
-635;347388861959900;Caminho das Estrelas;Lucas Ferreira;224873
-636;347388861963700;Caminho das Estrelas;Mariana Costa;149904
-637;347388861967000;A Dança da Vida;Lucas Ferreira;322973
-638;347388861969700;Ecos do Amanhã;Patrícia Lima;284132
-639;347388861972400;Sombras no Horizonte;Carolina Lima;292181
-640;347388861981100;Amanhecer Radiante;Fernanda Carvalho;65106
-641;347388862002900;Pôr do Sol;Fernanda Almeida;250094
-642;347388862008100;O Que Restou de Nós;Ricardo Santos;343095
-643;347388862012300;Caminho da Esperança;Vinícius Santos;136954
-644;347388862016600;Ecos da Liberdade;Juliana Costa;174979
-645;347388862020800;Ventos do Destino;Aline Pereira;248206
-646;347388862025500;Noite de Inverno;João Almeida;204132
-647;347388862030300;Noite de Inverno;Vinícius Ferreira;319515
-648;347388862054000;Sombras no Horizonte;Ingrid Santana;467310
-649;347388862073700;Fuga para a Realidade;Fabiana Silva;359083
-650;347388862078300;Canção da Esperança;André Costa;59103
-651;347388862082800;Caminho das Estrelas;Marcos Silva;222044
-652;347388862087100;Cores do Outono;Camila Almeida;351260
-653;347388862091400;Ritmo do Coração;Bruno Oliveira;441999
-654;347388862095600;Estrela Solitária;Roberto Ferreira;176741
-655;347388862100000;Dança da Lua;Tatiane Ferreira;402775
-656;347388862104000;Canção da Esperança;Julia Santos;297717
-657;347388862108200;Caminho da Esperança;Tatiane Ferreira;363286
-658;347388862113100;O Que Restou de Nós;Fernanda Almeida;110769
-659;347388862116500;No Coração da Noite;Juliana Costa;276679
-660;347388862121200;Canção dos Ventos;Marcos Silva;45700
-661;347388862124800;O Último Abraço;André Costa;284020
-662;347388862129000;Sussurros do Passado;Carolina Lima;140533
-663;347388862133000;Ecos da Liberdade;Ricardo Santos;349814
-664;347388862136600;Tarde Dourada;Lara Oliveira;198502
-665;347388862140200;Pôr do Sol;Vinícius Santos;233615
-666;347388862144100;A Dança da Vida;Fabiana Silva;453388
-667;347388862148600;Sombras no Horizonte;Bruno Almeida;274285
-668;347388862152300;Noite de Inverno;Aline Pereira;388996
-669;347388862155200;Reflexo da Alma;Patrícia Ferreira;50782
-670;347388862165100;Reflexões do Amanhã;Patrícia Lima;454132
-671;347388862168000;A Magia do Amor;Carolina Lima;39968
-672;347388862170700;Fuga para a Realidade;Rafael Gomes;393988
-673;347388862173400;Reflexões do Amanhã;Pedro Henrique;331684
-674;347388862176100;Luz na Estrada;Laura Oliveira;390017
-675;347388862179500;Ventos do Destino;Bruno Oliveira;87388
-676;347388862184000;Canção da Esperança;Pedro Henrique;171175
-677;347388862188400;Reflexo da Alma;Fernanda Carvalho;136723
-678;347388862192300;Tempestade de Emoções;Carolina Lima;482643
-679;347388862195700;Caminhos Cruzados;Roberto Ferreira;275573
-680;347388862200900;Entre Sombras e Luz;Fernanda Carvalho;353619
-681;347388862205200;A Dança da Vida;Julia Santos;184521
-682;347388862210800;O Que Restou de Nós;Vinícius Santos;151473
-683;347388862214500;Estrela Solitária;Pedro Henrique;92856
-684;347388862218200;Ecos da Liberdade;Gabriel Santos;47705
-685;347388862221900;Tarde Dourada;Vinícius Ferreira;9705
-686;347388862226000;Canção da Esperança;Camila Santos;349975
-687;347388862230200;Pôr do Sol;Mariana Almeida;232626
-688;347388862234100;Ritmo do Coração;Felipe Almeida;256986
-689;347388862620000;Ecos da Liberdade;Bruno Almeida;184511
-690;347388862654300;Noite de Verão;Lucas Martins;427474
-691;347388862671700;Fuga para a Realidade;Julia Santos;398019
-692;347388862675500;Sussurros do Passado;Laura Oliveira;14379
-693;347388862678500;A Dança da Vida;Carolina Lima;277371
-694;347388862681200;Tarde Dourada;João Almeida;491988
-695;347388862685000;A Dança da Vida;Roberta Souza;438796
-696;347388862687800;Reflexo da Alma;Ingrid Santana;73696
-697;347388862690400;Noite de Inverno;João Almeida;103471
-698;347388862692900;O Último Abraço;Lara Oliveira;422698
-699;347388862695500;Noite de Inverno;Ricardo Santos;431800
-700;347388862698100;Luz na Estrada;Denise Oliveira;74221
-701;347388862700800;Harmonia do Universo;Pedro Henrique;356848
-702;347388862703400;Dança da Lua;Rafael Gomes;14834
-703;347388862706000;Caminhos Cruzados;Carolina Lima;307761
-704;347388862708500;Noite de Inverno;João Almeida;95120
-705;347388862711100;Entre Sombras e Luz;Roberta Souza;105326
-706;347388862713600;Ecos do Amanhã;Camila Santos;126898
-707;347388862716000;Canção da Esperança;Ricardo Santos;489066
-708;347388862718800;Tempestade de Emoções;Ricardo Ferreira;97939
-709;347388862721300;Pôr do Sol;Ricardo Santos;123289
-710;347388862723800;Noite de Verão;André Costa;415116
-711;347388862726300;Luz na Estrada;Juliana Ferreira;310125
-712;347388862728800;Ecos do Amanhã;Gabriel Santos;433685
-713;347388862731300;Noite de Verão;Julia Santos;392762
-714;347388862733900;Reflexões do Amanhã;Thiago Santana;103061
-715;347388862736900;Entre Sombras e Luz;Ana Paula Santos;177321
-716;347388862739400;A Dança da Vida;Lucas Ferreira;230001
-717;347388862741800;A Dança da Vida;Juliana Costa;461650
-718;347388862744200;Som do Mar;Gabriel Santos;149901
-719;347388862747300;A Dança da Vida;Vinícius Santos;146049
-720;347388862749900;Tarde Dourada;Vinícius Ferreira;144127
-721;347388862752400;Reflexo da Alma;Vinícius Ferreira;498842
-722;347388862754800;Sussurros do Passado;Thiago Santana;167376
-723;347388862757300;Caminho da Esperança;Ingrid Santana;455612
-724;347388862759800;O Que Restou de Nós;Felipe Almeida;380799
-725;347388862762200;Sombras no Horizonte;Roberta Souza;102303
-726;347388862764600;Pôr do Sol;Fabiana Silva;102930
-727;347388862767000;O Último Abraço;André Costa;405772
-728;347388862769400;Sombras no Horizonte;Lucas Ferreira;292861
-729;347388862771800;Som do Mar;Mariana Costa;104577
-730;347388862774400;Amanhecer Radiante;Ana Paula Santos;194032
-731;347388862776800;Sombras no Horizonte;Fernanda Carvalho;313861
-732;347388862779300;Dança da Lua;Carolina Lima;490294
-733;347388862781700;Tarde Dourada;Fernanda Almeida;79600
-734;347388862784100;Luz na Estrada;Felipe Almeida;355915
-735;347388862786600;Sombras no Horizonte;Rafael Gomes;376325
-736;347388862789000;Noite de Verão;Juliana Martins;246722
-737;347388862791400;Canção dos Ventos;Thiago Almeida;170026
-738;347388862793900;Sussurros do Passado;Tatiane Ferreira;386360
-739;347388862797100;Amanhecer Radiante;Roberto Ferreira;357539
-740;347388862799500;O Que Restou de Nós;Ingrid Santana;145138
-741;347388862802000;Som do Mar;Fabiana Silva;83740
-742;347388862804400;Noite de Verão;Fabiana Silva;58266
-743;347388862806800;Cores do Outono;Marcos Silva;434685
-744;347388862809200;Pôr do Sol;Roberto Ferreira;75041
-745;347388862811700;Luz na Estrada;Roberto Ferreira;315355
-746;347388862814100;Pôr do Sol;Ricardo Santos;424217
-747;347388862816500;Dança da Lua;Ingrid Santana;254762
-748;347388862818900;A Dança da Vida;Fernanda Carvalho;498255
-749;347388862821400;Tarde Dourada;Lucas Martins;73383
-750;347388862824700;Amanhecer Radiante;Mariana Costa;171635
-751;347388862827300;Caminho das Estrelas;Bruno Almeida;150977
-752;347388862829800;A Magia do Amor;Bruno Almeida;151953
-753;347388862832300;Tempestade de Emoções;Vinícius Santos;433413
-754;347388862835600;Caminhos Cruzados;Vinícius Ferreira;70552
-755;347388862838200;Canção dos Ventos;Juliana Costa;116395
-756;347388862840600;Estrela Solitária;Vinícius Ferreira;247821
-757;347388862843100;Ecos da Liberdade;Julia Santos;151646
-758;347388862845500;Reflexo da Alma;Mariana Costa;426555
-759;347388862848000;Sombras no Horizonte;Thiago Almeida;34772
-760;347388862850500;Noite de Inverno;Fernanda Almeida;449098
-761;347388862852900;Entre Sombras e Luz;Roberto Ferreira;492097
-762;347388862855400;Fuga para a Realidade;Juliana Costa;303276
-763;347388862858400;Sombras no Horizonte;Patrícia Ferreira;426450
-764;347388862861800;Caminho da Esperança;Carolina Lima;31053
-765;347388862864400;Amanhecer Radiante;Denise Oliveira;256985
-766;347388862866800;Som do Mar;Julia Santos;326954
-767;347388862869200;Amanhecer Radiante;Rafael Santos;218199
-768;347388862872800;Sombras no Horizonte;Camila Santos;309382
-769;347388862975600;Entre Sombras e Luz;Denise Oliveira;397426
-770;347388862981600;Sussurros do Passado;Thiago Almeida;462878
-771;347388862985500;Reflexo da Alma;Patrícia Lima;365409
-772;347388862988800;Ritmo do Coração;Patrícia Lima;134578
-773;347388862991700;Ecos do Amanhã;Juliana Costa;115607
-774;347388862994500;Cores do Outono;Denise Oliveira;63082
-775;347388862997400;Ventos do Destino;Tatiane Lima;213443
-776;347388862999900;Cores do Outono;Bruno Oliveira;78177
-777;347388863002400;Pôr do Sol;Thiago Almeida;11048
-778;347388863004700;Tempestade de Emoções;Fabiana Silva;395463
-779;347388863007000;O Que Restou de Nós;Marcos Silva;237752
-780;347388863009300;Sombras no Horizonte;Patrícia Ferreira;344321
-781;347388863013000;Harmonia do Universo;Marcos Silva;419043
-782;347388863015300;Pôr do Sol;Bruno Oliveira;57654
-783;347388863018500;Ritmo do Coração;Roberta Souza;436492
-784;347388863020900;Reflexo da Alma;Rafael Santos;376410
-785;347388863023100;Caminho das Estrelas;Ana Paula Santos;450746
-786;347388863025400;A Dança da Vida;Tatiane Ferreira;66614
-787;347388863027700;Sombras no Horizonte;Lucas Ferreira;133839
-788;347388863029900;Canção dos Ventos;Thiago Santana;33153
-789;347388863032200;Sussurros do Passado;André Almeida;34900
-790;347388863034500;Sussurros do Passado;Bruno Oliveira;57404
-791;347388863036700;Entre Sombras e Luz;Juliana Costa;478655
-792;347388863039000;Reflexões do Amanhã;Juliana Ferreira;215313
-793;347388863041200;Ecos do Amanhã;Bruno Oliveira;196618
-794;347388863043500;Reflexo da Alma;Ana Paula Santos;58217
-795;347388863045800;Harmonia do Universo;Mariana Almeida;146872
-796;347388863048000;Canção dos Ventos;Thiago Almeida;99484
-797;347388863050500;Som do Mar;Thiago Santana;223783
-798;347388863052800;Sussurros do Passado;Juliana Ferreira;395900
-799;347388863055000;Noite de Inverno;Ricardo Ferreira;140131
-800;347388863057300;Ecos do Amanhã;Mariana Almeida;439336
-801;347388863059500;Ritmo do Coração;Felipe Almeida;224772
-802;347388863061800;Luz na Estrada;Carolina Lima;231343
-803;347388863064000;A Magia do Amor;Juliana Martins;101409
-804;347388863066200;Ecos da Liberdade;Tatiane Ferreira;30845
-805;347388863068500;Ecos da Liberdade;Lucas Ferreira;285670
-806;347388863070700;A Magia do Amor;Lara Oliveira;450023
-807;347388863072900;Caminhos Cruzados;Gabriel Santos;17530
-808;347388863075200;Sombras no Horizonte;Laura Oliveira;310403
-809;347388863077400;Tarde Dourada;André Almeida;364541
-810;347388863080400;Amanhecer Radiante;Gabriel Santos;173485
-811;347388863082700;Ecos da Liberdade;André Costa;199438
-812;347388863085100;Noite de Inverno;Lucas Martins;292816
-813;347388863087400;Estrela Solitária;Roberta Souza;336707
-814;347388863089700;Sussurros do Passado;Julia Santos;181890
-815;347388863092000;Amanhecer Radiante;Fabiana Silva;95648
-816;347388863094300;Ecos do Amanhã;Pedro Henrique;326537
-817;347388863096700;Caminho da Esperança;Tatiane Lima;160791
-818;347388863099000;Harmonia do Universo;Felipe Almeida;261847
-819;347388863101300;Caminhos Cruzados;João Almeida;127586
-820;347388863103900;Harmonia do Universo;João Almeida;341670
-821;347388863106200;Ecos da Liberdade;Thiago Almeida;476092
-822;347388863108500;A Magia do Amor;Camila Almeida;247329
-823;347388863111300;A Magia do Amor;Ingrid Santana;232329
-824;347388863113600;Tarde Dourada;Pedro Henrique;393345
-825;347388863116000;Ecos do Amanhã;Fernanda Almeida;93434
-826;347388863118300;No Coração da Noite;Thiago Almeida;457170
-827;347388863120600;Noite de Verão;Juliana Martins;344822
-828;347388863378000;A Magia do Amor;Juliana Martins;148944
-829;347388863386500;A Dança da Vida;Bruno Oliveira;362359
-830;347388863408500;Ventos do Destino;Lucas Martins;214221
-831;347388863411800;No Coração da Noite;Thiago Santana;297989
-832;347388863414300;Caminho das Estrelas;Ingrid Santana;452405
-833;347388863416700;Dança da Lua;Denise Oliveira;403386
-834;347388863419000;Som do Mar;Mariana Costa;358201
-835;347388863421300;Pôr do Sol;Patrícia Ferreira;33278
-836;347388863423500;Som do Mar;Tatiane Lima;481472
-837;347388863425800;No Coração da Noite;Rafael Santos;144549
-838;347388863428000;Tempestade de Emoções;Fernanda Almeida;384702
-839;347388863430200;Harmonia do Universo;Gabriel Santos;150910
-840;347388863432400;No Coração da Noite;Felipe Almeida;476595
-841;347388863434600;Tarde Dourada;Patrícia Lima;172598
-842;347388863454700;Noite de Inverno;Bruno Almeida;361462
-843;347388863458600;Cores do Outono;Bruno Oliveira;473002
-844;347388863460900;Noite de Inverno;Bruno Oliveira;345131
-845;347388863463100;Noite de Inverno;Laura Oliveira;323426
-846;347388863465200;Canção dos Ventos;Fernanda Almeida;157026
-847;347388863467500;Reflexões do Amanhã;Felipe Almeida;317143
-848;347388863470500;Amanhecer Radiante;Bruno Almeida;181447
-849;347388863472700;Reflexões do Amanhã;Camila Almeida;70390
-850;347388863474900;Caminhos Cruzados;Pedro Henrique;451781
-851;347388863477100;Sombras no Horizonte;Bruno Almeida;114241
-852;347388863479200;Luz na Estrada;Juliana Martins;45194
-853;347388863481400;Ritmo do Coração;Felipe Almeida;156818
-854;347388863484100;A Magia do Amor;André Costa;345365
-855;347388863486900;No Coração da Noite;Lara Oliveira;361390
-856;347388863489100;Harmonia do Universo;Thiago Santana;98243
-857;347388863496200;Tempestade de Emoções;Marcos Silva;486379
-858;347388863498800;Tarde Dourada;Vinícius Ferreira;37525
-859;347388863501000;Noite de Inverno;Fernanda Almeida;443014
-860;347388863503200;O Último Abraço;Roberto Ferreira;499828
-861;347388863505300;Sombras no Horizonte;Ingrid Santana;288292
-862;347388863507400;Canção dos Ventos;Fernanda Carvalho;487176
-863;347388863509600;Canção dos Ventos;André Almeida;146106
-864;347388863512000;Tempestade de Emoções;Denise Oliveira;327576
-865;347388863514200;Noite de Inverno;Fernanda Almeida;395441
-866;347388863516300;Caminho da Esperança;Aline Pereira;454535
-867;347388863518500;Ritmo do Coração;Roberta Souza;154645
-868;347388863520600;Ecos do Amanhã;Juliana Costa;144582
-869;347388863522700;Noite de Inverno;Tatiane Lima;11794
-870;347388863524900;Noite de Verão;Patrícia Ferreira;261275
-871;347388863527000;O Que Restou de Nós;Julia Santos;279019
-872;347388863529100;A Dança da Vida;Ricardo Ferreira;39739
-873;347388863531300;Amanhecer Radiante;Roberto Ferreira;442991
-874;347388863533400;Pôr do Sol;Tatiane Ferreira;425837
-875;347388863535500;Sussurros do Passado;João Almeida;483301
-876;347388863537600;Harmonia do Universo;Roberto Ferreira;148093
-877;347388863539700;Tarde Dourada;Julia Santos;232605
-878;347388863541800;O Que Restou de Nós;André Costa;119395
-879;347388863544000;Pôr do Sol;André Almeida;156879
-880;347388863546100;Canção da Esperança;Aline Pereira;199714
-881;347388863548100;Noite de Verão;Rafael Santos;257300
-882;347388863550200;Sussurros do Passado;Aline Pereira;15501
-883;347388863552400;Sussurros do Passado;Bruno Almeida;432999
-884;347388863554500;Sombras no Horizonte;Camila Santos;180727
-885;347388863556700;Tarde Dourada;Felipe Almeida;458867
-886;347388863558800;Harmonia do Universo;Tatiane Ferreira;363717
-887;347388863561100;Tarde Dourada;Roberta Souza;424234
-888;347388863563200;Tempestade de Emoções;Rafael Gomes;335909
-889;347388863565300;Reflexões do Amanhã;Lucas Martins;368186
-890;347388863567500;O Último Abraço;Lucas Ferreira;167101
-891;347388863569600;Luz na Estrada;Felipe Almeida;198852
-892;347388863571700;Sombras no Horizonte;Laura Oliveira;117558
-893;347388863573800;Amanhecer Radiante;Gustavo Rodrigues;156747
-894;347388863575900;Reflexões do Amanhã;Julia Santos;299833
-895;347388863578000;Tarde Dourada;Bruno Oliveira;481116
-896;347388863581500;A Dança da Vida;Lucas Ferreira;115966
-897;347388863627300;Tempestade de Emoções;Fernanda Almeida;291653
-898;347388863635200;Som do Mar;Laura Oliveira;387141
-899;347388863638300;Ecos do Amanhã;Lara Oliveira;155842
-900;347388863641000;O Que Restou de Nós;Ana Paula Santos;62205
-901;347388863643600;Entre Sombras e Luz;Bruno Almeida;322342
-902;347388863646000;Pôr do Sol;Patrícia Lima;400777
-903;347388863648200;Tempestade de Emoções;Tatiane Ferreira;457950
-904;347388863650400;Dança da Lua;Roberto Ferreira;180265
-905;347388863652500;Luz na Estrada;Felipe Almeida;278916
-906;347388863654600;Sussurros do Passado;Patrícia Lima;364864
-907;347388863656700;Luz na Estrada;Patrícia Lima;265118
-908;347388863658700;Luz na Estrada;André Almeida;465617
-909;347388863661000;Luz na Estrada;Patrícia Ferreira;31887
-910;347388863663000;A Dança da Vida;Juliana Costa;320720
-911;347388863664900;Estrela Solitária;Rafael Gomes;114851
-912;347388863667000;Luz na Estrada;Vinícius Santos;212261
-913;347388863669000;Dança da Lua;Gabriel Santos;481645
-914;347388863671000;Canção dos Ventos;Bruno Oliveira;204572
-915;347388863673000;Ritmo do Coração;Gustavo Rodrigues;193489
-916;347388863675100;No Coração da Noite;Rafael Santos;121562
-917;347388863677100;O Que Restou de Nós;Denise Oliveira;348250
-918;347388863679200;Tempestade de Emoções;Aline Pereira;98460
-919;347388863681300;Dança da Lua;Fabiana Silva;411226
-920;347388863683300;Noite de Verão;Carolina Lima;3314
-921;347388863685300;O Último Abraço;Marcos Silva;313635
-922;347388863687400;Tarde Dourada;Juliana Costa;461653
-923;347388863689400;Caminho da Esperança;Juliana Ferreira;425678
-924;347388863691500;Canção dos Ventos;Vinícius Ferreira;51552
-925;347388863693500;No Coração da Noite;Carolina Lima;305607
-926;347388863695500;Canção da Esperança;Fernanda Almeida;329965
-927;347388863697500;Caminho das Estrelas;Carolina Lima;165513
-928;347388863699500;Noite de Inverno;Ricardo Santos;487537
-929;347388863701600;Ritmo do Coração;Rafael Gomes;295506
-930;347388863703600;Dança da Lua;Roberto Ferreira;96959
-931;347388863705600;Reflexo da Alma;João Almeida;360480
-932;347388863707800;Fuga para a Realidade;Juliana Martins;484591
-933;347388863709800;Ecos da Liberdade;Vinícius Santos;432799
-934;347388863711800;Entre Sombras e Luz;Juliana Martins;138932
-935;347388863713800;Canção da Esperança;Pedro Henrique;450033
-936;347388863715900;Cores do Outono;Rafael Santos;339752
-937;347388863717900;Canção da Esperança;João Almeida;345424
-938;347388863719900;Ventos do Destino;Ricardo Ferreira;403450
-939;347388863721900;Ritmo do Coração;Marcos Silva;197231
-940;347388863723900;Ecos da Liberdade;Mariana Costa;244212
-941;347388863726000;Ritmo do Coração;Eduardo Costa;248916
-942;347388863728000;Pôr do Sol;Mariana Costa;301238
-943;347388863730000;Reflexo da Alma;Thiago Almeida;373680
-944;347388863732000;Fuga para a Realidade;Ingrid Santana;251292
-945;347388863734000;O Último Abraço;Bruno Almeida;156509
-946;347388863736000;O Que Restou de Nós;Ricardo Santos;362748
-947;347388863738100;Caminho da Esperança;Lara Oliveira;183867
-948;347388863740100;Cores do Outono;Rafael Santos;214014
-949;347388863742000;Fuga para a Realidade;João Almeida;11652
-950;347388863744100;Dança da Lua;Fernanda Carvalho;441767
-951;347388863746100;Fuga para a Realidade;Fernanda Almeida;148408
-952;347388863748100;Caminhos Cruzados;André Almeida;396534
-953;347388863750100;O Último Abraço;Lara Oliveira;263682
-954;347388863752300;Caminhos Cruzados;Lara Oliveira;63435
-955;347388863754300;Tarde Dourada;Fernanda Carvalho;304222
-956;347388863756300;O Que Restou de Nós;Fernanda Almeida;48095
-957;347388863758300;A Magia do Amor;Lara Oliveira;182869
-958;347388863760200;O Último Abraço;Ana Paula Santos;451279
-959;347388863762200;Fuga para a Realidade;Vinícius Ferreira;445691
-960;347388863764300;O Que Restou de Nós;Eduardo Costa;281311
-961;347388863766300;Fuga para a Realidade;Thiago Santana;212052
-962;347388863768300;Amanhecer Radiante;Roberto Ferreira;362913
-963;347388863770300;Caminho das Estrelas;Lara Oliveira;120556
-964;347388863772300;Luz na Estrada;Juliana Costa;494921
-965;347388863774300;Som do Mar;Ingrid Santana;218008
-966;347388863999700;Cores do Outono;Ricardo Santos;365385
-967;347388864042800;Amanhecer Radiante;Bruno Oliveira;443746
-968;347388864049000;Amanhecer Radiante;Mariana Costa;385188
-969;347388864051400;Canção da Esperança;Mariana Costa;454033
-970;347388864053600;Reflexo da Alma;Gustavo Rodrigues;374375
-971;347388864055600;O Que Restou de Nós;Camila Santos;308629
-972;347388864057500;Fuga para a Realidade;Vinícius Ferreira;210386
-973;347388864059500;Harmonia do Universo;Camila Almeida;10313
-974;347388864061600;Caminho das Estrelas;Vinícius Santos;65888
-975;347388864063500;Harmonia do Universo;Gustavo Rodrigues;326128
-976;347388864065700;No Coração da Noite;Bruno Oliveira;24372
-977;347388864067700;O Último Abraço;Gabriel Santos;386784
-978;347388864069600;Sussurros do Passado;Gustavo Rodrigues;187482
-979;347388864071500;Ventos do Destino;Vinícius Ferreira;399232
-980;347388864073500;Ventos do Destino;Tatiane Lima;474449
-981;347388864075500;No Coração da Noite;Juliana Costa;68876
-982;347388864077400;Caminho das Estrelas;Lucas Martins;19921
-983;347388864079300;O Último Abraço;João Almeida;332738
-984;347388864081300;Ecos da Liberdade;Patrícia Ferreira;304893
-985;347388864083200;O Último Abraço;Ricardo Santos;393331
-986;347388864085100;Ecos do Amanhã;Denise Oliveira;415082
-987;347388864087000;Ecos do Amanhã;Lucas Ferreira;362576
-988;347388864088900;A Magia do Amor;Ricardo Ferreira;258783
-989;347388864090800;A Dança da Vida;Lucas Ferreira;12688
-990;347388864092700;Noite de Inverno;Fernanda Carvalho;141772
-991;347388864094700;Sombras no Horizonte;Vinícius Santos;269840
-992;347388864096600;Harmonia do Universo;Fernanda Carvalho;78867
-993;347388864098600;Sussurros do Passado;Patrícia Ferreira;84999
-994;347388864101300;Ecos do Amanhã;Rafael Gomes;302039
-995;347388864103500;Caminho da Esperança;Marcos Silva;477314
-996;347388864105400;Amanhecer Radiante;Mariana Costa;232183
-997;347388864107300;Noite de Verão;Juliana Martins;62030
-998;347388864109500;Estrela Solitária;João Almeida;452404
-999;347388864111400;Ecos da Liberdade;Roberta Souza;256236
-1000;347388864113300;Noite de Verão;André Almeida;341258
+1;402234530710000;Entre Brisa e Vazio;DJ Invisível do Silêncio;338922;260;
+2;402234578096400;Entre Flor e Calmo;Coletivo Acústico;346564;175;
+3;402234580132100;Entre Chuva e Silencioso;Ruidoso Alma;311228;87;
+4;402234580336300;No Luz do Mortal;Coletivo Escuro;472367;96;
+5;402234580512100;Memória do Profundo;Senhor Noturno;389724;240;
+6;402234580734000;Sob o Partido Mar;Invisível Coração;206942;167;
+7;402234580883300;Miragem do Solitário;Os Íntimos;493896;65;
+8;402234581250400;Entre Vento e Vivo;DJ Fantasma do Raio;435821;216;
+9;402234581300800;Canção da Verdade - 2025;DJ Digital do Folha;483969;186;
+10;402234581449800;Sob o Cruel Areia;Escuro Horizonte;164570;266;
+11;402234581494200;Voz Distante;Orquestra Ruidoso;222470;338;
+12;402234581712500;Espelho do Profundo;Os Noturnos;138936;144;
+13;402234581768800;Corrente do Sagrado;Banda Bravio;299811;63;
+14;402234581864800;Corrente Frio - Demo;Grupo Azul;130437;317;
+15;402234581977600;Canção da Ecos;DJ Acústico do Ecos;157720;264;
+16;402234582025000;No Céu do Rápido;DJ Místico do Flor;102061;310;
+17;402234582069300;Canção da Som;MC Fantasma;187055;141;
+18;402234582110700;Canção da Memória;DJ Místico do Fronteira;90119;228;
+19;402234582151300;Sob o Cruel Silêncio;DJ Acústico do Mar;313783;327;
+20;402234582195500;No Vento do Brilhante;DJ Digital do Caminho;238262;102;
+21;402234582241900;Ecos do Amargo;Coletivo Cósmico;319561;220;
+22;402234582292900;Sombra Somente;Coletivo Invisível;321518;305;
+23;402234582341000;Verdade Vivo - Versão Final;Os Urbanos;237358;224;
+24;402234582391800;Memória Mortal;Coletivo Azul;447343;287;
+25;402234582436400;Luz Azul - Instrumental;Coletivo Psicodélico;15822;115;
+26;402234582479500;Sob o Vazio Mar;DJ Urbano do Fronteira;87224;328;
+27;402234582534300;No Alma do Azul;DJ Vibrante do Areia;475765;245;
+28;402234582580600;Muralha Negro;Grupo Atômico;371567;186;
+29;402234582625000;Entre Abismo e Azul;Os Azuls;484061;166;
+30;402234583115900;Ecos Mortal - Remix;Digital Tempo;348130;105;
+31;402234583181800;Vento Partido;Os Cósmico;55423;349;
+32;402234583227800;Noite do Cruel;Coletivo Atômico;258442;231;
+33;402234583273800;Canção da Raio - Instrumental;DJ Íntimo do Ecos;98493;287;
+34;402234583322000;Espelho do Frio;Os Psicodélicos;117904;122;
+35;402234583419100;Sob o Encantado Sonho - Acústico;DJ Psicodélico do Som;318460;110;
+36;402234583470800;Sombra do Sombrio;Coletivo Acústico;96567;132;
+37;402234583522600;Folha Cruel;Projeto Ruidoso;217693;86;
+38;402234583581600;Caminho Sombrio - Instrumental;Coletivo Íntimo;313011;156;
+39;402234583640400;Muralha do Partido;Coletivo Noturno;236923;284;
+40;402234583691300;Sob o Calmo Silêncio;Coletivo Escuro;224748;236;
+41;402234583733900;Entre Horizonte e Cruel - Acústico;Estelar Sol;177200;266;
+42;402234583781000;Sob o Amargo Abismo - Versão Final;Os Estelars;407897;338;
+43;402234583887800;No Silêncio do Velho;DJ Ruidoso do Brisa;45528;67;
+44;402234583933800;Sonho do Rápido;Banda Cósmico;258484;296;
+45;402234584260100;Chama Perdido;Banda Ruidoso;282680;284;
+46;402234584322600;Canção da Muralha - 2025;DJ Estelar do Tempo;202517;192;
+47;402234584368600;Alma do Vazio - Vol. 2;Grupo Sônico;120175;85;
+48;402234584413600;Miragem do Negro;DJ Ruidoso do Vento;246324;321;
+49;402234584462500;Sonho do Lento;DJ Solar do Verdade;365529;257;
+50;402234584507300;Canção da Som;Coletivo Escuro;19457;172;
+51;402234584577700;Som do Rápido;Psicodélico Miragem;31321;315;
+52;402234584629700;Miragem do Lento;Coletivo Bravio;432700;66;
+53;402234584739200;Sob o Partido Coração - Edit;Coletivo Estelar;143278;186;
+54;402234584814900;Sob o Lento Raio;Coletivo Vibrante;463384;356;
+55;402234584874100;Brisa Mortal;Coletivo Noturno;480079;320;
+56;402234585101800;Canção da Mar - Vol. 2;Senhor Estelar;128950;243;
+57;402234585204200;Caminho Profundo - Remix;Coletivo Acústico;363938;180;
+58;402234585328900;Canção da Destino - Edit;DJ Digital do Brisa;161258;154;
+59;402234585526900;No Noite do Encantado;Vibrante Alma;285103;215;
+60;402234585663800;Entre Horizonte e Vermelho;DJ Azul do Estrela;365118;293;
+61;402234585749000;No Coração do Silencioso;Senhor Psicodélico;279086;276;
+62;402234585829400;No Relâmpago do Instável;Os Urbanos;213407;350;
+63;402234585889300;Entre Flor e Etéreo;Os Bravios;236543;211;
+64;402234586121700;Sob o Mortal Destino;Psicodélico Destino;303179;207;
+65;402234586197400;Entre Voz e Azul;Os Urbanos;67244;172;
+66;402234586242200;Coração do Rápido;Projeto Acústico;202775;205;
+67;402234586289400;Entre Estrela e Amargo;Noturno Areia;314040;190;
+68;402234586334200;Canção da Silêncio;DJ Psicodélico do Areia;299103;80;
+69;402234586378600;No Coração do Calmo;Os Acústicos;146374;177;
+70;402234586428000;Muralha do Velho;Grupo Sublime;492700;336;
+71;402234586478900;No Alma do Somente;Projeto Fantasma;456696;162;
+72;402234586558200;Alma do Amargo - Demo;DJ Atômico do Areia;463630;354;
+73;402234586616300;Segredo Sombrio;DJ Cósmico do Areia;135759;308;
+74;402234586663800;Canção da Corrente;DJ Psicodélico do Voz;154864;99;
+75;402234586707800;Flor Etéreo;Coletivo Ruidoso;125579;214;
+76;402234586750300;Sob o Velho Voz;Tribo Invisível;250648;223;
+77;402234586814600;Entre Coração e Lento - Versão Final;Projeto Psicodélico;78214;170;
+78;402234586858000;Sob o Lento Sombra;Os Noturno;326847;310;
+79;402234586892000;Muralha do Perdido;Coletivo Sublime;189099;297;
+80;402234586927400;Entre Fogo e Somente;Sônico Areia;344353;152;
+81;402234586979500;No Vento do Profundo;DJ Noturno do Destino;383243;170;
+82;402234587040400;Canção da Som - Instrumental;Os Íntimo;410840;159;
+83;402234587084800;Canção da Olhar;Coletivo Bravio;425708;311;
+84;402234587121000;Céu do Mágico - Remix;Os Atômicos;41157;238;
+85;402234587939000;Canção da Chuva;DJ Cósmico;202119;113;
+86;402234588012300;Canção da Horizonte;Os Estelars;18395;147;
+87;402234588055300;Sob o Brilhante Tempo - 2025;DJ Acústico;472175;292;
+88;402234588113700;Entre Noite e Profundo;Coletivo Acústico;228613;299;
+89;402234588165400;No Miragem do Vermelho;Sublime Luz;296898;168;
+90;402234588195200;Brisa do Vivo;Os Atômicos;58050;285;
+91;402234588300000;Fronteira do Sagrado;Senhor Vibrante;346747;205;
+92;402234588330400;Canção da Corrente - Versão Final;Banda Psicodélico;498193;85;
+93;402234588357800;Canção da Voz;DJ Digital do Areia;276592;82;
+94;402234588391400;Luz Sagrado;Os Bravios;231058;341;
+95;402234588426800;Canção da Raio - Vol. 2;Os Bravios;251375;150;
+96;402234588464200;Sob o Silencioso Miragem;Coletivo Solar;98604;105;
+97;402234588496700;Entre Grito e Negro;Psicodélico Flor;251130;287;
+98;402234588541000;Canção da Verdade;Senhor Azul;443396;153;
+99;402234588596000;No Luz do Vermelho;Os Sublimes;389761;66;
+100;402234588645100;Mar Somente;Orquestra Azul;321941;233;
+101;402234588692600;Corrente do Azul;Coletivo Místico;72583;75;
+102;402234588737800;Canção da Mar;Os Escuros;57804;350;
+103;402234588777800;No Muralha do Frio - Edit;DJ Azul;368553;132;
+104;402234588843900;No Flor do Doce;Coletivo Atômico;158953;81;
+105;402234588894000;Entre Relâmpago e Amargo;Místico Abismo;8876;192;
+106;402234588937400;Canção da Som;Coletivo Vibrante;174404;144;
+107;402234588977100;Horizonte do Cruel - Versão Final;DJ Noturno do Segredo;171134;173;
+108;402234589025500;Canção da Verdade;Urbano Sonho;36840;349;
+109;402234589066700;Luz do Amargo - Ao Vivo;Os Solars;392762;79;
+110;402234589156000;Entre Raio e Solitário;Coletivo Invisível;49889;97;
+111;402234589204300;No Fogo do Vazio - Edit;Os Vibrantes;215475;222;
+112;402234589250000;Mar Distante;Coletivo Sublime;211765;279;
+113;402234589294400;Muralha Negro - Demo;DJ Cósmico do Sol;141255;333;
+114;402234589334300;Sob o Negro Alma - Extended;Íntimo Estrela;306814;142;
+115;402234589373900;Sob o Perdido Segredo;DJ Atômico do Flor;295631;71;
+116;402234589409700;Sob o Encantado Noite - Vol. 2;DJ Digital do Memória;219676;102;
+117;402234589451200;No Raio do Solitário;DJ Místico do Brisa;300100;70;
+118;402234589501600;Entre Flor e Etéreo;Coletivo Noturno;13454;82;
+119;402234589538000;Entre Alma e Partido - Demo;Os Acústicos;229265;204;
+120;402234589585000;Sob o Mortal Raio - Ao Vivo;Tribo Escuro;6307;87;
+121;402234589615800;Canção da Coração;Tribo Invisível;385537;73;
+122;402234589641500;Memória do Silencioso;DJ Noturno do Tempo;202028;151;
+123;402234592061500;Som do Silencioso;Os Solars;99256;156;
+124;402234592155800;Fogo do Amargo - Demo;DJ Invisível do Chuva;73569;326;
+125;402234592268100;Canção da Verdade;Solar Chuva;420271;313;
+126;402234592333900;Sob o Partido Memória;Os Invisívels;114759;141;
+127;402234592434500;Coração do Solitário;Os Sublimes;434336;64;
+128;402234592480400;Sob o Vermelho Noite;Os Noturnos;367501;68;
+129;402234592557300;No Som do Vivo;Coletivo Bravio;249305;139;
+130;402234592600300;No Memória do Azul;Banda Estelar;431668;249;
+131;402234592644700;Sob o Sombrio Segredo;Coletivo Invisível;464485;263;
+132;402234592691100;Sonho do Lento;Os Azuls;160944;104;
+133;402234592744400;Sob o Cego Sonho;Coletivo Estelar;403699;301;
+134;402234592789000;No Alma do Vermelho;Os Invisívels;311092;62;
+135;402234592830800;No Céu do Negro;Solar Terra;313395;272;
+136;402234592870600;Sob o Profundo Olhar - Edit;Escuro Noite;373443;330;
+137;402234592912600;Entre Tempo e Profundo;DJ Cósmico do Estrela;209815;78;
+138;402234592951900;Sob o Somente Brisa;DJ Fantasma do Brisa;144482;91;
+139;402234592999800;Chama Cego;Coletivo Íntimo;258268;107;
+140;402234593039200;Sob o Encantado Raio - 2025;Solar Tempo;440274;232;
+141;402234593084300;Sob o Negro Muralha;Coletivo Fantasma;183393;128;
+142;402234593126100;Sob o Encantado Som;Coletivo Sublime;107496;305;
+143;402234593190200;No Areia do Partido;Coletivo Acústico;439820;128;
+144;402234593241700;Entre Folha e Cruel;DJ Noturno do Olhar;211292;331;
+145;402234593283600;Destino Perdido;Os Psicodélicos;326338;281;
+146;402234593325900;Sob o Solitário Memória;Acústico Chama;70091;85;
+147;402234593370800;Silêncio do Rápido;Coletivo Invisível;403767;69;
+148;402234593418400;Entre Tempo e Sagrado;Psicodélico Som;360931;332;
+149;402234593485600;Canção da Corrente;Coletivo Ruidoso;265097;136;
+150;402234593545600;Canção da Miragem - Acústico;Coletivo Estelar;457585;161;
+151;402234593614200;Sob o Sombrio Brisa;DJ Fantasma do Abismo;221581;174;
+152;402234593661800;Sob o Etéreo Miragem;Vibrante Fogo;442819;139;
+153;402234593699700;Entre Sonho e Rápido - Acústico;Coletivo Ruidoso;35728;160;
+154;402234593743500;Sob o Vivo Luz;DJ Digital do Fogo;154584;337;
+155;402234593787500;Canção da Grito;Coletivo Psicodélico;348741;149;
+156;402234593825000;Flor Sombrio;Cósmico Som;388232;107;
+157;402234593863200;Canção da Noite - 2025;Os Urbanos;320775;281;
+158;402234593908100;Verdade Velho - Ao Vivo;Os Bravios;202006;219;
+159;402234593948300;Sob o Solitário Destino;Grupo Azul;411790;184;
+160;402234593989200;Sob o Negro Tempo - Vol. 2;DJ Azul do Grito;492081;316;
+161;402234594037300;Canção da Sol;Digital Flor;92040;187;
+162;402234594077600;Sob o Silencioso Memória;Tribo Sônico;282750;309;
+163;402234594119600;Entre Coração e Mágico;Os Atômicos;61111;79;
+164;402234594167800;Flor do Cruel;Solar Estrela;341089;276;
+165;402234594213100;Olhar Cego - Ao Vivo;Coletivo Acústico;370119;274;
+166;402234594255200;Sob o Sombrio Sonho;Projeto Escuro;163365;93;
+167;402234594312400;Sombra Azul - Demo;Os Estelars;256389;327;
+168;402234594489100;Muralha Calmo;Os Invisívels;352752;160;
+169;402234594557300;Segredo do Negro;Os Urbanos;88429;327;
+170;402234594600900;Entre Horizonte e Infinito;DJ Sônico do Terra;404826;194;
+171;402234594645700;Destino Encantado - Extended;Coletivo Azul;100572;110;
+172;402234594711500;Vento do Mágico;Os Digital;417479;300;
+173;402234594751200;Canção da Espelho - Instrumental;DJ Místico do Miragem;363657;347;
+174;402234594791200;No Muralha do Brilhante;Os Psicodélicos;293467;149;
+175;402234594833400;Estrela do Partido - Remix;MC Cósmico;147571;191;
+176;402234594888500;Folha Sagrado;Os Digital;101487;324;
+177;402234594927900;Sob o Distante Coração;Os Cósmicos;499260;78;
+178;402234594967200;Flor Amargo;Os Bravios;49839;67;
+179;402234595011500;Muralha Mortal;Coletivo Sublime;109285;228;
+180;402234595054000;Entre Brisa e Infinito;Coletivo Solar;69585;339;
+181;402234595095600;Segredo do Negro;Coletivo Noturno;395050;252;
+182;402234595143700;Canção da Destino;Sublime Sol;351417;280;
+183;402234595178800;Canção da Chuva;Os Ruidosos;468779;124;
+184;402234595207500;Sob o Partido Vento;Sublime Noite;298185;135;
+185;402234595237600;Sob o Lento Olhar - Acústico;Os Azuls;440831;150;
+186;402234595269000;No Som do Partido;Os Psicodélicos;355496;293;
+187;402234595296900;No Memória do Calmo;Projeto Noturno;297903;246;
+188;402234595323100;Sonho Cruel;Os Sônicos;19430;61;
+189;402234595352900;Sob o Velho Segredo - Acústico;Coletivo Escuro;279152;339;
+190;402234595380200;Canção da Mar;Coletivo Íntimo;311758;255;
+191;402234595406400;Silêncio do Velho;Atômico Areia;189547;123;
+192;402234595454000;Sol Negro;Orquestra Invisível;135753;125;
+193;402234595483300;Sob o Etéreo Corrente;Sônico Chuva;195566;257;
+194;402234595510000;No Noite do Brilhante - Acústico;MC Atômico;184673;220;
+195;402234595549800;Muralha Mortal;Grupo Urbano;266570;281;
+196;402234595578200;Sob o Etéreo Destino - Versão Final;Vibrante Fogo;179102;180;
+197;402234595621100;Memória Calmo;Os Acústicos;210402;203;
+198;402234595649100;Sob o Doce Folha;Banda Íntimo;157026;174;
+199;402234595676600;Noite do Silencioso;Coletivo Íntimo;480496;308;
+200;402234595705000;Sob o Vermelho Som - Instrumental;Coletivo Ruidoso;366158;67;
+201;402234595743400;No Sol do Negro - Ao Vivo;Os Estelars;283030;89;
+202;402234595774400;Entre Voz e Distante;DJ Estelar do Flor;154181;229;
+203;402234595802500;Alma Frio;Cósmico Areia;89651;163;
+204;402234595828200;No Vento do Lento;DJ Vibrante do Abismo;465334;195;
+205;402234595855100;Tempo do Cego;Os Cósmicos;324706;245;
+206;402234595884300;Sob o Vivo Tempo;DJ Sônico;342968;77;
+207;402234595913500;Canção da Miragem - Edit;Os Urbanos;477589;284;
+208;402234595942400;Memória do Vermelho - Versão Final;DJ Ruidoso do Ecos;306132;261;
+209;402234595972000;Sol Negro;Sublime Olhar;239235;94;
+210;402234596000600;Entre Segredo e Amargo - Remix;DJ Místico do Caminho;149248;114;
+211;402234596032000;Entre Areia e Vermelho;Coletivo Urbano;345417;185;
+212;402234596058300;Sob o Partido Folha;DJ Sônico do Relâmpago;492041;141;
+213;402234596095800;Luz do Vivo;DJ Atômico do Corrente;232653;127;
+214;402234596128300;Sob o Negro Folha - Vol. 2;Coletivo Sônico;264498;200;
+215;402234596159400;Sob o Solitário Espelho;Acústico Ecos;105900;353;
+216;402234596189600;Canção da Chama;Coletivo Estelar;199676;293;
+217;402234596215200;Sob o Mortal Brisa;Os Acústicos;275795;291;
+218;402234596245900;Entre Horizonte e Brilhante - Vol. 2;Coletivo Cósmico;35010;85;
+219;402234596276800;Entre Flor e Vazio;Coletivo Místico;356758;119;
+220;402234596303100;Sob o Infinito Voz;DJ Digital do Chama;402515;294;
+221;402234596333700;Entre Luz e Encantado;Projeto Invisível;388314;71;
+222;402234596362300;Entre Miragem e Vazio;DJ Sônico do Sol;126685;131;
+223;402234596390100;Silêncio do Azul;DJ Urbano do Brisa;272546;127;
+224;402234596418800;Luz Lento;Os Noturnos;419964;249;
+225;402234596447100;No Noite do Infinito - Versão Final;Vibrante Chama;168128;182;
+226;402234596480800;Espelho do Vazio;Coletivo Bravio;443903;171;
+227;402234596510200;Entre Miragem e Somente;Os Bravios;13120;191;
+228;402234596552600;Mar Sagrado;Os Cósmico;327705;345;
+229;402234596584800;Entre Noite e Frio;Tribo Digital;423865;357;
+230;402234596612200;Canção da Mar;DJ Noturno do Terra;53301;98;
+231;402234596641000;Canção da Muralha - 2025;Cósmico Chama;398313;96;
+232;402234596668800;Sob o Lento Abismo;Banda Digital;411670;201;
+233;402234596696700;Abismo Encantado;Vibrante Segredo;434194;243;
+234;402234596725500;Raio Mágico - Acústico;Coletivo Bravio;208305;205;
+235;402234596754200;Sob o Somente Espelho;Os Acústicos;458680;173;
+236;402234596781100;Entre Segredo e Somente;DJ Cósmico do Segredo;289448;245;
+237;402234596810200;Sob o Azul Tempo;Noturno Som;421045;343;
+238;402234596837700;Entre Verdade e Sombrio;DJ Ruidoso do Silêncio;206844;102;
+239;402234596938600;Entre Espelho e Amargo;Atômico Alma;320444;178;
+240;402234596971800;Canção da Verdade;Azul Folha;171922;63;
+241;402234597000000;Coração Calmo;Coletivo Invisível;76574;86;
+242;402234597027900;Muralha Infinito;Os Acústicos;163410;285;
+243;402234597057300;Entre Terra e Rápido;Cósmico Horizonte;11128;133;
+244;402234597618700;Ecos do Brilhante;MC Estelar;124803;126;
+245;402234597673200;Mar do Cego - 2025;Atômico Areia;137785;316;
+246;402234597710000;Céu Doce - Versão Final;Coletivo Atômico;95241;199;
+247;402234597740600;Luz do Negro;Os Escuros;295374;275;
+248;402234597788100;Entre Céu e Calmo;Os Sônicos;489614;215;
+249;402234597816500;Fogo Cego;Coletivo Solar;326380;63;
+250;402234597842900;Sob o Brilhante Destino;Os Solars;360020;192;
+251;402234597876900;No Horizonte do Mágico - Edit;Os Acústicos;163600;101;
+252;402234597907500;Canção da Céu;DJ Invisível do Corrente;261822;72;
+253;402234597937400;Olhar do Distante;Atômico Corrente;471029;94;
+254;402234597975400;No Luz do Brilhante;Banda Íntimo;90940;248;
+255;402234598021000;Tempo do Frio;DJ Atômico;58904;92;
+256;402234598054700;Entre Grito e Rápido - Vol. 2;Místico Luz;328169;95;
+257;402234598094100;Entre Voz e Cego - Extended;Estelar Chuva;327408;141;
+258;402234598125000;Canção da Espelho;MC Místico;158701;114;
+259;402234598174200;Chama do Encantado - Instrumental;Os Cósmicos;231089;306;
+260;402234598208600;Estrela Solitário;Escuro Corrente;458931;341;
+261;402234598239300;Entre Sombra e Lento;MC Bravio;201685;359;
+262;402234598268600;Estrela Frio;Os Estelars;486987;266;
+263;402234598295000;Canção da Tempo;Vibrante Segredo;303227;66;
+264;402234598324100;Miragem Etéreo;Coletivo Invisível;90293;83;
+265;402234598351600;Flor do Negro;Estelar Horizonte;78767;345;
+266;402234598471500;No Memória do Mortal;Coletivo Psicodélico;427626;299;
+267;402234598503000;Canção da Tempo - Extended;Os Íntimos;177472;138;
+268;402234598543100;Entre Grito e Doce - Instrumental;Os Psicodélicos;285845;336;
+269;402234598596600;Canção da Grito;Bravio Raio;400166;244;
+270;402234598639400;Canção da Muralha;Coletivo Místico;223648;239;
+271;402234598680200;Mar Frio;Coletivo Urbano;479794;171;
+272;402234598720700;Entre Abismo e Frio;Banda Digital;315423;304;
+273;402234598759300;Canção da Espelho;Os Íntimos;318423;216;
+274;402234598796600;Entre Caminho e Calmo;Orquestra Místico;405956;329;
+275;402234598832100;Entre Chama e Solitário;Orquestra Noturno;139014;93;
+276;402234598876700;Entre Sol e Mágico;Tribo Fantasma;289058;299;
+277;402234598918000;Canção da Tempo;MC Acústico;220907;222;
+278;402234598955100;Entre Estrela e Mortal;Invisível Sol;468168;202;
+279;402234598994900;Entre Verdade e Encantado;Os Vibrantes;216213;123;
+280;402234599040500;Sob o Etéreo Olhar;Tribo Psicodélico;397943;202;
+281;402234599082100;Entre Noite e Rápido;Sublime Vento;354018;307;
+282;402234599124100;No Abismo do Infinito - Instrumental;Sônico Areia;85266;91;
+283;402234599172700;No Folha do Infinito;Cósmico Abismo;44597;287;
+284;402234599216300;No Folha do Instável - Instrumental;MC Bravio;338124;334;
+285;402234599259800;Sob o Solitário Fogo;Orquestra Estelar;317797;336;
+286;402234599310200;Entre Caminho e Cruel - Versão Final;Urbano Sol;248587;68;
+287;402234599357100;Entre Destino e Frio;Senhor Ruidoso;12887;241;
+288;402234599396000;Grito do Negro;Os Ruidosos;63205;253;
+289;402234599445400;Raio Negro;Coletivo Acústico;386765;293;
+290;402234599485700;Canção da Noite;Estelar Som;574;165;
+291;402234599526700;Sob o Amargo Miragem;Coletivo Acústico;249625;288;
+292;402234600084300;Fronteira Somente;Os Atômicos;112673;87;
+293;402234600450800;No Memória do Cego;Os Azuls;320481;184;
+294;402234601335200;Caminho Perdido;Projeto Azul;266840;258;
+295;402234601494200;Entre Verdade e Azul;Orquestra Invisível;85955;210;
+296;402234601578700;Grito Silencioso;Vibrante Fronteira;270093;272;
+297;402234601700700;Horizonte do Solitário;DJ Azul do Caminho;173196;306;
+298;402234601800300;No Chama do Sombrio - Versão Final;Os Sublimes;397201;151;
+299;402234601925500;Entre Caminho e Encantado;Escuro Fronteira;128400;112;
+300;402234602051600;Entre Abismo e Sombrio;DJ Íntimo do Verdade;45383;182;
+301;402234602210400;Destino Cego;Noturno Sonho;383941;308;
+302;402234602325300;Areia do Vermelho - Remix;Os Atômicos;399147;144;
+303;402234602481400;Canção da Alma;DJ Ruidoso do Relâmpago;379748;169;
+304;402234602620500;No Coração do Somente;Atômico Memória;464092;262;
+305;402234602740600;Relâmpago do Vermelho;Coletivo Digital;393933;93;
+306;402234602814300;Sob o Partido Raio;Coletivo Psicodélico;384560;130;
+307;402234602861400;Grito do Sagrado;Os Digitals;215409;71;
+308;402234602930300;Luz do Infinito;Os Escuros;151393;295;
+309;402234602978400;Verdade Distante;Os Sublimes;15268;78;
+310;402234603023200;Sob o Brilhante Flor;Os Digitals;80322;182;
+311;402234603089300;Flor do Distante;Coletivo Noturno;343099;84;
+312;402234603146100;Entre Horizonte e Partido;Banda Urbano;225934;215;
+313;402234603194000;Horizonte Sombrio;Os Sônicos;44838;96;
+314;402234603264400;Entre Caminho e Lento;Os Ruidosos;481691;335;
+315;402234603345400;Sob o Velho Céu;Coletivo Místico;282931;95;
+316;402234603430900;Canção da Alma - 2025;Coletivo Sônico;109413;71;
+317;402234603520500;Canção da Coração - Demo;DJ Urbano do Relâmpago;495837;202;
+318;402234603640700;Entre Raio e Calmo;Coletivo Sublime;477617;317;
+319;402234603764100;Destino Rápido - Acústico;DJ Fantasma do Miragem;163236;95;
+320;402234603833400;Entre Voz e Vazio - Ao Vivo;DJ Cósmico do Abismo;45163;78;
+321;402234603902400;Canção da Segredo;DJ Sônico do Estrela;256028;218;
+322;402234603974100;Sob o Encantado Voz - Extended;Os Vibrantes;61947;80;
+323;402234604055000;No Relâmpago do Profundo - Acústico;Orquestra Bravio;462585;268;
+324;402234604184800;Som do Instável - Extended;DJ Sublime do Vento;349612;176;
+325;402234604411400;Miragem do Distante;Senhor Místico;315791;317;
+326;402234604480500;Tempo Cruel;Coletivo Digital;393586;161;
+327;402234604529400;Sombra Somente;DJ Atômico do Coração;151911;153;
+328;402234604577100;Sol Rápido - Versão Final;Banda Escuro;296637;105;
+329;402234604626700;No Olhar do Velho - Versão Final;Tribo Cósmico;23866;266;
+330;402234604681300;Sob o Instável Folha;DJ Noturno do Grito;328983;90;
+331;402234604727500;Entre Verdade e Instável;DJ Ruidoso do Sombra;258347;315;
+332;402234604777300;Terra Profundo;Coletivo Azul;76706;110;
+333;402234604840000;Segredo do Profundo;Coletivo Íntimo;451874;132;
+334;402234604998800;Entre Raio e Distante;Os Cósmicos;388249;68;
+335;402234605062000;Sob o Lento Horizonte;Os Sônicos;76752;74;
+336;402234605125400;Entre Fogo e Etéreo;Senhor Vibrante;439799;197;
+337;402234605197600;No Alma do Negro;Coletivo Sublime;133820;332;
+338;402234605266600;Canção da Sonho;Coletivo Bravio;129543;66;
+339;402234605319900;Canção da Brisa;Os Fantasmas;96450;359;
+340;402234605368200;Alma do Lento - Edit;Tribo Vibrante;165045;127;
+341;402234605419100;Entre Sombra e Doce;DJ Ruidoso do Raio;212165;211;
+342;402234605463100;No Grito do Cego;Orquestra Estelar;244065;174;
+343;402234605509800;Fogo Profundo - 2025;Coletivo Fantasma;168069;173;
+344;402234605542400;Canção da Céu;Tribo Sublime;186826;305;
+345;402234605573300;Sob o Calmo Abismo;Grupo Azul;153214;297;
+346;402234605604200;No Miragem do Brilhante;DJ Estelar;3511;129;
+347;402234605632600;No Alma do Infinito;DJ Acústico do Alma;433562;114;
+348;402234605662700;Tempo do Distante;DJ Escuro do Voz;491728;191;
+349;402234605692700;Entre Estrela e Vermelho;Místico Areia;309848;233;
+350;402234605721000;No Fronteira do Vazio;Urbano Chama;222223;214;
+351;402234605751500;Sob o Vermelho Sonho - Remix;Os Solar;239765;181;
+352;402234605783200;Canção da Corrente - Extended;Os Místicos;123192;330;
+353;402234605811600;Horizonte do Negro;Os Escuro;387412;259;
+354;402234605841300;Folha do Frio;Sônico Chuva;474552;221;
+355;402234605869200;Entre Olhar e Cruel;Os Digitals;383379;118;
+356;402234605896400;Sob o Azul Destino;Coletivo Sublime;318940;346;
+357;402234605924900;Chama do Negro;Coletivo Solar;53532;267;
+358;402234605951700;Raio Perdido - Ao Vivo;Os Estelars;194558;222;
+359;402234606043200;Olhar do Profundo;Coletivo Urbano;80441;238;
+360;402234606074800;Entre Caminho e Profundo;DJ Escuro do Sol;190551;209;
+361;402234606106600;Canção da Vento;Coletivo Urbano;26441;68;
+362;402234606136100;No Areia do Somente - Remix;Coletivo Vibrante;203351;260;
+363;402234606165800;No Som do Mágico;Solar Sombra;394687;105;
+364;402234606198600;No Chuva do Cego;DJ Sônico do Memória;413852;87;
+365;402234606229800;No Silêncio do Azul - Instrumental;Estelar Céu;324312;163;
+366;402234606709400;Entre Mar e Perdido;Noturno Silêncio;467737;231;
+367;402234606758400;Mar Velho - Vol. 2;Os Solars;115381;356;
+368;402234606793500;Canção da Verdade - Remix;Coletivo Íntimo;68328;257;
+369;402234606833900;Chuva Azul;Grupo Ruidoso;202948;349;
+370;402234606872700;No Destino do Distante;Grupo Escuro;57876;343;
+371;402234606902600;Memória do Mágico;Coletivo Sublime;301824;357;
+372;402234606931100;No Mar do Lento - Demo;Invisível Brisa;188087;308;
+373;402234606962800;Espelho do Profundo - Demo;DJ Íntimo do Caminho;298140;286;
+374;402234607012100;Destino Brilhante;DJ Digital do Sonho;123855;203;
+375;402234607041700;Miragem do Silencioso;Os Noturnos;148670;333;
+376;402234607075900;Som Mágico - Demo;Psicodélico Muralha;99199;209;
+377;402234607107800;Olhar do Silencioso;Coletivo Bravio;441468;314;
+378;402234607145000;Entre Sombra e Distante;Os Sônicos;6663;140;
+379;402234607199000;Sob o Brilhante Sonho;Coletivo Íntimo;393894;167;
+380;402234607228800;Sob o Encantado Alma - Edit;Noturno Voz;351786;316;
+381;402234607266000;Sonho do Somente - Acústico;Coletivo Invisível;73874;287;
+382;402234607297900;No Miragem do Encantado;Banda Azul;23908;283;
+383;402234607327400;No Coração do Sagrado;Coletivo Cósmico;264444;121;
+384;402234607527100;Entre Mar e Solitário;MC Azul;94975;192;
+385;402234607592500;No Sonho do Profundo;DJ Místico do Coração;276667;291;
+386;402234607637700;No Silêncio do Encantado;Coletivo Sublime;233285;97;
+387;402234607682100;Sob o Mágico Sol;DJ Noturno do Sol;482999;303;
+388;402234607725700;Entre Céu e Lento;Coletivo Escuro;222979;69;
+389;402234607774700;Chuva Instável - Instrumental;Coletivo Fantasma;288374;251;
+390;402234607821000;Entre Abismo e Partido;Os Noturnos;41951;350;
+391;402234607867000;Sob o Infinito Coração;Os Bravios;386922;265;
+392;402234607914800;Canção da Segredo;Coletivo Acústico;33051;262;
+393;402234607959200;Entre Tempo e Cruel;Invisível Horizonte;52944;287;
+394;402234608000900;Fronteira Vazio;Coletivo Bravio;184647;198;
+395;402234608044200;No Mar do Etéreo;Coletivo Urbano;413972;97;
+396;402234608092500;No Segredo do Cego;Bravio Voz;54194;202;
+397;402234608139800;Entre Sombra e Perdido - 2025;Os Noturnos;299426;299;
+398;402234608186600;Céu do Rápido;Ruidoso Grito;416929;225;
+399;402234608239200;Entre Segredo e Mágico;Noturno Sombra;283310;147;
+400;402234608281700;No Muralha do Rápido - Instrumental;Os Acústicos;194952;233;
+401;402234608337000;Entre Flor e Vivo - Acústico;Invisível Destino;311446;209;
+402;402234608383900;Grito do Cruel - 2025;DJ Estelar;5127;281;
+403;402234608458000;Sob o Sombrio Coração;DJ Sônico do Espelho;64445;275;
+404;402234608506000;No Horizonte do Vermelho;Coletivo Íntimo;221390;163;
+405;402234608552200;Sob o Encantado Mar;Estelar Terra;385933;73;
+406;402234608677000;Canção da Miragem - Edit;MC Sublime;84350;173;
+407;402234608740500;Entre Chuva e Mágico - Instrumental;DJ Invisível do Folha;438618;327;
+408;402234608802700;No Voz do Velho;DJ Vibrante do Sol;384153;325;
+409;402234608854000;Canção da Areia;Noturno Silêncio;397161;171;
+410;402234608904900;Entre Terra e Brilhante - Acústico;DJ Solar do Mar;298908;235;
+411;402234608954100;Chuva Somente;Os Bravios;410977;174;
+412;402234609003700;Entre Tempo e Vazio;Coletivo Íntimo;90427;226;
+413;402234609051400;Ecos Vermelho;Os Psicodélicos;254520;115;
+414;402234609100100;No Silêncio do Encantado;Os Azuls;163126;83;
+415;402234609146400;Canção da Noite - Acústico;Coletivo Místico;111424;125;
+416;402234609214000;Segredo do Brilhante - Instrumental;Os Estelars;81017;324;
+417;402234609265400;Brisa do Negro;Os Estelars;425787;121;
+418;402234609326300;Entre Estrela e Lento - Vol. 2;DJ Acústico do Muralha;147005;175;
+419;402234609373400;Canção da Fronteira;Sublime Caminho;402651;92;
+420;402234609421500;Entre Coração e Instável - Vol. 2;DJ Estelar do Muralha;102163;206;
+421;402234609467400;Entre Areia e Frio;DJ Íntimo do Flor;332736;106;
+422;402234609517300;Grito do Cego;DJ Bravio do Chama;2197;339;
+423;402234609561200;Voz Negro - Remix;Os Psicodélicos;273973;350;
+424;402234609639600;Abismo do Mortal;Os Solars;162711;64;
+425;402234609690600;Entre Miragem e Vazio - Versão Final;Coletivo Escuro;221254;232;
+426;402234609736500;Entre Flor e Somente;Os Solars;51247;132;
+427;402234609774800;Entre Flor e Cego;DJ Atômico do Fogo;264714;100;
+428;402234609838100;Verdade Frio - Instrumental;DJ Invisível do Abismo;112384;182;
+429;402234609882500;Estrela do Encantado;Os Estelars;476797;191;
+430;402234609920800;Canção da Flor;Íntimo Noite;3572;218;
+431;402234609948000;Grito Vazio;Solar Raio;275692;141;
+432;402234609977700;Entre Abismo e Encantado;Os Estelars;451641;191;
+433;402234610007600;Silêncio Negro - Remix;Sublime Corrente;252009;265;
+434;402234610050100;Sob o Mágico Grito;Coletivo Fantasma;268165;222;
+435;402234610094800;Som do Azul - Versão Final;Projeto Noturno;286936;169;
+436;402234610143300;Sob o Rápido Céu;DJ Cósmico do Olhar;111391;164;
+437;402234610190300;No Noite do Doce;Os Solars;32440;178;
+438;402234610237800;Luz do Somente;Coletivo Íntimo;496725;345;
+439;402234610281000;Sob o Calmo Vento;Senhor Estelar;392891;104;
+440;402234610338300;Entre Horizonte e Cego;Fantasma Miragem;497427;342;
+441;402234610368500;Canção da Destino;Os Azuls;30620;311;
+442;402234610397100;Grito do Etéreo;Azul Flor;137793;159;
+443;402234610427300;No Tempo do Doce;Coletivo Ruidoso;79605;215;
+444;402234610485000;Luz Lento - Remix;Ruidoso Verdade;131953;336;
+445;402234610522100;Canção da Raio;Coletivo Fantasma;1285;187;
+446;402234610549800;No Ecos do Solitário;Os Psicodélico;453857;354;
+447;402234610595400;Flor do Profundo - Extended;Estelar Ecos;90197;108;
+448;402234610724300;Sob o Cego Brisa - Vol. 2;Os Sublimes;111990;242;
+449;402234610804800;No Alma do Vermelho;Coletivo Cósmico;359499;197;
+450;402234610885700;Entre Sonho e Solitário;Os Atômicos;442908;208;
+451;402234610944500;No Muralha do Calmo;DJ Urbano do Areia;435927;283;
+452;402234610994400;Areia Vivo - Edit;Íntimo Caminho;404538;262;
+453;402234611044600;Miragem Mortal;DJ Íntimo do Silêncio;224215;98;
+454;402234611212700;No Memória do Cruel;Orquestra Invisível;494262;169;
+455;402234611266000;Entre Relâmpago e Doce - Instrumental;Coletivo Bravio;168353;157;
+456;402234611299300;Entre Destino e Perdido;DJ Cósmico do Ecos;206970;301;
+457;402234611333700;Luz do Cruel;Azul Ecos;56826;203;
+458;402234611380200;Coração do Solitário;Coletivo Ruidoso;45121;112;
+459;402234611420600;Sob o Azul Noite;Coletivo Psicodélico;228669;146;
+460;402234611459400;No Fronteira do Rápido - Instrumental;Os Invisívels;107192;265;
+461;402234611505600;Silêncio Perdido;Os Fantasmas;340500;307;
+462;402234611553200;Canção da Alma - Versão Final;Coletivo Estelar;174587;71;
+463;402234611598700;Chuva Silencioso;MC Estelar;392325;135;
+464;402234611644000;No Ecos do Somente - Versão Final;Acústico Terra;375190;122;
+465;402234611696900;Canção da Mar;DJ Sublime do Flor;121512;73;
+466;402234611738000;Entre Miragem e Vermelho;Os Bravios;419952;301;
+467;402234611781100;Entre Horizonte e Azul;Os Digitals;432514;261;
+468;402234611811400;Canção da Coração;DJ Acústico do Brisa;346616;327;
+469;402234611838900;Canção da Chama;Estelar Silêncio;313780;209;
+470;402234611867600;Céu do Vazio;DJ Urbano do Raio;390134;297;
+471;402234611898100;Noite do Etéreo;Cósmico Verdade;80165;140;
+472;402234611927900;Entre Relâmpago e Velho - Demo;Os Estelar;82846;274;
+473;402234611959100;Fogo do Negro;Os Psicodélicos;493020;93;
+474;402234612050100;Olhar Partido;Solar Muralha;76386;105;
+475;402234612117700;Entre Fronteira e Cego;Místico Abismo;260548;62;
+476;402234612172200;No Voz do Negro;DJ Invisível do Segredo;325313;109;
+477;402234612219900;Chama Mágico;Banda Solar;238916;202;
+478;402234612263300;Entre Flor e Mortal;Coletivo Noturno;254183;133;
+479;402234612310400;No Estrela do Cego;DJ Bravio;122050;317;
+480;402234612358400;Brisa Mortal;Os Vibrantes;253519;212;
+481;402234612402400;Horizonte do Vazio;Os Solars;388511;285;
+482;402234612448900;Sob o Brilhante Areia - Edit;Coletivo Vibrante;428726;248;
+483;402234612494600;Entre Brisa e Silencioso;Coletivo Escuro;14873;87;
+484;402234612535500;Céu Brilhante - Remix;DJ Urbano do Silêncio;340839;160;
+485;402234613374200;Sob o Calmo Destino;DJ Psicodélico do Noite;410254;127;
+486;402234613450300;Sob o Brilhante Flor - Demo;Os Azuls;284082;73;
+487;402234613501800;No Vento do Profundo - Vol. 2;DJ Acústico do Ecos;36663;284;
+488;402234613559100;Entre Horizonte e Cruel;Atômico Sol;91155;226;
+489;402234613603500;Sob o Cruel Fronteira;Os Invisívels;8518;303;
+490;402234613652100;Som Lento;Os Invisívels;410872;159;
+491;402234613697900;Canção da Brisa - Extended;DJ Solar do Olhar;11473;193;
+492;402234613746000;Abismo do Somente - Demo;DJ Invisível do Sol;292269;279;
+493;402234613794600;No Vento do Brilhante;Íntimo Olhar;64896;312;
+494;402234613869800;Canção da Chuva;Os Escuros;184469;69;
+495;402234613915500;No Destino do Distante;DJ Bravio do Relâmpago;282637;109;
+496;402234613960700;Corrente Vazio;DJ Estelar do Miragem;404327;257;
+497;402234614001800;No Brisa do Infinito;DJ Fantasma do Sonho;346829;293;
+498;402234614047000;Abismo Cego;DJ Místico do Chama;61012;237;
+499;402234614091400;Canção da Chama;Os Místicos;266107;211;
+500;402234614131700;No Flor do Instável - 2025;DJ Solar do Flor;28218;90;
+501;402234614186900;Flor Cego;Ruidoso Silêncio;286829;329;
+502;402234614232600;Entre Raio e Azul;Coletivo Escuro;199366;140;
+503;402234614277200;Canção da Tempo - Demo;DJ Estelar do Sol;249194;251;
+504;402234614325700;Entre Horizonte e Distante;MC Invisível;229930;293;
+505;402234614370000;Ecos do Vivo;Os Noturnos;368084;189;
+506;402234614418000;Caminho do Frio;Grupo Urbano;104111;344;
+507;402234614462200;Relâmpago Sagrado;Os Sônicos;29306;147;
+508;402234614521300;No Sol do Calmo;Os Atômicos;127158;225;
+509;402234614567100;Chuva do Negro;Bravio Alma;499363;128;
+510;402234614613200;Entre Abismo e Sombrio - Demo;DJ Estelar do Mar;224423;198;
+511;402234614700700;Brisa do Cego;MC Azul;499387;153;
+512;402234614790500;Entre Chama e Cego;Ruidoso Espelho;236424;98;
+513;402234614972700;Sob o Somente Voz;Os Atômicos;474576;190;
+514;402234615025600;Verdade do Vivo - Versão Final;Projeto Noturno;360384;203;
+515;402234615075700;Canção da Fronteira;Coletivo Acústico;168501;80;
+516;402234615122600;No Muralha do Solitário;Tribo Vibrante;361395;135;
+517;402234615169500;No Memória do Cego;DJ Sônico do Chuva;440680;144;
+518;402234615214900;Sob o Distante Mar;Invisível Mar;313879;327;
+519;402234615263600;Terra Calmo - Acústico;Coletivo Digital;209937;236;
+520;402234615309900;Canção da Brisa;Místico Fogo;267925;263;
+521;402234615361100;Sob o Etéreo Caminho - Acústico;Coletivo Invisível;210612;147;
+522;402234615411600;Vento Vermelho;Coletivo Ruidoso;267933;66;
+523;402234615465700;Canção da Sol;Coletivo Místico;206718;356;
+524;402234615509900;Chuva do Rápido;Tribo Atômico;336854;227;
+525;402234615552900;Fronteira do Calmo;Invisível Estrela;341769;116;
+526;402234615605600;No Alma do Vazio;Azul Grito;83451;106;
+527;402234615654100;No Coração do Perdido - Remix;Os Vibrantes;266924;178;
+528;402234615703200;Sob o Profundo Ecos;Escuro Raio;252665;192;
+529;402234615936300;Entre Segredo e Cruel;Coletivo Sônico;420220;85;
+530;402234616005000;Canção da Horizonte;DJ Vibrante do Fronteira;433428;187;
+531;402234616048800;Entre Noite e Velho;Vibrante Sol;342299;344;
+532;402234616089300;Canção da Fogo - Vol. 2;DJ Estelar do Fronteira;413045;102;
+533;402234616267200;Entre Vento e Calmo;Místico Sombra;485363;134;
+534;402234616324000;No Alma do Solitário;Vibrante Destino;26865;166;
+535;402234616379500;Céu do Silencioso;Grupo Escuro;387208;210;
+536;402234616449700;Chuva do Mortal - Extended;DJ Místico do Alma;419053;307;
+537;402234616546600;Verdade do Distante;Azul Corrente;350497;285;
+538;402234616598900;No Ecos do Partido;Os Digitals;476215;332;
+539;402234616669100;Olhar Silencioso;Coletivo Fantasma;430602;305;
+540;402234616713600;No Relâmpago do Perdido;DJ Escuro do Abismo;145811;88;
+541;402234616948900;Canção da Relâmpago - Instrumental;Invisível Chuva;328151;161;
+542;402234617693500;Entre Luz e Instável;DJ Azul do Fronteira;244517;205;
+543;402234617867100;Sob o Distante Luz;Coletivo Fantasma;487592;180;
+544;402234617931900;Canção da Caminho;Os Solars;383118;163;
+545;402234617984700;No Tempo do Partido;Projeto Sublime;166881;85;
+546;402234618083600;Canção da Grito;Os Estelars;207128;313;
+547;402234618135900;No Som do Lento - Acústico;Tribo Acústico;277077;231;
+548;402234618188600;Fronteira do Cego;Orquestra Digital;407596;136;
+549;402234618241200;Canção da Muralha;DJ Ruidoso do Folha;437709;209;
+550;402234618290000;Grito Vivo;Os Místicos;491044;227;
+551;402234618330100;Coração Brilhante - Extended;Bravio Chuva;218474;325;
+552;402234618374900;Abismo do Distante;Senhor Vibrante;175986;353;
+553;402234618421700;Entre Flor e Infinito;DJ Psicodélico do Alma;195291;278;
+554;402234618488000;Noite Amargo - Ao Vivo;Os Bravios;158045;124;
+555;402234618571700;Entre Fronteira e Vivo;Azul Destino;374565;86;
+556;402234618646600;Sob o Vazio Som;Os Urbanos;463856;310;
+557;402234618715900;Sob o Solitário Raio;Grupo Noturno;341268;197;
+558;402234618770300;Sombra do Silencioso;Tribo Acústico;48405;218;
+559;402234618832400;Folha do Brilhante;DJ Cósmico do Corrente;432850;135;
+560;402234618897800;Canção da Espelho;Cósmico Folha;87802;296;
+561;402234618977100;No Horizonte do Doce;Noturno Coração;320352;346;
+562;402234619072300;Abismo do Calmo;DJ Ruidoso do Ecos;237736;275;
+563;402234619204300;Canção da Sombra;DJ Sônico do Luz;451822;281;
+564;402234619360000;No Memória do Frio;DJ Fantasma do Grito;473366;112;
+565;402234619551600;Coração Etéreo;Coletivo Íntimo;65790;177;
+566;402234619661000;Brisa do Vazio;Orquestra Psicodélico;337693;309;
+567;402234619771300;Grito Vermelho;Os Digitals;14444;181;
+568;402234619843600;Canção da Horizonte;Grupo Azul;168264;264;
+569;402234619884900;No Sonho do Rápido;Orquestra Fantasma;288488;145;
+570;402234619937200;Miragem Instável;DJ Estelar do Fronteira;313383;167;
+571;402234619986300;Ecos do Doce - Acústico;Coletivo Fantasma;425917;200;
+572;402234620148000;Segredo Etéreo;DJ Atômico;484378;77;
+573;402234620192200;Entre Vento e Brilhante;DJ Atômico do Segredo;44014;104;
+574;402234620223000;Estrela do Vivo;Acústico Fogo;437915;156;
+575;402234620251400;Espelho Negro;Projeto Psicodélico;90392;100;
+576;402234620284400;No Mar do Distante;Os Azuls;154000;350;
+577;402234620341800;Grito Partido;Os Bravios;57563;298;
+578;402234620371300;Sob o Frio Fronteira;Ruidoso Abismo;139967;197;
+579;402234620402100;Raio Vivo;DJ Místico do Segredo;153543;349;
+580;402234620435500;Mar do Rápido;Íntimo Relâmpago;466391;306;
+581;402234620494600;Entre Horizonte e Cruel;Noturno Vento;156951;329;
+582;402234620646200;Entre Folha e Frio - Remix;DJ Noturno do Grito;379400;149;
+583;402234620797000;No Tempo do Perdido;Coletivo Digital;379808;270;
+584;402234620866200;Entre Luz e Cego;Coletivo Bravio;4315;261;
+585;402234620919500;Mar Etéreo;Coletivo Solar;441742;204;
+586;402234621002900;Sob o Vazio Mar;DJ Sônico do Verdade;59506;243;
+587;402234621120100;Entre Mar e Amargo;Os Solars;387791;218;
+588;402234621341200;Canção da Miragem;Os Escuros;351108;249;
+589;402234621519500;Canção da Céu;Os Psicodélicos;338631;234;
+590;402234621688600;Sob o Vermelho Som;Os Vibrantes;468866;104;
+591;402234621746400;No Voz do Distante - Versão Final;Os Cósmicos;495231;228;
+592;402234621804800;No Grito do Vazio;DJ Escuro do Brisa;19476;304;
+593;402234621858100;Canção da Espelho;Os Urbanos;14017;330;
+594;402234621904700;Sob o Brilhante Mar;Místico Folha;26745;197;
+595;402234621956300;Chuva Sombrio;DJ Fantasma do Estrela;467318;60;
+596;402234622009800;Entre Miragem e Frio - Instrumental;Tribo Íntimo;455661;90;
+597;402234622062100;No Corrente do Cego;Os Azuls;130195;247;
+598;402234622112400;Entre Caminho e Perdido - Extended;MC Noturno;485791;295;
+599;402234622172200;Horizonte Amargo - Instrumental;Os Bravios;447247;72;
+600;402234622223400;No Ecos do Silencioso;Coletivo Urbano;84354;170;
+601;402234622272600;Entre Voz e Somente;Coletivo Noturno;275978;252;
+602;402234622321700;Sob o Vivo Sonho - Demo;Orquestra Sônico;420388;114;
+603;402234622366200;No Corrente do Vazio - Acústico;Atômico Corrente;134545;95;
+604;402234622408700;Entre Corrente e Mágico;Os Psicodélicos;177125;272;
+605;402234622442200;Sob o Mágico Luz;Noturno Horizonte;48907;244;
+606;402234622933200;Canção da Estrela;Sublime Brisa;380259;192;
+607;402234622972900;Canção da Estrela - Vol. 2;Coletivo Psicodélico;178338;242;
+608;402234623006900;Entre Caminho e Azul;Urbano Memória;175262;283;
+609;402234623039500;Abismo do Frio;Senhor Fantasma;483603;332;
+610;402234623071000;Entre Voz e Brilhante - Edit;DJ Ruidoso do Fogo;21357;199;
+611;402234623102700;No Brisa do Vivo;Coletivo Urbano;421603;220;
+612;402234623131000;Entre Noite e Profundo - Edit;Os Azuls;478422;211;
+613;402234623163300;Canção da Fogo;Orquestra Sônico;130431;168;
+614;402234623194300;No Ecos do Vazio;Coletivo Cósmico;127545;306;
+615;402234623223400;Estrela Frio;Os Solars;120287;153;
+616;402234623254000;No Flor do Calmo;Urbano Relâmpago;198813;255;
+617;402234623296800;Entre Noite e Infinito;DJ Azul do Verdade;374005;222;
+618;402234623325400;Folha Mágico;DJ Íntimo do Chama;225117;153;
+619;402234623352500;Sob o Sagrado Espelho;Projeto Digital;29456;291;
+620;402234623381400;Canção da Corrente;Místico Horizonte;234533;276;
+621;402234623409800;Canção da Caminho;Escuro Relâmpago;254490;169;
+622;402234623442300;Sob o Doce Fogo;Cósmico Caminho;278896;184;
+623;402234623469600;Entre Chama e Profundo;Banda Noturno;328772;65;
+624;402234623496600;Canção da Luz;Banda Bravio;242240;291;
+625;402234623524400;Sob o Distante Olhar;Coletivo Ruidoso;351856;167;
+626;402234623554500;Chuva do Sombrio - Demo;Coletivo Sônico;99877;105;
+627;402234623584500;Entre Estrela e Brilhante - Demo;Banda Acústico;109983;211;
+628;402234623613100;Relâmpago Sombrio - Acústico;DJ Vibrante do Mar;302777;161;
+629;402234623662700;No Som do Amargo;Os Vibrantes;478509;112;
+630;402234623705300;Canção da Coração;Os Solars;405688;228;
+631;402234623743400;Entre Vento e Velho;Coletivo Solar;322735;248;
+632;402234623773000;Entre Chuva e Vermelho;DJ Acústico do Sombra;327343;86;
+633;402234623801000;Entre Estrela e Distante - Vol. 2;Ruidoso Silêncio;497566;101;
+634;402234623849900;No Chuva do Azul;Digital Fronteira;476865;91;
+635;402234623879600;Entre Caminho e Calmo - Ao Vivo;Estelar Flor;19721;228;
+636;402234623909200;Entre Espelho e Sombrio;Coletivo Solar;140682;351;
+637;402234623939400;No Segredo do Distante;DJ Íntimo do Luz;10917;76;
+638;402234623967200;Entre Sombra e Encantado;Coletivo Sônico;265452;165;
+639;402234623997700;Entre Sol e Instável;Os Cósmico;364041;186;
+640;402234624027500;Mar Solitário;Os Bravios;252211;262;
+641;402234624073100;Sob o Somente Tempo;Os Estelars;466686;310;
+642;402234624103000;Espelho Azul;Coletivo Solar;407646;309;
+643;402234624143800;Segredo Brilhante;DJ Cósmico do Silêncio;353493;243;
+644;402234624183900;Sob o Somente Abismo;Coletivo Azul;396883;320;
+645;402234624220200;Ecos Etéreo;DJ Vibrante do Chama;39085;169;
+646;402234624250700;No Sol do Cego;DJ Sublime do Caminho;43407;92;
+647;402234624279100;Horizonte Doce;Estelar Grito;197679;316;
+648;402234624308200;No Mar do Sagrado - Vol. 2;Íntimo Espelho;111595;344;
+649;402234624343300;Sob o Sagrado Corrente;Coletivo Urbano;268103;148;
+650;402234624384700;No Destino do Cruel - Acústico;Noturno Caminho;189028;256;
+651;402234624442200;No Voz do Cego;Vibrante Chuva;435689;92;
+652;402234624484800;Grito do Profundo;Os Íntimos;141191;114;
+653;402234624529100;Relâmpago Profundo - Extended;Projeto Solar;381488;171;
+654;402234624561100;Entre Sombra e Mortal - Remix;Os Íntimos;208286;169;
+655;402234624590200;Chuva Vivo - Demo;Místico Sombra;48301;251;
+656;402234624618500;Raio do Infinito;Coletivo Estelar;353254;300;
+657;402234624646200;Segredo Mágico;Os Atômicos;466927;137;
+658;402234624672700;No Sonho do Profundo;Coletivo Estelar;390112;348;
+659;402234624699800;Canção da Memória - Demo;Os Íntimos;44426;249;
+660;402234624729800;Silêncio Rápido;DJ Digital do Destino;377759;120;
+661;402234624759200;Grito Vivo;Coletivo Cósmico;104442;272;
+662;402234624787300;Entre Folha e Cego;Psicodélico Relâmpago;182345;278;
+663;402234624816300;Canção da Alma;Solar Flor;229233;124;
+664;402234624846100;Memória do Azul;Coletivo Invisível;357466;274;
+665;402234624873000;Sob o Vivo Miragem - Demo;Coletivo Estelar;13585;215;
+666;402234624902200;Canção da Horizonte - 2025;Urbano Voz;119931;138;
+667;402234624932700;Entre Mar e Infinito - Instrumental;DJ Sônico do Destino;462818;317;
+668;402234624978200;Canção da Corrente;DJ Místico do Caminho;236509;278;
+669;402234625006900;Entre Chama e Brilhante - Instrumental;DJ Vibrante do Tempo;29094;132;
+670;402234625037200;Entre Alma e Partido;Digital Coração;479574;211;
+671;402234625066200;No Luz do Cruel;Coletivo Invisível;3691;123;
+672;402234625093100;Brisa do Doce;Banda Azul;387816;333;
+673;402234625121400;Caminho Brilhante;Projeto Psicodélico;476789;354;
+674;402234625159000;Destino Brilhante;Coletivo Escuro;321047;294;
+675;402234625190300;No Destino do Somente;Os Noturnos;74564;110;
+676;402234625222400;Canção da Noite;Solar Fronteira;197033;240;
+677;402234625249400;Memória do Vivo - Remix;Coletivo Sublime;363811;263;
+678;402234625278800;Grito do Brilhante;Coletivo Cósmico;78479;90;
+679;402234625305800;Canção da Luz;Os Íntimos;159471;302;
+680;402234625347900;Corrente do Solitário;DJ Estelar do Terra;46290;324;
+681;402234625376900;Entre Noite e Brilhante - Extended;Coletivo Atômico;477395;64;
+682;402234625405300;Corrente do Solitário;Os Sublimes;408440;216;
+683;402234625435000;No Silêncio do Mortal;DJ Digital;476620;175;
+684;402234625464100;Canção da Tempo;Os Íntimos;390810;279;
+685;402234625494200;Entre Tempo e Doce;Coletivo Urbano;177327;325;
+686;402234625521900;Voz do Partido;Sublime Olhar;128341;215;
+687;402234625549100;Céu do Negro;Senhor Urbano;45831;234;
+688;402234625577100;Vento do Vivo;DJ Ruidoso do Silêncio;491936;161;
+689;402234625606400;Entre Terra e Silencioso - Ao Vivo;Cósmico Fogo;15656;137;
+690;402234625635000;Entre Vento e Infinito;Os Azuls;498238;161;
+691;402234625679500;Entre Silêncio e Vazio;Os Fantasmas;374909;176;
+692;402234625707400;Sob o Somente Caminho - Demo;Cósmico Voz;340687;268;
+693;402234625738000;Sob o Etéreo Ecos;Senhor Escuro;209797;155;
+694;402234625765800;Miragem do Vermelho;Os Cósmicos;109727;117;
+695;402234625793600;Entre Fogo e Sombrio - Remix;Os Solars;433418;144;
+696;402234625825400;Entre Sonho e Frio;Banda Noturno;431450;276;
+697;402234625852800;No Caminho do Vazio;Os Sublimes;302727;102;
+698;402234625880800;Sob o Rápido Silêncio - Vol. 2;Os Sônicos;62575;216;
+699;402234625909000;Coração Sagrado;Coletivo Estelar;25869;204;
+700;402234625935000;Folha do Sombrio - Demo;Vibrante Sonho;167147;234;
+701;402234625968300;Sob o Perdido Chama;Coletivo Digital;257816;272;
+702;402234625995200;Canção da Memória;Coletivo Íntimo;455854;320;
+703;402234626033200;Entre Silêncio e Calmo - Remix;Os Sônicos;428877;171;
+704;402234626066100;No Horizonte do Vivo;Escuro Vento;169507;91;
+705;402234626095200;Entre Folha e Negro;Coletivo Invisível;267534;349;
+706;402234626129000;Muralha do Encantado;Os Estelars;324668;125;
+707;402234626158300;Sonho do Partido;Os Atômicos;412843;180;
+708;402234626184700;Canção da Relâmpago - 2025;Atômico Sol;485300;242;
+709;402234626213000;Grito do Solitário;Vibrante Muralha;181244;153;
+710;402234626240800;Fogo Solitário;Coletivo Místico;147228;305;
+711;402234626266900;Entre Chuva e Frio - Remix;Banda Escuro;54418;184;
+712;402234626296500;No Verdade do Frio - Acústico;Orquestra Cósmico;149144;289;
+713;402234626327600;Folha do Brilhante;Atômico Luz;481501;318;
+714;402234626359900;Corrente Calmo - Ao Vivo;Coletivo Fantasma;275851;90;
+715;402234626387200;Sob o Brilhante Horizonte;DJ Sublime do Raio;295213;258;
+716;402234626413700;Olhar Brilhante;Os Cósmico;148425;65;
+717;402234626438300;No Memória do Encantado;Grupo Sônico;332833;268;
+718;402234626464300;Grito do Sagrado;Fantasma Chuva;215192;188;
+719;402234626491500;Entre Chama e Silencioso;Coletivo Escuro;358291;229;
+720;402234626515400;No Chuva do Cego - Ao Vivo;Coletivo Atômico;198351;99;
+721;402234626541400;Sob o Mortal Noite;Coletivo Bravio;106733;218;
+722;402234626565300;Corrente do Calmo;Os Cósmicos;246388;63;
+723;402234626590400;Sob o Solitário Voz;DJ Digital do Flor;388381;167;
+724;402234626617600;Brisa do Vazio - Instrumental;DJ Bravio do Luz;209955;201;
+725;402234626643600;Miragem do Vermelho;Os Místicos;107491;288;
+726;402234627158000;Entre Fronteira e Negro - Demo;Coletivo Atômico;142097;166;
+727;402234627235100;No Voz do Solitário;Coletivo Digital;467870;233;
+728;402234627265400;No Corrente do Partido;Senhor Cósmico;376346;302;
+729;402234627290200;Terra Profundo;Os Cósmicos;214775;331;
+730;402234627325000;Folha do Mágico;DJ Fantasma do Tempo;173369;290;
+731;402234627355700;Memória do Rápido - Versão Final;Azul Verdade;371705;83;
+732;402234627390300;Canção da Brisa;Coletivo Psicodélico;483516;74;
+733;402234627430800;Sob o Encantado Destino;Íntimo Sol;341012;64;
+734;402234627461300;No Voz do Vazio;Coletivo Acústico;474027;306;
+735;402234627485100;Entre Céu e Mortal - Extended;Banda Acústico;310303;256;
+736;402234627509900;Sombra Profundo - 2025;Coletivo Atômico;227274;316;
+737;402234627536200;No Horizonte do Frio;Vibrante Tempo;266803;263;
+738;402234627562200;Sob o Doce Brisa;Coletivo Atômico;253276;175;
+739;402234627587800;Chuva do Encantado - Acústico;Os Cósmicos;155092;106;
+740;402234627612400;Entre Folha e Sagrado - Extended;Coletivo Escuro;154156;244;
+741;402234627638000;Entre Segredo e Encantado;Íntimo Tempo;363872;240;
+742;402234627675200;Sonho do Sagrado;Os Sônicos;312783;64;
+743;402234627724500;Canção da Folha;Escuro Memória;131326;222;
+744;402234627749600;Coração Silencioso;Projeto Azul;44459;153;
+745;402234627771800;Sob o Profundo Flor;Grupo Azul;147663;181;
+746;402234627793400;No Vento do Azul;Os Psicodélicos;433053;313;
+747;402234627815900;No Grito do Mágico;Acústico Caminho;182005;292;
+748;402234627840900;No Segredo do Doce;Projeto Digital;213882;165;
+749;402234627862800;No Segredo do Instável;Noturno Alma;340101;271;
+750;402234627885100;Canção da Muralha;DJ Sônico do Coração;286123;359;
+751;402234627909800;Canção da Voz;Coletivo Invisível;48025;87;
+752;402234627941600;No Luz do Silencioso - Ao Vivo;Invisível Destino;111098;263;
+753;402234627970400;Canção da Olhar - Ao Vivo;DJ Azul do Destino;485177;169;
+754;402234627993500;Entre Luz e Sagrado;Senhor Escuro;387691;245;
+755;402234628014400;Canção da Brisa;Coletivo Íntimo;465333;160;
+756;402234628035600;No Estrela do Rápido;Estelar Grito;7006;73;
+757;402234628057400;No Fronteira do Cego;DJ Invisível do Espelho;59109;274;
+758;402234628080100;Espelho do Mágico;Escuro Sombra;448440;125;
+759;402234628101200;No Voz do Mortal;Coletivo Noturno;383003;203;
+760;402234628124000;Sob o Rápido Folha;Os Azuls;58597;105;
+761;402234628145400;No Ecos do Vazio;Os Solar;99923;81;
+762;402234628172300;No Noite do Mortal;Os Estelar;144847;93;
+763;402234628195400;Canção da Coração - Demo;DJ Azul do Espelho;25859;94;
+764;402234628218700;Ecos Doce;Coletivo Íntimo;1896;73;
+765;402234628241600;Sob o Distante Terra;Coletivo Digital;470237;273;
+766;402234628276900;Sob o Vermelho Fogo;Místico Miragem;445563;312;
+767;402234628296500;Entre Noite e Brilhante;Digital Mar;235933;109;
+768;402234628319400;Chuva Etéreo;Coletivo Azul;226091;252;
+769;402234628351000;Caminho do Frio - Acústico;DJ Solar do Chama;108872;281;
+770;402234628373200;Corrente do Infinito;Invisível Abismo;2327;192;
+771;402234628393300;Canção da Olhar;Senhor Sublime;49097;329;
+772;402234628412200;Canção da Horizonte;Coletivo Invisível;179575;84;
+773;402234628429900;No Fogo do Frio;Coletivo Bravio;211354;63;
+774;402234628448600;No Ecos do Cego;Coletivo Noturno;420108;256;
+775;402234628467400;Coração do Profundo - Ao Vivo;Coletivo Vibrante;228576;205;
+776;402234628488700;Corrente Sagrado;Coletivo Solar;331962;300;
+777;402234628508600;Sob o Encantado Verdade - Remix;Noturno Caminho;294982;295;
+778;402234628541100;Fronteira do Amargo;DJ Ruidoso do Som;484139;325;
+779;402234628561700;Abismo do Brilhante;Grupo Cósmico;104881;313;
+780;402234628580900;Canção da Voz - Ao Vivo;Os Ruidosos;273273;80;
+781;402234628602000;No Fronteira do Sombrio;Os Vibrantes;351128;270;
+782;402234628623700;Entre Fogo e Rápido;DJ Atômico;180359;201;
+783;402234628642900;Entre Brisa e Calmo;DJ Vibrante do Verdade;221273;160;
+784;402234628662600;Olhar Somente;DJ Íntimo do Abismo;278301;173;
+785;402234628680700;Canção da Silêncio;Fantasma Chuva;344881;82;
+786;402234628711400;Grito Distante;Solar Mar;159637;80;
+787;402234628729800;Sob o Velho Terra;DJ Cósmico do Areia;356214;203;
+788;402234628747700;Fronteira do Partido;Os Sônicos;496893;325;
+789;402234628767300;Entre Espelho e Profundo;Os Fantasmas;160737;112;
+790;402234628786700;No Chama do Doce;DJ Azul do Alma;16962;282;
+791;402234628804500;Entre Areia e Doce;Os Bravio;215597;181;
+792;402234628822600;Canção da Espelho;Coletivo Íntimo;80473;223;
+793;402234628839700;Sob o Vivo Muralha;Os Invisívels;125036;359;
+794;402234628857800;Sob o Profundo Sonho;Digital Sonho;418535;212;
+795;402234628875800;No Alma do Vermelho;DJ Sônico;422178;140;
+796;402234628894400;Alma Distante;Coletivo Cósmico;437233;351;
+797;402234628926600;No Vento do Frio;Os Bravio;372035;215;
+798;402234628946100;Canção da Terra;Coletivo Noturno;99742;346;
+799;402234628981400;Entre Relâmpago e Infinito;Os Místicos;72329;299;
+800;402234629000400;Relâmpago do Solitário;Coletivo Digital;275048;229;
+801;402234629018100;No Relâmpago do Velho;Coletivo Invisível;166031;237;
+802;402234629034100;Entre Tempo e Azul - Extended;Coletivo Noturno;152262;207;
+803;402234629070000;Sob o Sombrio Destino;DJ Fantasma do Vento;116562;250;
+804;402234629086600;Folha do Cruel;Os Fantasmas;470527;189;
+805;402234629104300;Canção da Luz;DJ Estelar do Tempo;406529;313;
+806;402234629124300;Entre Grito e Cego;Os Atômicos;479096;244;
+807;402234629142000;Canção da Grito;Coletivo Sublime;363507;300;
+808;402234629157400;Canção da Coração - Acústico;Os Fantasmas;240816;223;
+809;402234629174900;Sob o Vivo Terra;Orquestra Digital;255464;118;
+810;402234629192000;No Flor do Encantado - Extended;DJ Escuro do Caminho;89774;181;
+811;402234629214700;Canção da Grito;Coletivo Vibrante;192193;164;
+812;402234629232900;No Sol do Distante;Tribo Psicodélico;93801;290;
+813;402234629249900;Sob o Instável Estrela;MC Bravio;386461;169;
+814;402234629266900;Sob o Sagrado Muralha;Bravio Noite;291436;83;
+815;402234629282800;No Terra do Frio;Coletivo Acústico;63143;248;
+816;402234629300200;Sob o Perdido Areia;Banda Íntimo;20888;172;
+817;402234629316300;Canção da Abismo;Acústico Brisa;143827;318;
+818;402234629332200;Canção da Silêncio;Grupo Ruidoso;72221;300;
+819;402234629347700;Chuva do Vermelho;Escuro Relâmpago;448597;204;
+820;402234629363600;Abismo Azul;Coletivo Estelar;44257;170;
+821;402234629379700;No Caminho do Partido - Edit;Coletivo Íntimo;229684;153;
+822;402234629396900;Entre Raio e Mágico;Os Urbano;348365;132;
+823;402234629428300;Raio Profundo - Edit;DJ Psicodélico do Alma;396215;144;
+824;402234629448800;Canção da Verdade - Demo;Os Psicodélicos;278254;118;
+825;402234629466000;Sob o Mortal Espelho;Os Acústico;69446;158;
+826;402234629488200;Entre Alma e Cruel;DJ Cósmico do Ecos;350984;95;
+827;402234629504200;Entre Espelho e Vermelho;DJ Sônico;102234;239;
+828;402234629520000;Destino Negro;Ruidoso Som;161323;279;
+829;402234629534500;No Segredo do Azul;Os Noturnos;336014;80;
+830;402234629550500;Canção da Segredo;Os Vibrantes;326892;125;
+831;402234629565400;Olhar Negro - Edit;Coletivo Noturno;102420;228;
+832;402234629583300;Canção da Folha;DJ Invisível;211787;288;
+833;402234629598400;Canção da Estrela;DJ Sônico do Destino;138088;265;
+834;402234629613800;Sob o Cego Espelho;Os Ruidosos;133614;212;
+835;402234629629900;Alma Azul;Os Místicos;464791;232;
+836;402234629645100;Horizonte Azul;Grupo Estelar;114498;284;
+837;402234629669900;Tempo do Lento - Edit;DJ Digital do Horizonte;31375;213;
+838;402234629687500;Chuva Rápido;DJ Ruidoso do Relâmpago;10531;243;
+839;402234629704000;Canção da Coração;Os Digitals;194170;306;
+840;402234629719300;Entre Miragem e Frio;Os Estelars;488942;273;
+841;402234629736000;Canção da Areia - 2025;Os Vibrantes;197739;342;
+842;402234629751900;Raio Negro;DJ Fantasma do Fogo;151864;345;
+843;402234629772000;Abismo Doce;Coletivo Digital;45242;298;
+844;402234629787900;Chama Profundo;Bravio Fogo;329805;112;
+845;402234629805400;No Mar do Lento;Coletivo Noturno;167035;92;
+846;402234629822600;Entre Chuva e Mortal;Coletivo Acústico;495438;116;
+847;402234629839100;Entre Segredo e Mortal - Vol. 2;Azul Sol;37076;106;
+848;402234630243500;Sob o Vazio Sonho;Coletivo Escuro;188545;179;
+849;402234630310500;No Tempo do Velho;Os Digital;376350;74;
+850;402234630332300;Sob o Solitário Terra;Os Ruidosos;119421;176;
+851;402234630350800;Chama do Velho;Os Bravios;454469;266;
+852;402234630366600;Verdade do Solitário - Extended;Coletivo Bravio;212824;152;
+853;402234630384200;Canção da Flor;Coletivo Fantasma;315802;174;
+854;402234630399600;Tempo Doce - Acústico;DJ Íntimo do Folha;329977;258;
+855;402234630418200;Sob o Velho Memória - Vol. 2;Banda Ruidoso;241603;341;
+856;402234630437000;Raio Mágico;Os Azuls;325065;73;
+857;402234630453000;Destino Somente;Vibrante Folha;361358;159;
+858;402234630487500;Destino Brilhante;Orquestra Íntimo;97026;81;
+859;402234630503300;Entre Raio e Profundo;Psicodélico Areia;200720;240;
+860;402234630517800;Vento do Distante;Digital Voz;406013;300;
+861;402234630532800;Entre Estrela e Profundo;Os Escuros;53598;331;
+862;402234630550700;No Alma do Perdido;Os Solars;290225;63;
+863;402234630566200;Entre Terra e Lento;Os Escuros;97747;336;
+864;402234630581600;Verdade Doce;Os Urbanos;95170;226;
+865;402234630598300;Canção da Raio;Coletivo Fantasma;317731;217;
+866;402234630613100;No Ecos do Cego;MC Místico;409153;121;
+867;402234630627200;No Mar do Rápido;Coletivo Estelar;147438;351;
+868;402234630643100;Sob o Lento Silêncio;Coletivo Escuro;171182;160;
+869;402234630661500;Canção da Flor;Os Ruidoso;4718;328;
+870;402234630676400;Canção da Vento;Os Vibrante;82301;234;
+871;402234630691900;Canção da Vento;DJ Bravio do Folha;457773;252;
+872;402234630721400;Abismo Lento;Os Digitals;423539;199;
+873;402234630737200;Entre Segredo e Partido;Coletivo Sônico;177941;140;
+874;402234630751900;Entre Sonho e Azul;Coletivo Acústico;308139;117;
+875;402234630767800;Entre Mar e Azul;Íntimo Tempo;498853;342;
+876;402234630782300;Sob o Vivo Terra;Os Digitals;176921;304;
+877;402234630797100;No Espelho do Frio - Ao Vivo;DJ Sublime do Mar;411439;89;
+878;402234630812600;Entre Caminho e Sagrado;DJ Bravio do Voz;167060;273;
+879;402234630829700;Sob o Somente Sonho;DJ Ruidoso do Céu;478219;198;
+880;402234630844900;Entre Caminho e Cego;Coletivo Sublime;301276;92;
+881;402234630858600;Canção da Olhar;Coletivo Azul;11282;172;
+882;402234630890900;No Areia do Mortal;Senhor Solar;223692;289;
+883;402234630911700;Raio do Partido;MC Sublime;95634;173;
+884;402234630934100;Sob o Cego Folha - 2025;Os Fantasma;212478;259;
+885;402234630956900;Canção da Sol;Coletivo Sônico;462705;307;
+886;402234630977700;Entre Estrela e Cego;Psicodélico Som;332384;267;
+887;402234630999500;No Destino do Etéreo;DJ Escuro do Brisa;321035;249;
+888;402234631026500;Entre Olhar e Sombrio;DJ Acústico do Abismo;137220;355;
+889;402234631054800;Sob o Vivo Sol - Versão Final;Os Atômicos;244589;350;
+890;402234631081100;Canção da Segredo;Coletivo Solar;343857;244;
+891;402234631107500;Canção da Coração - Demo;Grupo Noturno;335985;330;
+892;402234631132500;Entre Fronteira e Frio;Os Sônicos;336291;101;
+893;402234631180000;Verdade Mágico;Os Escuros;438243;136;
+894;402234631205300;Relâmpago Distante;Os Noturnos;395534;125;
+895;402234631229600;Sob o Distante Fogo;DJ Místico do Corrente;479677;348;
+896;402234631256500;Alma do Profundo;DJ Fantasma do Chuva;269402;305;
+897;402234631295100;Ecos do Somente - Demo;Coletivo Íntimo;287460;65;
+898;402234631320700;No Miragem do Vermelho - 2025;Escuro Voz;223072;99;
+899;402234631358900;No Silêncio do Sombrio;Vibrante Sombra;247311;180;
+900;402234631381600;Sonho do Encantado;Estelar Céu;106339;320;
+901;402234631403600;No Caminho do Negro;DJ Sublime do Vento;84893;91;
+902;402234631427800;Canção da Grito;DJ Psicodélico do Fronteira;480584;220;
+903;402234631451100;No Céu do Mágico - Demo;Coletivo Solar;49852;139;
+904;402234631474400;Entre Abismo e Brilhante;Banda Escuro;62907;333;
+905;402234631497800;No Miragem do Perdido;Coletivo Íntimo;215975;162;
+906;402234631523900;Entre Vento e Distante;Coletivo Vibrante;237213;266;
+907;402234631548700;Destino Velho;Grupo Estelar;418038;210;
+908;402234631573900;Memória do Vivo;Coletivo Solar;450457;336;
+909;402234631598500;No Mar do Perdido - Acústico;Grupo Azul;349725;196;
+910;402234631623900;No Segredo do Sombrio;DJ Estelar do Noite;175485;280;
+911;402234631645200;Memória Sombrio;Coletivo Sublime;220369;117;
+912;402234631707600;Areia Solitário;Coletivo Digital;437988;335;
+913;402234631821300;Entre Estrela e Mortal;Vibrante Memória;420256;289;
+914;402234632266600;Canção da Som;Coletivo Azul;289719;68;
+915;402234632311300;Canção da Segredo;Os Escuros;486738;323;
+916;402234632335700;No Mar do Brilhante;Vibrante Mar;469927;345;
+917;402234632401000;Terra Amargo;Projeto Místico;137681;287;
+918;402234632432200;Chuva Mortal - Ao Vivo;Os Digitals;364625;148;
+919;402234632468400;Flor do Mortal;Os Místicos;463292;71;
+920;402234632498000;No Corrente do Frio;Os Sônicos;155951;294;
+921;402234632549300;No Fronteira do Lento - Vol. 2;Os Digitals;82966;315;
+922;402234632584200;Sob o Infinito Ecos - Instrumental;Os Noturnos;370794;280;
+923;402234632610400;No Memória do Cego;DJ Sônico do Olhar;204105;321;
+924;402234632632800;Canção da Olhar;Coletivo Acústico;156882;181;
+925;402234632653200;Sob o Mágico Voz;DJ Fantasma do Raio;76159;345;
+926;402234632674100;No Flor do Azul;Os Sônico;254816;297;
+927;402234632797300;Canção da Céu - Instrumental;Os Invisívels;51966;254;
+928;402234632856500;Estrela do Somente;Coletivo Escuro;124422;214;
+929;402234632877600;Canção da Chuva - Instrumental;Solar Sonho;284620;171;
+930;402234632902100;Entre Verdade e Calmo;DJ Vibrante do Coração;220292;194;
+931;402234632922200;Canção da Fronteira;Cósmico Ecos;403466;343;
+932;402234632941300;Sob o Vazio Flor;Acústico Grito;328049;168;
+933;402234632960600;Sob o Cruel Mar;Coletivo Escuro;32867;65;
+934;402234632979400;Voz Lento;DJ Psicodélico do Chama;435976;314;
+935;402234632998700;Sob o Cego Mar;Os Íntimos;334166;206;
+936;402234633134900;Flor do Partido;Coletivo Escuro;97505;187;
+937;402234633162100;Canção da Caminho - Vol. 2;MC Urbano;399320;87;
+938;402234633182600;No Som do Cego;DJ Escuro do Alma;240070;133;
+939;402234633203500;Sob o Vermelho Fogo;Coletivo Digital;387270;134;
+940;402234633225200;Miragem do Sombrio;Os Azuls;230854;236;
+941;402234633247000;Areia do Rápido;Íntimo Céu;354057;98;
+942;402234633282500;Chama Vermelho;Os Sônicos;139325;210;
+943;402234633304500;Entre Estrela e Azul;Cósmico Chama;496658;245;
+944;402234633326300;Sob o Azul Sol;Senhor Acústico;168942;313;
+945;402234633383000;Horizonte do Vivo;Atômico Som;133483;140;
+946;402234633411800;Entre Espelho e Brilhante;DJ Digital do Raio;52128;124;
+947;402234633437000;Folha Mágico;Ruidoso Terra;271574;281;
+948;402234633460100;No Memória do Partido - Remix;Os Íntimos;374457;202;
+949;402234633488100;Sob o Cego Brisa;Coletivo Digital;437436;218;
+950;402234633545400;No Sombra do Solitário;Urbano Segredo;385155;245;
+951;402234633572200;No Sol do Profundo;DJ Invisível;100271;274;
+952;402234633594900;Tempo do Doce;Coletivo Urbano;392409;272;
+953;402234633615300;No Folha do Solitário - Ao Vivo;Os Azuls;206569;202;
+954;402234633639000;No Segredo do Rápido;DJ Vibrante do Segredo;144832;240;
+955;402234633662700;Sob o Vivo Voz;DJ Psicodélico do Silêncio;238706;120;
+956;402234633683900;Entre Segredo e Velho;Os Místicos;106095;264;
+957;402234633706000;Sob o Somente Luz;Coletivo Místico;124901;349;
+958;402234633731100;Sob o Cruel Vento;Coletivo Invisível;163108;292;
+959;402234633825500;Sob o Perdido Estrela;Os Estelars;135215;329;
+960;402234633862000;Horizonte do Cruel;DJ Íntimo do Verdade;200414;350;
+961;402234633886100;Sob o Instável Chama;Coletivo Noturno;223010;99;
+962;402234633906800;Sob o Calmo Espelho - 2025;Coletivo Escuro;154958;158;
+963;402234633927500;Canção da Destino;Senhor Escuro;467366;338;
+964;402234633948700;Alma do Etéreo - Acústico;Atômico Relâmpago;155230;275;
+965;402234633973000;Entre Areia e Brilhante;Senhor Vibrante;312315;236;
+966;402234634419500;Canção da Relâmpago;Sublime Sol;59816;322;
+967;402234634502800;Relâmpago do Frio - Vol. 2;Os Íntimos;33588;119;
+968;402234634594700;Entre Destino e Distante - Ao Vivo;Os Psicodélicos;398899;170;
+969;402234634624200;Sob o Mágico Areia;DJ Psicodélico do Ecos;364615;256;
+970;402234635730000;Estrela do Infinito - Versão Final;Escuro Brisa;186286;152;
+971;402234635907300;No Mar do Profundo;Coletivo Acústico;312123;359;
+972;402234635971100;No Segredo do Doce;Coletivo Urbano;34215;337;
+973;402234636011600;Chuva Distante - Extended;Os Psicodélicos;484554;156;
+974;402234636065400;Olhar Vivo;Coletivo Íntimo;143555;108;
+975;402234636098500;Sob o Partido Vento;Coletivo Cósmico;247637;288;
+976;402234636124900;Horizonte do Sombrio - Demo;Orquestra Azul;227524;132;
+977;402234636149700;Canção da Corrente;MC Urbano;63719;249;
+978;402234636169300;No Abismo do Partido - Vol. 2;Bravio Silêncio;125984;332;
+979;402234636238200;Sob o Distante Coração;Os Acústico;365364;64;
+980;402234636277600;Sob o Sagrado Segredo;DJ Psicodélico do Destino;447699;316;
+981;402234636420000;Sob o Calmo Caminho - Acústico;Os Psicodélico;451375;226;
+982;402234636536800;No Muralha do Distante;Atômico Tempo;402475;319;
+983;402234636565700;Sob o Calmo Chuva - Instrumental;DJ Sônico do Vento;10335;234;
+984;402234636590700;Entre Coração e Mágico - Vol. 2;Cósmico Silêncio;67894;195;
+985;402234636614000;No Brisa do Partido;Banda Ruidoso;392217;196;
+986;402234636635300;Entre Sol e Lento - Ao Vivo;Os Íntimo;456989;200;
+987;402234636654800;Sob o Encantado Relâmpago;Coletivo Azul;307135;189;
+988;402234636674600;Raio Velho - Acústico;Coletivo Místico;116573;310;
+989;402234636693200;Sob o Somente Terra;Coletivo Escuro;388214;177;
+990;402234636711700;No Brisa do Instável;Tribo Invisível;400110;101;
+991;402234636729700;Caminho Instável - Versão Final;Coletivo Atômico;391900;359;
+992;402234636750600;Relâmpago Etéreo;DJ Ruidoso do Vento;281197;266;
+993;402234636772200;Entre Noite e Etéreo;Os Íntimos;210766;223;
+994;402234636796900;Terra do Sagrado - Versão Final;Coletivo Sublime;80477;181;
+995;402234636815400;Sob o Distante Chuva;DJ Urbano do Ecos;499754;220;
+996;402234636834500;Coração Etéreo;DJ Cósmico do Sombra;142550;190;
+997;402234636853000;No Luz do Perdido;Azul Abismo;472550;239;
+998;402234636875200;Verdade do Vivo - Demo;Os Escuro;51454;306;
+999;402234636890100;Sob o Silencioso Silêncio;DJ Digital do Som;75285;306;
+1000;402234636907100;Miragem Vivo;Bravio Miragem;51543;329;
