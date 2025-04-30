@@ -55,7 +55,7 @@ public class Entrada {
             System.out.println("----- Pesquisar Músicas -----");
             System.out.println("Escolha um método de comparação:");
             System.out.println("1- Comparação padrão (por index)");
-            System.out.println("2- Comparação aprimorada (por nome e autor)");
+            System.out.println("2- Comparação aprimorada (por nome)");
             System.out.println("3- Sair");
             int tipoComparacao = s.nextInt();
             s.nextLine(); 

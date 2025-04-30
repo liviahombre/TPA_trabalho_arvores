@@ -18,6 +18,10 @@ public class No<T> {
         return valor;
     }
 
+    protected void setValor(T valor) {
+        this.valor = valor;
+    }
+
     public No<T> getEsquerda() {
         return esquerda;
     }
