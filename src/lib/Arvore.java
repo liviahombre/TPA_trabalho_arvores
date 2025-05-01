@@ -24,14 +24,14 @@ public class Arvore<T> extends AbstractArvore<T> {
         if (comparador.compare(novoNo.getValor(), atual.getValor()) < 0) {
             if (atual.getEsquerda() == null) {
                 atual.setEsquerda(novoNo);
-                novoNo.setPai(atual);
+                // novoNo.setPai(atual);
             } else {
                 adicionarRecursivo(atual.getEsquerda(), novoNo);
             }
         } else {
             if (atual.getDireita() == null) {
                 atual.setDireita(novoNo);
-                novoNo.setPai(atual);
+                // novoNo.setPai(atual);
             } else {
                 adicionarRecursivo(atual.getDireita(), novoNo);
             }

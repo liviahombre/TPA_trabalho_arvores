@@ -85,11 +85,13 @@ public abstract class AbstractArvore<T> implements IArvoreBinaria<T> {
 
         if (comparacao == 0) {
             No<T> noRemovido = no;
+            System.out.println("\nAchei\n" + noRemovido.getValor() + "\n\n\n");
 
             // Caso 1: Nó sem filhos (folha)
             // Remover o nó
             if (no.getEsquerda() == null && no.getDireita() == null) {
                 no = null;
+                System.out.println("\nCaso 1\n");
                 return noRemovido;
             }
 
@@ -98,8 +100,10 @@ public abstract class AbstractArvore<T> implements IArvoreBinaria<T> {
             // Remover o maior nó da sub árvore esquerda (Caso 1 ou Caso 2, certamente)
             // Verificado antes para facilitar a verificação do caso 2
 
-            if (no.getEsquerda() != null && no.getDireita() != null) {
+            else if (no.getEsquerda() != null && no.getDireita() != null) {
                 No<T> maior = encontrarMaiorNo(no.getEsquerda());
+
+                System.out.println("\nCaso 3\n");
                 
                 removerRecursivo(no.getEsquerda(), maior.getValor());
 
@@ -112,8 +116,10 @@ public abstract class AbstractArvore<T> implements IArvoreBinaria<T> {
             // Filho assume o lugar do nó removido
 
             // Filho na esquerda
-            if (no.getEsquerda() != null) {
+            else if (no.getEsquerda() != null) {
                 no.setValor(no.getEsquerda().getValor());
+
+                System.out.println("\nCaso 2 Esq\n");
 
                 no.setEsquerda(no.getEsquerda().getEsquerda()); //Copia a referencia da esquerda do filho a esquerda
                 no.setDireita(no.getEsquerda().getDireita()); //Copia a referencia da direita do filho a esquerda
@@ -122,15 +128,19 @@ public abstract class AbstractArvore<T> implements IArvoreBinaria<T> {
             }
 
             // Filho na direita (ultimo caso possivel)
-            no.setValor(no.getDireita().getValor());
+            else {
+                no.setValor(no.getDireita().getValor());
 
-            no.setEsquerda(no.getDireita().getEsquerda()); //Copia a referencia da esquerda do filho a direita
-            no.setDireita(no.getDireita().getDireita()); // Copia a referencia da direita do filho a direita
+                System.out.println("\nCaso 2 Dir\n");
 
-            return noRemovido;
+                no.setEsquerda(no.getDireita().getEsquerda()); //Copia a referencia da esquerda do filho a direita
+                no.setDireita(no.getDireita().getDireita()); // Copia a referencia da direita do filho a direita
 
+                return noRemovido;
+            }
         } else if (comparacao < 0) {
             return removerRecursivo(no.getEsquerda(), valor);
+
         } else {
             return removerRecursivo(no.getDireita(), valor);
         }

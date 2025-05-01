@@ -1,11 +1,11 @@
 10
-1;1285445638112900;No Tempo do Frio;Íntimo Corrente;453466;275;
-2;1285445663574000;Coração do Infinito;DJ Cósmico do Folha;492730;310;
-3;1285445663996400;Sonho Distante;Coletivo Vibrante;341448;157;
-4;1285445664612100;Sonho Doce;DJ Urbano do Coração;427705;355;
-5;1285445664649300;Muralha Sombrio - Versão Final;Bravio Brisa;76142;78;
-6;1285445664679700;Sob o Sagrado Folha - Instrumental;Coletivo Cósmico;174320;203;
-7;1285445664843200;Destino Somente;Coletivo Acústico;95648;285;
-8;1285445664864900;Espelho do Distante - Extended;Acústico Coração;194052;302;
-9;1285445664887500;Canção da Silêncio;Coletivo Acústico;413989;92;
-10;1285445664934800;Entre Corrente e Negro;Coletivo Íntimo;181843;333;
+1;34505066781800;Sonho de Doce;Os Noturnos;278246;243;
+2;34505099185200;Silêncio de Sombrio;DJ Estelar do Folha;348833;312;
+3;34505099342200;Sol de Cruel;Os Místicos;470145;75;
+4;34505099365500;Vento de Vazio;Estelar Folha;272732;349;
+5;34505099456800;Som de Vivo;Os Atômicos;495986;205;
+6;34505099482600;Corrente de Cego;DJ Digital do Caminho;107500;163;
+7;34505099501700;Flor de Partido;DJ Vibrante do Sombra;284735;185;
+8;34505099522800;Estrela de Somente;DJ Invisível do Fronteira;491945;204;
+9;34505099540400;Olhar de Etéreo;DJ Cósmico do Sonho;499536;130;
+10;34505099556500;Olhar de Cruel;Os Acústicos;411784;351;
