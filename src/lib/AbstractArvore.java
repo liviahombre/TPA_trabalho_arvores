@@ -84,7 +84,7 @@ public abstract class AbstractArvore<T> implements IArvoreBinaria<T> {
         int comparacao = comparador.compare(valor, no.getValor());
 
         if (comparacao == 0) {
-            No<T> noRemovido = no;
+            No<T> noRemovido = new No<T>(no.getValor());
 
             // Caso 1: Nó sem filhos (folha)
             // Remover o nó
