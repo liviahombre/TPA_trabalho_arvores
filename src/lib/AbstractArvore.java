@@ -201,7 +201,7 @@ public abstract class AbstractArvore<T> implements IArvoreBinaria<T> {
         if (raiz == null) {
             return -1;
         }
-        return alturaRecursiva(raiz) - 1;
+        return alturaRecursiva(raiz);
     }
 
     /**
@@ -209,10 +209,17 @@ public abstract class AbstractArvore<T> implements IArvoreBinaria<T> {
      * @param no - Nó a partir do qual será calculada a altura da árvore.
      * @return A altura da árvore.
      */
+//    protected int alturaRecursiva(No<T> no) {
+//        int alturaEsquerda = no.getEsquerda() != null ? alturaRecursiva(no.getEsquerda()) : 1;
+//        int alturaDireita = no.getDireita() != null ? alturaRecursiva(no.getDireita()) : 1;
+//        return Math.max(alturaEsquerda, alturaDireita);
+//    }
+
     protected int alturaRecursiva(No<T> no) {
-        int alturaEsquerda = no.getEsquerda() != null ? alturaRecursiva(no.getEsquerda()) : 1;
-        int alturaDireita = no.getDireita() != null ? alturaRecursiva(no.getDireita()) : 1;
-        return Math.max(alturaEsquerda, alturaDireita);
+        if (no == null) return -1; // se o nó não existe, altura é -1
+        int alturaEsquerda = alturaRecursiva(no.getEsquerda());
+        int alturaDireita = alturaRecursiva(no.getDireita());
+        return 1 + Math.max(alturaEsquerda, alturaDireita);
     }
 
     @Override
