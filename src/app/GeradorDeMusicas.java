@@ -118,23 +118,23 @@ public class GeradorDeMusicas {
     private static String gerarNomeMusicaAleatorio(Random random) {
         String s1 = getAleatorio(substantivos, random);
         String s2 = getAleatorio(adjetivos, random);
-        // String sufixo = random.nextInt(4) == 0 ? getAleatorio(sufixosMusicais, random) : ""; // 25% de chance de ter sufixo
+        String sufixo = random.nextInt(4) == 0 ? getAleatorio(sufixosMusicais, random) : ""; // 25% de chance de ter sufixo
 
-        // int tipo = random.nextInt(6);
-        // String base;
-        // switch (tipo) {
-        //     case 0: base = s1 + " " + s2; break;
-        //     case 1: base = "Canção da " + s1; break;
-        //     case 2: base = "Entre " + s1 + " e " + s2; break;
-        //     case 3: base = "No " + s1 + " do " + s2; break;
-        //     case 4: base = "Sob o " + s2 + " " + s1; break;
-        //     case 5: base = s1 + " do " + s2; break;
-        //     default: base = s1 + " " + s2;
-        // }
+        int tipo = random.nextInt(6);
+        String base;
+        switch (tipo) {
+            case 0: base = s1 + " " + s2; break;
+            case 1: base = "Canção da " + s1; break;
+            case 2: base = "Entre " + s1 + " e " + s2; break;
+            case 3: base = "No " + s1 + " do " + s2; break;
+            case 4: base = "Sob o " + s2 + " " + s1; break;
+            case 5: base = s1 + " do " + s2; break;
+            default: base = s1 + " " + s2;
+        }
 
-        return s1 + " de " + s2;
+        // return s1 + " de " + s2;
 
-        // return base + sufixo;
+        return base + sufixo;
     }
 
     private static String gerarArtistaAleatorio(Random random) {

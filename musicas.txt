@@ -1,11 +1,11 @@
 10
-1;35276173948700;Luz de Somente;Cósmico Olhar;400545;140;
-2;35276201838900;Verdade de Cruel;MC Vibrante;78668;182;
-3;35276201999700;Estrela de Encantado;Coletivo Noturno;3175;134;
-4;35276202487000;Luz de Instável;DJ Invisível do Flor;402824;139;
-5;35276202629000;Tempo de Doce;Os Atômicos;131215;74;
-6;35276204633600;Silêncio de Doce;Bravio Terra;152581;354;
-7;35276204660200;Brisa de Lento;Coletivo Acústico;456927;271;
-8;35276204680800;Flor de Solitário;Acústico Sol;158779;322;
-9;35276204700700;Raio de Vazio;Escuro Alma;457791;143;
-10;35276204719600;Estrela de Perdido;Escuro Silêncio;104415;305;
+1;3104174144916600;Sob o Sombrio Segredo - Versão Final;Os Fantasmas;243301;205;
+2;3104174169808000;Mar do Partido;Místico Flor;460894;207;
+3;3104174170012000;Entre Sombra e Solitário;DJ Sônico do Areia;107421;350;
+4;3104174170183700;Entre Memória e Mortal;Azul Ecos;431447;60;
+5;3104174170206000;Sob o Silencioso Destino - Versão Final;DJ Digital do Sol;412388;142;
+6;3104174170226100;Tempo do Cruel;Os Íntimos;175724;183;
+7;3104174170247900;Fogo Sagrado;DJ Fantasma do Noite;289866;155;
+8;3104174170362500;Sob o Cruel Brisa;Solar Silêncio;172995;321;
+9;3104174170383000;Sob o Infinito Destino;Íntimo Luz;87202;333;
+10;3104174170403500;Luz do Sombrio - 2025;Fantasma Alma;290259;288;
