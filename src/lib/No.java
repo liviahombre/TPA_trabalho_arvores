@@ -73,6 +73,18 @@ public class No<T> {
      *        o
      *        |\
      *         \
+     * 
+     * Homemzinho em ASCII (minecraft)
+     *       o
+     *     ⇱/|\
+     *      / \
+     * 
+     * Homemzinho em ASCII (Rei)
+     * 
+     *       ⏕
+     *       o
+     *      v|v
+     *      / \
      */
 
 }

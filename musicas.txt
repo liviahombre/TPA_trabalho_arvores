@@ -1,11 +1,11 @@
 10
-1;3104174144916600;Sob o Sombrio Segredo - Versão Final;Os Fantasmas;243301;205;
-2;3104174169808000;Mar do Partido;Místico Flor;460894;207;
-3;3104174170012000;Entre Sombra e Solitário;DJ Sônico do Areia;107421;350;
-4;3104174170183700;Entre Memória e Mortal;Azul Ecos;431447;60;
-5;3104174170206000;Sob o Silencioso Destino - Versão Final;DJ Digital do Sol;412388;142;
-6;3104174170226100;Tempo do Cruel;Os Íntimos;175724;183;
-7;3104174170247900;Fogo Sagrado;DJ Fantasma do Noite;289866;155;
-8;3104174170362500;Sob o Cruel Brisa;Solar Silêncio;172995;321;
-9;3104174170383000;Sob o Infinito Destino;Íntimo Luz;87202;333;
-10;3104174170403500;Luz do Sombrio - 2025;Fantasma Alma;290259;288;
+1;355278608594900;Segredo de Sagrado;Acústico Sombra;77649;328;
+2;355278622957500;Chuva de Distante;Tribo Noturno;332270;62;
+3;355278623037000;Olhar de Infinito;Projeto Azul;18843;152;
+4;355278623052600;Coração de Negro;Coletivo Ruidoso;292963;199;
+5;355278623378600;Caminho de Doce;Os Sublimes;86524;337;
+6;355278624522500;Verdade de Doce;Coletivo Noturno;238534;176;
+7;355278624536500;Caminho de Vermelho;Coletivo Escuro;383499;252;
+8;355278624558600;Areia de Azul;DJ Fantasma do Alma;10462;120;
+9;355278624636000;Alma de Encantado;DJ Noturno do Céu;43134;328;
+10;355278624654900;Horizonte de Profundo;Sônico Caminho;382482;133;

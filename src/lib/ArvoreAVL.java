@@ -14,13 +14,16 @@ public class ArvoreAVL<T> extends AbstractArvore<T> {
         
         No<T> novoNo = new No<>(novoValor);
 
+        // System.out.println("Adicionando...");
         if (raiz == null) {
             raiz = novoNo;
         } else {
             adicionarRecursivo(raiz, novoNo);
         }
 
+        // System.out.println("Balanceando...");
         balancearArvore();
+        // System.out.println("Balanceado");
 
     }
 
@@ -46,26 +49,39 @@ public class ArvoreAVL<T> extends AbstractArvore<T> {
 
         // Primeiro verifica o Fator de Balanceamento
         int fatorBalanceamento = calcularFatorBalanceamento(raiz);
+        // System.out.println("FB: " + fatorBalanceamento);
 
         if (fatorBalanceamento < -1 || fatorBalanceamento > 1) {
             if (fatorBalanceamento == 2) {
                 // Caso 1: Rotacao Esquerda
                 if (calcularFatorBalanceamento(raiz.getDireita()) > 0) {
-                    rotacaoEsquerda();
+                    raiz = rotacaoEsquerda(raiz);
+                    System.out.println("Caso 1");
                     balancearArvore();
                 }
-                // Caso 3: Rotacao Esquerda Direita
-                if (calcularFatorBalanceamento(raiz.getEsquerda()) < 0) {
-                    // rotacaoEsquerdaDireita()
+                // Caso 2: Rotacao Direita Esquerda
+                else if (calcularFatorBalanceamento(raiz.getDireita()) < 0) {
+                    raiz = rotacaoDireitaEsquerda(raiz);
+                    System.out.println("Caso 2");
+                    balancearArvore();
                 }
                 
             }
-            else if (fatorBalanceamento == -2 && calcularFatorBalanceamento(raiz.getEsquerda()) < 0) {
-                rotacaoDireita();
-                balancearArvore();
+            else if (fatorBalanceamento == -2) {
+                // Caso 3: Rotacao Direita
+                if (calcularFatorBalanceamento(raiz.getEsquerda()) < 0) {
+                    raiz = rotacaoDireita(raiz);
+                    System.out.println("Caso 3");
+                    balancearArvore();
+                }
+                // Caso 4: Rotacao Esquerda Direita
+                else if (calcularFatorBalanceamento(raiz.getEsquerda()) > 0) {
+                    raiz = rotacaoEsquerdaDireita(raiz);
+                    System.out.println("Caso 4");
+                    balancearArvore();
+                }
             }
         } 
-        return;
     }
 
     private int calcularFatorBalanceamento(No<T> raizSubarvore) {
@@ -75,29 +91,37 @@ public class ArvoreAVL<T> extends AbstractArvore<T> {
     }
 
     private int alturaSubarvore(No<T> raizSubarvore) {
-        if (raiz == null) {
-            return -1;
-        }
-        return alturaRecursiva(raiz);
+        return alturaRecursiva(raizSubarvore);
     }
 
-    private No<T> rotacaoEsquerda() {
-        No<T> fihDireita = raiz.getDireita();
-        raiz.setDireita(fihDireita.getEsquerda());
-        fihDireita.setEsquerda(raiz);
+    private No<T> rotacaoEsquerda(No<T> r) {
+        No<T> fihDireita = r.getDireita();
+        r.setDireita(fihDireita.getEsquerda());
+        fihDireita.setEsquerda(r);
         return fihDireita;
     }
 
-    private No<T> rotacaoDireita() {
-        No<T> fihEsquerda = raiz.getEsquerda();
-        raiz.setEsquerda(fihEsquerda.getDireita());
-        fihEsquerda.setDireita(raiz);
+    // r = 1
+    // fihD = 4
+    // r->direita = fihD->esquerda = null
+    // fihD->esquerda = 1
+    // 
+
+    private No<T> rotacaoDireita(No<T> r) {
+        No<T> fihEsquerda = r.getEsquerda();
+        r.setEsquerda(fihEsquerda.getDireita());
+        fihEsquerda.setDireita(r);
         return fihEsquerda;
     }
 
-    // private No<T> rotacaoEsquerdaDireita() {
-    //     raiz.setEsquerda(rotacaoEsquerda(raiz.getEsquerda()));
-    //     return rotacaoDireita();
-    // }
+    private No<T> rotacaoEsquerdaDireita(No<T> r) {
+        r.setEsquerda(rotacaoEsquerda(r.getEsquerda()));
+        return rotacaoDireita(r);
+    }
+
+    private No<T> rotacaoDireitaEsquerda(No<T> r) {
+        r.setDireita(rotacaoDireita(r.getDireita()));
+        return rotacaoEsquerda(r);
+    }
 
 }

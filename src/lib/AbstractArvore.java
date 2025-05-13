@@ -93,7 +93,7 @@ public abstract class AbstractArvore<T> implements IArvoreBinaria<T> {
                 return noRemovido;
             }
 
-            // Caso 3: Nó com 2 filhos
+            // Caso 2: Nó com 2 filhos
             // Maior valor da sub árvore esquerda assume o lugar do nó removido
             // Remover o maior nó da sub árvore esquerda (Caso 1 ou Caso 2, certamente)
             // Verificado antes para facilitar a verificação do caso 2
@@ -108,7 +108,7 @@ public abstract class AbstractArvore<T> implements IArvoreBinaria<T> {
                 return noRemovido;
             }
 
-            // Caso 2: Nó com um filho
+            // Caso 3: Nó com um filho
             // Filho assume o lugar do nó removido
 
             // Filho na esquerda
@@ -164,38 +164,6 @@ public abstract class AbstractArvore<T> implements IArvoreBinaria<T> {
         }
     }
 
-    // /**
-    //  * Método que remove o maior nó da árvore a partir do nó passado como parâmetro.
-    //  * @see #removerRecursivo(No, Object)
-    //  * @param no
-    //  * @return O maior nó removido.
-    //  */
-    // protected No<T> removerMaiorNo(No<T> no) {
-    //     if (no.getDireita() == null) {
-    //         No<T> aux = no;
-    //         no = null;
-    //         return aux;
-    //     } else {
-    //         return removerMaiorNo(no.getDireita());
-    //     }
-    // }
-
-    // /**
-    //  * Método que remove o menor nó da árvore a partir do nó passado como parâmetro.
-    //  * @see #removerRecursivo(No, Object)
-    //  * @param no
-    //  * @return O menor nó removido.
-    //  */
-    // protected No<T> removerMenorNo(No<T> no) {
-    //     if (no.getEsquerda() == null) {
-    //         No<T> aux = no;
-    //         no = null;
-    //         return aux;
-    //     } else {
-    //         return removerMenorNo(no.getEsquerda());
-    //     }
-    // }
-
     @Override
     public int altura() {
         if (raiz == null) {
@@ -203,14 +171,6 @@ public abstract class AbstractArvore<T> implements IArvoreBinaria<T> {
         }
         return alturaRecursiva(raiz);
     }
-
-
-//    protected int alturaRecursiva(No<T> no) {
-//        int alturaEsquerda = no.getEsquerda() != null ? alturaRecursiva(no.getEsquerda()) : 1;
-//        int alturaDireita = no.getDireita() != null ? alturaRecursiva(no.getDireita()) : 1;
-//        return Math.max(alturaEsquerda, alturaDireita);
-//    }
-
 
     /**
      * Método que retorna a altura da árvore a partir do nó passado como parâmetro.

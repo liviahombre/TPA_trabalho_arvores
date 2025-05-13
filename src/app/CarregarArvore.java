@@ -5,9 +5,10 @@ import java.io.File;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.util.Scanner;
+import lib.AbstractArvore;
 
 public class CarregarArvore {
-    public static void carregarMusicasArquivo(Arvore<Musica> arvore) {
+    public static void carregarMusicasArquivo(AbstractArvore<Musica> arvore) {
         try (Scanner scanner = new Scanner(new File("musicas.txt"), StandardCharsets.UTF_8)) {
             int quantidade = Integer.parseInt(scanner.nextLine()); // Lê a primeira linha
 

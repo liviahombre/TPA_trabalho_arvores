@@ -2,15 +2,22 @@ package app;
 
 import java.io.IOException;
 import java.util.Scanner;
-import lib.Arvore;
+// import lib.Arvore;
+import lib.ArvoreAVL;
 
 public class Entrada {
-    Arvore<Musica> arvore = new Arvore<>(new PrimaryComparator()); 
+    // Arvore<Musica> arvore = new Arvore<>(new PrimaryComparator()); 
+    ArvoreAVL<Musica> arvore = new ArvoreAVL<>(new PrimaryComparator());
 
     public void menu() {
         Scanner s = new Scanner(System.in);
 
-        limpartela();
+        // limpartela();
+
+        System.out.println(arvore.caminharEmNivel());
+        System.out.println(arvore.caminharEmOrdem());
+        System.out.println(arvore.altura());
+
         System.out.println("Bem-vindo ao Spotify falsificado!");
         System.out.println("1- Adicionar Música");
         System.out.println("2- Pesquisar Músicas");
