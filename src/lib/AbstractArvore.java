@@ -19,56 +19,26 @@ public abstract class AbstractArvore<T> implements IArvoreBinaria<T> {
     public void setRaiz(No<T> raiz) {
         this.raiz = raiz;
     }
-
+    
     public abstract void adicionar(T novoValor);
 
-    @Override
-    public T pesquisar(T valor) {
-        return pesquisarRecursivo(raiz, valor);
-    } 
-
-    @Override
-    public T pesquisar(T valor, Comparator<T> novoComparador) {
-        return pesquisarRecursivo(raiz, valor, novoComparador);
-    }
-
-    protected T pesquisarRecursivo(No<T> no, T valor) {
-        if (no == null) {
-            return null;
-        }
-
-        int comparacao = comparador.compare(valor, no.getValor());
-
-        if (comparacao == 0) {
-            return no.getValor();
-        } else if (comparacao < 0) {
-            return pesquisarRecursivo(no.getEsquerda(), valor);
+    protected void adicionarRecursivo(No<T> atual, No<T> novoNo) {
+        if (comparador.compare(novoNo.getValor(), atual.getValor()) < 0) {
+            if (atual.getEsquerda() == null) {
+                atual.setEsquerda(novoNo);
+            } else {
+                adicionarRecursivo(atual.getEsquerda(), novoNo);
+            }
         } else {
-            return pesquisarRecursivo(no.getDireita(), valor);
+            if (atual.getDireita() == null) {
+                atual.setDireita(novoNo);
+            } else {
+                adicionarRecursivo(atual.getDireita(), novoNo);
+            }
         }
     }
-
-    protected T pesquisarRecursivo(No<T> no, T valor, Comparator<T> novoComparador) {
-        if (no == null) {
-            return null;
-        }
-
-        if (novoComparador.compare(valor, no.getValor()) == 0) return no.getValor();
-
-        T vEsq = pesquisarRecursivo(no.getEsquerda(), valor, novoComparador);
-        if (vEsq != null && novoComparador.compare(valor, vEsq) == 0) return vEsq;
-        
-        T vDir = pesquisarRecursivo(no.getDireita(), valor, novoComparador);
-        
-        return vDir;
-    }  
-
-    @Override
-    public T remover(T valor) {
-        No<T> elemRem = removerRecursivo(raiz, valor);
-        if (elemRem == null) return null;
-        return elemRem.getValor();
-    }
+    
+    public abstract T remover(T valor); 
 
     /**
      * Método que remove um nó da árvore a partir do nó passado como parâmetro.
@@ -137,6 +107,48 @@ public abstract class AbstractArvore<T> implements IArvoreBinaria<T> {
             return removerRecursivo(no.getDireita(), valor);
         }
     }
+    
+    @Override
+    public T pesquisar(T valor) {
+        return pesquisarRecursivo(raiz, valor);
+    } 
+
+    @Override
+    public T pesquisar(T valor, Comparator<T> novoComparador) {
+        return pesquisarRecursivo(raiz, valor, novoComparador);
+    }
+
+    protected T pesquisarRecursivo(No<T> no, T valor) {
+        if (no == null) {
+            return null;
+        }
+
+        int comparacao = comparador.compare(valor, no.getValor());
+
+        if (comparacao == 0) {
+            return no.getValor();
+        } else if (comparacao < 0) {
+            return pesquisarRecursivo(no.getEsquerda(), valor);
+        } else {
+            return pesquisarRecursivo(no.getDireita(), valor);
+        }
+    }
+
+    protected T pesquisarRecursivo(No<T> no, T valor, Comparator<T> novoComparador) {
+        if (no == null) {
+            return null;
+        }
+
+        if (novoComparador.compare(valor, no.getValor()) == 0) return no.getValor();
+
+        T vEsq = pesquisarRecursivo(no.getEsquerda(), valor, novoComparador);
+        if (vEsq != null && novoComparador.compare(valor, vEsq) == 0) return vEsq;
+        
+        T vDir = pesquisarRecursivo(no.getDireita(), valor, novoComparador);
+        
+        return vDir;
+    }  
+
 
     /**
      * Método que encontra o maior nó de uma árvore, dado o nó raiz dessa árvore (ou subarvore).

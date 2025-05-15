@@ -1,11 +1,11 @@
 10
-1;355278608594900;Segredo de Sagrado;Acústico Sombra;77649;328;
-2;355278622957500;Chuva de Distante;Tribo Noturno;332270;62;
-3;355278623037000;Olhar de Infinito;Projeto Azul;18843;152;
-4;355278623052600;Coração de Negro;Coletivo Ruidoso;292963;199;
-5;355278623378600;Caminho de Doce;Os Sublimes;86524;337;
-6;355278624522500;Verdade de Doce;Coletivo Noturno;238534;176;
-7;355278624536500;Caminho de Vermelho;Coletivo Escuro;383499;252;
-8;355278624558600;Areia de Azul;DJ Fantasma do Alma;10462;120;
-9;355278624636000;Alma de Encantado;DJ Noturno do Céu;43134;328;
-10;355278624654900;Horizonte de Profundo;Sônico Caminho;382482;133;
+1;177743530954300;Sob o Vazio Flor;Cósmico Tempo;316041;324;
+2;177743547033500;Luz do Perdido;Os Sublimes;360665;201;
+3;177743548727900;No Segredo do Mortal;Coletivo Urbano;417328;246;
+4;177743549089300;Canção da Olhar;Os Sublimes;100076;354;
+5;177743549138500;Segredo do Rápido;Coletivo Bravio;2996;343;
+6;177743549156300;Grito Sagrado;Orquestra Azul;50313;108;
+7;177743549309200;Sob o Silencioso Alma;Os Solars;481268;351;
+8;177743549327600;Sob o Cruel Silêncio;DJ Vibrante do Fronteira;436907;326;
+9;177743549416200;Fronteira do Mágico;DJ Urbano do Chuva;198061;135;
+10;177743549438000;Memória do Vivo;DJ Acústico do Folha;149141;255;

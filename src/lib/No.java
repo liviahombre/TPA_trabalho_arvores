@@ -5,13 +5,11 @@ public class No<T> {
     private T valor;
     private No<T> esquerda;
     private No<T> direita;
-    // private No<T> pai;
 
     public No(T valor) {
         this.valor = valor;
         this.esquerda = null;
         this.direita = null;
-        // this.pai = null;
     }
 
     public T getValor() {
@@ -30,10 +28,6 @@ public class No<T> {
         return direita;
     }
 
-    // public No<T> getPai() {
-    //     return pai;
-    // }
-
     public void setEsquerda(No<T> esquerda) {
         this.esquerda = esquerda;
     }
@@ -41,10 +35,6 @@ public class No<T> {
     public void setDireita(No<T> direita) {
         this.direita = direita;
     }
-
-    // public void setPai(No<T> pai) {
-    //     this.pai = pai;
-    // }
 
     /*
      *          __ 20 __

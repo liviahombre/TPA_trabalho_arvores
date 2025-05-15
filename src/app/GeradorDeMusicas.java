@@ -23,10 +23,6 @@ public class GeradorDeMusicas {
         "Distante", "Somente", "Mortal", "Vivo", "Cego", "Lento", "Amargo", "Encantado", "Azul", "Mágico", "Etéreo", "Instável"
     };
 
-    // static String[] sufixosMusicais = {
-    //     " - Remix", " - Ao Vivo", " - Acústico", " - Vol. 2", " - Demo",
-    //     " - Instrumental", " - Extended", " - Edit", " - Versão Final", " - 2025"
-    // };
 
     static String[] prefixosArtista = {"DJ", "MC", "Grupo", "Os", "Projeto", "Coletivo", "Orquestra", "Tribo", "Banda", "Senhor"};
     static String[] nomesArtista = {
@@ -118,23 +114,17 @@ public class GeradorDeMusicas {
     private static String gerarNomeMusicaAleatorio(Random random) {
         String s1 = getAleatorio(substantivos, random);
         String s2 = getAleatorio(adjetivos, random);
-        // String sufixo = random.nextInt(4) == 0 ? getAleatorio(sufixosMusicais, random) : ""; // 25% de chance de ter sufixo
 
-        // int tipo = random.nextInt(6);
-        // String base;
-        // switch (tipo) {
-        //     case 0: base = s1 + " " + s2; break;
-        //     case 1: base = "Canção da " + s1; break;
-        //     case 2: base = "Entre " + s1 + " e " + s2; break;
-        //     case 3: base = "No " + s1 + " do " + s2; break;
-        //     case 4: base = "Sob o " + s2 + " " + s1; break;
-        //     case 5: base = s1 + " do " + s2; break;
-        //     default: base = s1 + " " + s2;
-        // }
-
-        return s1 + " de " + s2;
-
-        // return base + sufixo;
+        int tipo = random.nextInt(6);
+        switch (tipo) {
+            case 0: return s1 + " " + s2; 
+            case 1: return "Canção da " + s1;
+            case 2: return "Entre " + s1 + " e " + s2;
+            case 3: return "No " + s1 + " do " + s2; 
+            case 4: return "Sob o " + s2 + " " + s1; 
+            case 5: return s1 + " do " + s2;
+            default: return s1 + " " + s2;
+        }
     }
 
     private static String gerarArtistaAleatorio(Random random) {

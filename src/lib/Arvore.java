@@ -20,22 +20,10 @@ public class Arvore<T> extends AbstractArvore<T> {
         }
     }
 
-    private void adicionarRecursivo(No<T> atual, No<T> novoNo) {
-        if (comparador.compare(novoNo.getValor(), atual.getValor()) < 0) {
-            if (atual.getEsquerda() == null) {
-                atual.setEsquerda(novoNo);
-                // novoNo.setPai(atual);
-            } else {
-                adicionarRecursivo(atual.getEsquerda(), novoNo);
-            }
-        } else {
-            if (atual.getDireita() == null) {
-                atual.setDireita(novoNo);
-                // novoNo.setPai(atual);
-            } else {
-                adicionarRecursivo(atual.getDireita(), novoNo);
-            }
-        }
+    @Override
+    public T remover(T valor) {
+        No<T> elemRem = removerRecursivo(raiz, valor);
+        if (elemRem == null) return null;
+        return elemRem.getValor();
     }
-
 }

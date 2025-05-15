@@ -1,6 +1,5 @@
 package app;
 
-import lib.Arvore;
 import java.io.File;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;

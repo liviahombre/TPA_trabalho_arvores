@@ -2,21 +2,17 @@ package app;
 
 import java.io.IOException;
 import java.util.Scanner;
-// import lib.Arvore;
+import lib.Arvore;
 import lib.ArvoreAVL;
+import lib.AbstractArvore;
 
 public class Entrada {
-    // Arvore<Musica> arvore = new Arvore<>(new PrimaryComparator()); 
-    ArvoreAVL<Musica> arvore = new ArvoreAVL<>(new PrimaryComparator());
+    AbstractArvore<Musica> arvore;
 
     public void menu() {
         Scanner s = new Scanner(System.in);
 
-        // limpartela();
-
-        System.out.println(arvore.caminharEmNivel());
-        System.out.println(arvore.caminharEmOrdem());
-        System.out.println(arvore.altura());
+        limpartela();
 
         System.out.println("Bem-vindo ao Spotify falsificado!");
         System.out.println("1- Adicionar Música");
@@ -177,7 +173,19 @@ public class Entrada {
     }
 
     public void inicializar() {
-        GeradorDeMusicas.gerarOrdenado(); 
+        Scanner s = new Scanner(System.in);
+        
+        GeradorDeMusicas.gerarOrdenado();
+
+        System.out.println("Você deseja usar arvore AVL?\n(S/N): ");
+        String op = s.nextLine();
+
+        if (op.toLowerCase().equals("s")) {
+            arvore = new ArvoreAVL<Musica>(new PrimaryComparator());
+        } else if (op.toLowerCase().equals(op)) {
+            arvore = new Arvore<Musica>(new PrimaryComparator());
+        }
+        
         CarregarArvore.carregarMusicasArquivo(arvore);
     }
 

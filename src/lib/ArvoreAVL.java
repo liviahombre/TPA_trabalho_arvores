@@ -10,46 +10,29 @@ public class ArvoreAVL<T> extends AbstractArvore<T> {
     @Override
     public void adicionar(T novoValor) {
         
-        // throw new UnsupportedOperationException("Não há suporte para esse método ainda.");
-        
         No<T> novoNo = new No<>(novoValor);
 
-        // System.out.println("Adicionando...");
         if (raiz == null) {
             raiz = novoNo;
         } else {
             adicionarRecursivo(raiz, novoNo);
         }
 
-        // System.out.println("Balanceando...");
         balancearArvore();
-        // System.out.println("Balanceado");
-
     }
 
-    private void adicionarRecursivo(No<T> atual, No<T> novoNo) {
-        if (comparador.compare(novoNo.getValor(), atual.getValor()) < 0) {
-            if (atual.getEsquerda() == null) {
-                atual.setEsquerda(novoNo);
-                // novoNo.setPai(atual);
-            } else {
-                adicionarRecursivo(atual.getEsquerda(), novoNo);
-            }
-        } else {
-            if (atual.getDireita() == null) {
-                atual.setDireita(novoNo);
-                // novoNo.setPai(atual);
-            } else {
-                adicionarRecursivo(atual.getDireita(), novoNo);
-            }
-        }
+    @Override
+    public T remover(T valor) {
+        No<T> elemRem = removerRecursivo(raiz, valor);
+        balancearArvore();
+        if (elemRem == null) return null;
+        return elemRem.getValor();
     }
 
     private void balancearArvore() {
 
         // Primeiro verifica o Fator de Balanceamento
         int fatorBalanceamento = calcularFatorBalanceamento(raiz);
-        // System.out.println("FB: " + fatorBalanceamento);
 
         if (fatorBalanceamento < -1 || fatorBalanceamento > 1) {
             if (fatorBalanceamento == 2) {
@@ -85,8 +68,8 @@ public class ArvoreAVL<T> extends AbstractArvore<T> {
     }
 
     private int calcularFatorBalanceamento(No<T> raizSubarvore) {
-        int alturaEsquerda = alturaSubarvore(raiz.getEsquerda());
-        int alturaDireita = alturaSubarvore(raiz.getDireita());
+        int alturaEsquerda = alturaSubarvore(raizSubarvore.getEsquerda());
+        int alturaDireita = alturaSubarvore(raizSubarvore.getDireita());
         return alturaDireita - alturaEsquerda;
     }
 
@@ -100,12 +83,6 @@ public class ArvoreAVL<T> extends AbstractArvore<T> {
         fihDireita.setEsquerda(r);
         return fihDireita;
     }
-
-    // r = 1
-    // fihD = 4
-    // r->direita = fihD->esquerda = null
-    // fihD->esquerda = 1
-    // 
 
     private No<T> rotacaoDireita(No<T> r) {
         No<T> fihEsquerda = r.getEsquerda();
