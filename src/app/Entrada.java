@@ -14,6 +14,8 @@ public class Entrada {
 
         limpartela();
 
+        System.out.println("Altura da Árvore: " + arvore.altura());
+
         System.out.println("Bem-vindo ao Spotify falsificado!");
         System.out.println("1- Adicionar Música");
         System.out.println("2- Pesquisar Músicas");

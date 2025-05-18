@@ -39,13 +39,11 @@ public class ArvoreAVL<T> extends AbstractArvore<T> {
                 // Caso 1: Rotacao Esquerda
                 if (calcularFatorBalanceamento(raiz.getDireita()) > 0) {
                     raiz = rotacaoEsquerda(raiz);
-                    System.out.println("Caso 1");
                     balancearArvore();
                 }
                 // Caso 2: Rotacao Direita Esquerda
                 else if (calcularFatorBalanceamento(raiz.getDireita()) < 0) {
                     raiz = rotacaoDireitaEsquerda(raiz);
-                    System.out.println("Caso 2");
                     balancearArvore();
                 }
                 
@@ -54,13 +52,11 @@ public class ArvoreAVL<T> extends AbstractArvore<T> {
                 // Caso 3: Rotacao Direita
                 if (calcularFatorBalanceamento(raiz.getEsquerda()) < 0) {
                     raiz = rotacaoDireita(raiz);
-                    System.out.println("Caso 3");
                     balancearArvore();
                 }
                 // Caso 4: Rotacao Esquerda Direita
                 else if (calcularFatorBalanceamento(raiz.getEsquerda()) > 0) {
                     raiz = rotacaoEsquerdaDireita(raiz);
-                    System.out.println("Caso 4");
                     balancearArvore();
                 }
             }
