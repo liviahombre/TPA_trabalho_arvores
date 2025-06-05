@@ -38,88 +38,80 @@ public abstract class AbstractArvore<T> implements IArvoreBinaria<T> {
         }
     }
     
-    public abstract T remover(T valor); 
+    @Override
+    public T remover(T valor) {
+        No<T> removido = removerRecursivo(raiz, valor);
+        if (removido != null && comparador.compare(raiz.getValor(), valor) == 0) {
+            // Atualiza a raiz caso o nó removido seja a raiz
+            if (raiz.getEsquerda() != null) {
+                No<T> maior = encontrarMaiorNo(raiz.getEsquerda());
+                raiz.setValor(maior.getValor());
+                raiz.setEsquerda(removerNo(raiz.getEsquerda(), maior.getValor()));
+            } else if (raiz.getDireita() != null) {
+                raiz = raiz.getDireita();
+            } else {
+                raiz = null;
+            }
+        }
+        return removido != null ? removido.getValor() : null;
+    }
 
     /**
-     * Método que remove um nó da árvore a partir do nó passado como parâmetro.
-     * @param no - Raiz da Árvore/Sub-Árvore.
-     * @param valor - Valor a ser removido.
-     * @return O nó removido.
-    */
+     * Remove recursivamente um nó da árvore.
+     * @param no Nó atual.
+     * @param valor Valor a ser removido.
+     * @return Nó removido.
+     */
     protected No<T> removerRecursivo(No<T> no, T valor) {
-        if (no == null) {
-            return null;
-        }
-        
+        if (no == null) return null;
+
         int comparacao = comparador.compare(valor, no.getValor());
-        int isRaiz = comparador.compare(valor, raiz.getValor());
 
         if (comparacao < 0) {
-            // Atualiza a subárvore esquerda
-            No<T> removido = removerRecursivo(no.getEsquerda(), valor);
-            // Atualiza a referência do filho
-            if (removido != null) {
-                if (no.getEsquerda() != null && comparador.compare(no.getEsquerda().getValor(), valor) == 0) {
-                    no.setEsquerda(null); // Caso folha
-                    if (isRaiz == 0) {
-                        setRaiz(no);
-                    }
-                } 
-            }
-            return removido;
+            no.setEsquerda(removerNo(no.getEsquerda(), valor));
+            return null;
         } else if (comparacao > 0) {
-            // Atualiza a subárvore direita
-            No<T> removido = removerRecursivo(no.getDireita(), valor);
-            // Atualiza a referência do filho
-            if (removido != null) {
-                if (no.getDireita() != null && comparador.compare(no.getDireita().getValor(), valor) == 0) {
-                    no.setDireita(null); // Caso folha
-                    if (isRaiz == 0) {
-                        setRaiz(no);
-                    }
-                }
-            }
-            return removido;
+            no.setDireita(removerNo(no.getDireita(), valor));
+            return null;
         } else {
-            No<T> noRemovido = new No<T>(no.getValor());
-    
-            // Caso 1: Folha
+            // Nó encontrado
             if (no.getEsquerda() == null && no.getDireita() == null) {
-                return noRemovido;
-            }
-    
-            // Caso 2: Dois filhos
-            if (no.getEsquerda() != null && no.getDireita() != null) {
+                return no;
+            } else if (no.getEsquerda() == null) {
+                return no.getDireita();
+            } else if (no.getDireita() == null) {
+                return no.getEsquerda();
+            } else {
                 No<T> maior = encontrarMaiorNo(no.getEsquerda());
                 no.setValor(maior.getValor());
-                removerRecursivo(no.getEsquerda(), maior.getValor());
-                if (isRaiz == 0) {
-                    setRaiz(no);
-                }
-                return noRemovido;
+                no.setEsquerda(removerNo(no.getEsquerda(), maior.getValor()));
+                return no;
             }
-    
-            // Caso 3: Um filho
-            if (no.getEsquerda() != null) {
-                no.setValor(no.getEsquerda().getValor());
-                no.setDireita(no.getEsquerda().getDireita());
-                no.setEsquerda(no.getEsquerda().getEsquerda());
-                if (isRaiz == 0) {
-                    setRaiz(no);
-                }
-            } else {
-                no.setValor(no.getDireita().getValor());
-                no.setEsquerda(no.getDireita().getEsquerda());
-                no.setDireita(no.getDireita().getDireita());
-                if (isRaiz == 0) {
-                    setRaiz(no);
-                }
-            }
-    
-            return noRemovido;
         }
     }
-    
+
+    /**
+     * Remove um nó e retorna a nova subárvore.
+     */
+    private No<T> removerNo(No<T> no, T valor) {
+        if (no == null) return null;
+        int comparacao = comparador.compare(valor, no.getValor());
+        if (comparacao < 0) {
+            no.setEsquerda(removerNo(no.getEsquerda(), valor));
+            return no;
+        } else if (comparacao > 0) {
+            no.setDireita(removerNo(no.getDireita(), valor));
+            return no;
+        } else {
+            if (no.getEsquerda() == null) return no.getDireita();
+            if (no.getDireita() == null) return no.getEsquerda();
+            No<T> maior = encontrarMaiorNo(no.getEsquerda());
+            no.setValor(maior.getValor());
+            no.setEsquerda(removerNo(no.getEsquerda(), maior.getValor()));
+            return no;
+        }
+    }
+
     /**
      * Método que encontra o maior nó de uma árvore, dado o nó raiz dessa árvore (ou subarvore).
      * @param no
@@ -279,5 +271,3 @@ public abstract class AbstractArvore<T> implements IArvoreBinaria<T> {
     }
 
 }
-
-// 
