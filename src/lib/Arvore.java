@@ -22,8 +22,8 @@ public class Arvore<T> extends AbstractArvore<T> {
 
     @Override
     public T remover(T valor) {
-        No<T> elemRem = removerRecursivo(raiz, valor);
-        if (elemRem == null) return null;
-        return elemRem.getValor();
+        this.ultimoRemovido = null; // Limpa antes de remover
+        raiz = removerRecursivo(raiz, valor);
+        return this.ultimoRemovido != null ? this.ultimoRemovido.getValor() : null;
     }
 }

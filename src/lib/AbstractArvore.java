@@ -5,6 +5,7 @@ import java.util.Comparator;
 public abstract class AbstractArvore<T> implements IArvoreBinaria<T> {
 
     protected No<T> raiz;
+    protected No<T> ultimoRemovido = null;
     protected Comparator<T> comparador;
 
     protected AbstractArvore(Comparator<T> comparador) {
@@ -40,27 +41,13 @@ public abstract class AbstractArvore<T> implements IArvoreBinaria<T> {
     
     @Override
     public T remover(T valor) {
-        No<T> removido = removerRecursivo(raiz, valor);
-        if (removido != null && comparador.compare(raiz.getValor(), valor) == 0) {
-            // Atualiza a raiz caso o nó removido seja a raiz
-            if (raiz.getEsquerda() != null) {
-                No<T> maior = encontrarMaiorNo(raiz.getEsquerda());
-                raiz.setValor(maior.getValor());
-                raiz.setEsquerda(removerNo(raiz.getEsquerda(), maior.getValor()));
-            } else if (raiz.getDireita() != null) {
-                raiz = raiz.getDireita();
-            } else {
-                raiz = null;
-            }
-        }
-        return removido != null ? removido.getValor() : null;
+        this.ultimoRemovido = null; // Limpa antes de remover
+        raiz = removerRecursivo(raiz, valor);
+        return this.ultimoRemovido != null ? this.ultimoRemovido.getValor() : null;
     }
 
     /**
-     * Remove recursivamente um nó da árvore.
-     * @param no Nó atual.
-     * @param valor Valor a ser removido.
-     * @return Nó removido.
+     * Remove recursivamente um nó da árvore e retorna a nova subárvore.
      */
     protected No<T> removerRecursivo(No<T> no, T valor) {
         if (no == null) return null;
@@ -68,48 +55,22 @@ public abstract class AbstractArvore<T> implements IArvoreBinaria<T> {
         int comparacao = comparador.compare(valor, no.getValor());
 
         if (comparacao < 0) {
-            no.setEsquerda(removerNo(no.getEsquerda(), valor));
-            return null;
+            no.setEsquerda(removerRecursivo(no.getEsquerda(), valor));
         } else if (comparacao > 0) {
-            no.setDireita(removerNo(no.getDireita(), valor));
-            return null;
+            no.setDireita(removerRecursivo(no.getDireita(), valor));
         } else {
             // Nó encontrado
+            this.ultimoRemovido = new No<>(no.getValor()); // Salva o nó removido (cópia dos dados)
             if (no.getEsquerda() == null && no.getDireita() == null) {
-                return no;
-            } else if (no.getEsquerda() == null) {
-                return no.getDireita();
-            } else if (no.getDireita() == null) {
-                return no.getEsquerda();
-            } else {
-                No<T> maior = encontrarMaiorNo(no.getEsquerda());
-                no.setValor(maior.getValor());
-                no.setEsquerda(removerNo(no.getEsquerda(), maior.getValor()));
-                return no;
+                return null; // Nó folha, simplesmente remove
             }
-        }
-    }
-
-    /**
-     * Remove um nó e retorna a nova subárvore.
-     */
-    private No<T> removerNo(No<T> no, T valor) {
-        if (no == null) return null;
-        int comparacao = comparador.compare(valor, no.getValor());
-        if (comparacao < 0) {
-            no.setEsquerda(removerNo(no.getEsquerda(), valor));
-            return no;
-        } else if (comparacao > 0) {
-            no.setDireita(removerNo(no.getDireita(), valor));
-            return no;
-        } else {
             if (no.getEsquerda() == null) return no.getDireita();
             if (no.getDireita() == null) return no.getEsquerda();
             No<T> maior = encontrarMaiorNo(no.getEsquerda());
             no.setValor(maior.getValor());
-            no.setEsquerda(removerNo(no.getEsquerda(), maior.getValor()));
-            return no;
+            no.setEsquerda(removerRecursivo(no.getEsquerda(), maior.getValor()));
         }
+        return no;
     }
 
     /**
@@ -148,6 +109,25 @@ public abstract class AbstractArvore<T> implements IArvoreBinaria<T> {
             return pesquisarRecursivo(no.getEsquerda(), valor);
         } else {
             return pesquisarRecursivo(no.getDireita(), valor);
+        }
+    }
+
+    /**
+     * Método auxiliar para pesquisar e retornar o nó (No<T>) correspondente ao valor.
+     */
+    protected No<T> pesquisarNo(No<T> no, T valor) {
+        if (no == null) {
+            return null;
+        }
+
+        int comparacao = comparador.compare(valor, no.getValor());
+
+        if (comparacao == 0) {
+            return no;
+        } else if (comparacao < 0) {
+            return pesquisarNo(no.getEsquerda(), valor);
+        } else {
+            return pesquisarNo(no.getDireita(), valor);
         }
     }
 
