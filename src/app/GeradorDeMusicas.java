@@ -7,7 +7,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.Random;
 
 public class GeradorDeMusicas {
-    private static final int NUM_REGISTROS = 3; // Você pode ajustar para 100000 se quiser
+    private static final int NUM_REGISTROS = 10; // Você pode ajustar para 100000 se quiser
     private static final String NOME_ARQUIVO = "musicas.txt";
 
     static String[] substantivos = {

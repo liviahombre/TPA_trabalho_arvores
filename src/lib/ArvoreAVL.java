@@ -17,8 +17,33 @@ public class ArvoreAVL<T> extends AbstractArvore<T> {
         } else {
             adicionarRecursivo(raiz, novoNo);
         }
+    }
 
-        balancearArvore();
+    @Override
+    protected void adicionarRecursivo(No<T> atual, No<T> novoNo) {
+        atual = super.adicionarRecursivoRetorno(atual, novoNo);
+
+        int fBAtual = 0;
+        int fBDir = 0;
+        int fBEsq = 0;
+
+        if (atual != null) {
+            fBAtual = calcularFatorBalanceamento(atual);
+            if (atual.getDireita() != null) fBDir = calcularFatorBalanceamento(atual.getDireita());
+            if (atual.getEsquerda() != null) fBEsq = calcularFatorBalanceamento(atual.getEsquerda());
+        }
+
+        System.out.println(fBAtual);
+        if (fBAtual > 1) {
+            if (fBDir > 0) atual = rotacaoEsquerda(atual);
+            
+            else atual = rotacaoDireitaEsquerda(atual);
+        }
+        else if (fBAtual < -1) {
+            if (fBEsq < 0) atual = rotacaoDireita(atual);
+
+            else atual = rotacaoEsquerdaDireita(atual);
+        }
     }
 
     @Override
@@ -30,6 +55,11 @@ public class ArvoreAVL<T> extends AbstractArvore<T> {
         }
         return this.ultimoRemovido != null ? this.ultimoRemovido.getValor() : null;
     }
+
+    // @Override
+    // public No<T> removerRecursivo(No<T> raiz, T valor) {
+        
+    // }
 
     private void balancearArvore() {
 

@@ -13,7 +13,7 @@ public class Entrada {
         try {
             Scanner s = new Scanner(System.in);
 
-            limpartela();
+            //limpartela();
 
             System.out.println("Bem-vindo ao Spotify falsificado!");
             System.out.println("1- Adicionar Música");
@@ -28,7 +28,7 @@ public class Entrada {
 
             switch (opcao) {
                 case 1:
-                    limpartela();
+                    //limpartela();
                 
                     System.out.println("---- Adicionar Música ----");
                     System.out.println("Digite o nome da música:");
@@ -44,7 +44,7 @@ public class Entrada {
                     Musica musica = new Musica(nomeMusica, nomeArtista, views, duracao);
                     arvore.adicionar(musica);
 
-                    limpartela();
+                    //limpartela();
 
                     System.out.println("Música adicionada com sucesso!\n");
                     System.out.println("---- Detalhes da Música ----");
@@ -149,6 +149,7 @@ public class Entrada {
                     System.out.println(arvore.caminharEmNivel());
                     System.out.println("---- Fim da lista ----");
                     System.out.println("Total de músicas: " + arvore.quantidadeNos());
+                    System.out.println("Altura da árvore: " + arvore.altura());
                     break;
 
                 case 5:
@@ -164,7 +165,7 @@ public class Entrada {
             String resposta = s.nextLine();
 
             if (resposta.equalsIgnoreCase("S")) {
-                limpartela();
+                //limpartela();
                 menu(); 
             } 
             else {
@@ -173,7 +174,7 @@ public class Entrada {
             }
         } catch (Exception e) {
             System.out.println(e.getMessage());
-            limpartela();
+            //limpartela();
             menu();
         }
     }        

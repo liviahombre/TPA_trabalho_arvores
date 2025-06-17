@@ -38,6 +38,24 @@ public abstract class AbstractArvore<T> implements IArvoreBinaria<T> {
             }
         }
     }
+
+    protected No<T> adicionarRecursivoRetorno(No<T> atual, No<T> novoNo) {
+        if (comparador.compare(novoNo.getValor(), atual.getValor()) < 0) {
+            if (atual.getEsquerda() == null) {
+                atual.setEsquerda(novoNo);
+            } else {
+                adicionarRecursivo(atual.getEsquerda(), novoNo);
+            }
+        } else {
+            if (atual.getDireita() == null) {
+                atual.setDireita(novoNo);
+            } else {
+                adicionarRecursivo(atual.getDireita(), novoNo);
+            }
+        }
+
+        return atual;
+    }
     
     @Override
     public T remover(T valor) {
